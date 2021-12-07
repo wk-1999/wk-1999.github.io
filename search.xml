@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>走过的Hexo弯路记录（一）</title>
+    <url>/2021/12/07/%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<p>今天在文章如何添加和分类上折腾了整天，记录一下吧。</p>
+<p>一、创建分类和标签的 index文件<br>在Git bash 中键入命令</p>
+<pre><code>分类：hexo new page categories
+标签：hexo new page tags
+</code></pre>
+<p>二、修改生成的对应 index文件</p>
+<pre><code>---
+title: 分类
+date: 2021-12-07 22:30:06 #注意date项
+type: &quot;categories&quot;
+layout: &quot;categories&quot;  
+---
+#tag同此
+</code></pre>
+<p>三、写文章时开头添加categories和tags代码</p>
+<pre><code>categories: &quot;学习&quot;
+tags: 
+        - Hexo
+        - 弯路
+</code></pre>
+<hr>
+<p>结束！</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>弯路</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/12/07/Hello%20world/</url>
     <content><![CDATA[<p>海内存知己，天涯若比邻！</p>
