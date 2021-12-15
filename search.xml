@@ -37,7 +37,7 @@
 <p>通过win+r输入cmd，再敲入安装命令</p>
 </blockquote>
 <p><strong>4、检查安装是否成功</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">node -v			# 检查npde.js</span><br><span class="line">git --version	# 检查Git</span><br><span class="line">hexo -v			# 检查hexo版本</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">node -v			# 检查npde.js</span><br><span class="line">git --version		# 检查Git</span><br><span class="line">hexo -v			# 检查hexo版本</span><br></pre></td></tr></table></figure>
 
 <blockquote>
 <p>均通过Git Bash检查</p>
@@ -46,7 +46,7 @@
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;Github邮箱&quot;</span><br></pre></td></tr></table></figure>
 
 <p><strong>2、进入 C:\Users\主机名.ssh 目录</strong></p>
-<p>复制 id_rsa.pub 里面的信息到Github的 <strong>SSH公钥</strong> 中</p>
+<p>复制 <strong>id_rsa.pub</strong> 里面的信息到Github的 <strong>SSH公钥</strong> 中</p>
 <p><strong>3、Git Bash绑定（直接键入命令）</strong></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;Github用户名&quot;</span><br><span class="line">git config --global user.email &quot;Github邮箱&quot;</span><br></pre></td></tr></table></figure>
 
@@ -67,7 +67,7 @@
 <p><strong>3、在项目根目录安装deploy插件</strong></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save	# 之后就可以使用 hexo d 远程部署</span><br></pre></td></tr></table></figure>
 
-<p><strong>4、修改项目配置文件/_config.yml</strong></p>
+<p><strong>4、修改项目配置文件 /_config.yml</strong></p>
 <hr>
 <p>结束！</p>
 ]]></content>
@@ -174,7 +174,7 @@
 <p>兴趣含有这些：</p>
 <pre><code>摄影、电影、音乐
 </code></pre>
-<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>​    <a href="mailto:&#119;&#101;&#110;&#46;&#107;&#64;&#x66;&#x6f;&#120;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;">&#119;&#101;&#110;&#46;&#107;&#64;&#x66;&#x6f;&#120;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#111;&#109;</a></p>
+<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>​    <a href="mailto:&#119;&#101;&#x6e;&#46;&#x6b;&#64;&#x66;&#x6f;&#x78;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#119;&#101;&#x6e;&#46;&#x6b;&#64;&#x66;&#x6f;&#x78;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;</a></p>
 ]]></content>
   </entry>
   <entry>
