@@ -174,7 +174,7 @@
 <p>兴趣含有这些：</p>
 <pre><code>摄影、电影、音乐
 </code></pre>
-<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>​    <a href="mailto:&#x77;&#x65;&#x6e;&#46;&#107;&#64;&#102;&#111;&#120;&#x6d;&#x61;&#105;&#108;&#46;&#99;&#111;&#109;">&#x77;&#x65;&#x6e;&#46;&#107;&#64;&#102;&#111;&#120;&#x6d;&#x61;&#105;&#108;&#46;&#99;&#111;&#109;</a></p>
+<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>​    <a href="mailto:&#x77;&#101;&#110;&#46;&#x6b;&#64;&#x66;&#x6f;&#120;&#x6d;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#x77;&#101;&#110;&#46;&#x6b;&#64;&#x66;&#x6f;&#120;&#x6d;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -298,9 +298,9 @@ tags:
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> 纪念——在铁塔湖畔的四年
 
 <blockquote>
-<p>Ps：图片过多，初次进入请耐心等待加载↑</p>
-<p>因Gitee图床限制，除微信外，其他程序打开会有部分图片无法显示</p>
+<p>Ps：</p>
 </blockquote>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">点击图片底部显示图片名</span><br><span class="line">因Gitee图床限制，除微信外，用其他应用打开有部分图片无法显示</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>摄影</category>
