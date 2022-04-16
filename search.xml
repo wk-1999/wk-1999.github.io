@@ -353,12 +353,12 @@
 <p>兴趣含有这些：</p>
 <pre><code>摄影、电影、音乐
 </code></pre>
-<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>​    <a href="mailto:&#119;&#x65;&#x6e;&#46;&#x6b;&#64;&#102;&#x6f;&#120;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#119;&#x65;&#x6e;&#46;&#x6b;&#64;&#102;&#x6f;&#120;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
+<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>​    <a href="mailto:&#x77;&#101;&#110;&#x2e;&#x6b;&#64;&#x66;&#111;&#120;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x77;&#101;&#110;&#x2e;&#x6b;&#64;&#x66;&#111;&#120;&#109;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
 ]]></content>
   </entry>
   <entry>
     <title>走过的Hexo弯路（一）</title>
-    <url>/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <url>/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89%20(copy)/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天在文章如何管理分类、添加标签上折腾了整天，记录一下吧。</p>
 <p>一、创建分类和标签的 index文件<br>在Git bash 中键入命令</p>
 <pre><code>分类：hexo new page categories
@@ -393,7 +393,7 @@ tags:
   </entry>
   <entry>
     <title>走过的Hexo弯路（一）</title>
-    <url>/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89%20(copy)/</url>
+    <url>/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天在文章如何管理分类、添加标签上折腾了整天，记录一下吧。</p>
 <p>一、创建分类和标签的 index文件<br>在Git bash 中键入命令</p>
 <pre><code>分类：hexo new page categories
