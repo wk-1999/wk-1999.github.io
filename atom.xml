@@ -6,7 +6,7 @@
   <link href="https://wk-1999.github.io/atom.xml" rel="self"/>
   
   <link href="https://wk-1999.github.io/"/>
-  <updated>2022-04-16T15:18:46.695Z</updated>
+  <updated>2022-04-20T05:43:31.000Z</updated>
   <id>https://wk-1999.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hexo搭建与维护（三）绑定域名</title>
+    <link href="https://wk-1999.github.io/2022/04/20/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%89%EF%BC%89%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/"/>
+    <id>https://wk-1999.github.io/2022/04/20/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%89%EF%BC%89%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</id>
+    <published>2022-04-20T05:21:16.000Z</published>
+    <updated>2022-04-20T05:43:31.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Hexo" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://wk-1999.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>【最近】扔掉一些，捡起一些</title>
     <link href="https://wk-1999.github.io/2022/04/16/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%89%94%E6%8E%89%E4%B8%80%E4%BA%9B%EF%BC%8C%E6%8D%A1%E8%B5%B7%E4%B8%80%E4%BA%9B/"/>
     <id>https://wk-1999.github.io/2022/04/16/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%89%94%E6%8E%89%E4%B8%80%E4%BA%9B%EF%BC%8C%E6%8D%A1%E8%B5%B7%E4%B8%80%E4%BA%9B/</id>
     <published>2022-04-16T11:41:05.000Z</published>
-    <updated>2022-04-16T15:18:46.695Z</updated>
+    <updated>2022-04-16T15:18:46.000Z</updated>
     
     
       
@@ -44,7 +71,7 @@
     <link href="https://wk-1999.github.io/2022/02/26/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B5%8A%E6%B0%B4%E6%BC%82%E6%B5%81%E3%80%8B/"/>
     <id>https://wk-1999.github.io/2022/02/26/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B5%8A%E6%B0%B4%E6%BC%82%E6%B5%81%E3%80%8B/</id>
     <published>2022-02-26T14:29:41.000Z</published>
-    <updated>2022-04-11T12:20:20.144Z</updated>
+    <updated>2022-04-11T12:20:20.000Z</updated>
     
     
       
@@ -71,7 +98,7 @@
     <link href="https://wk-1999.github.io/2022/02/25/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91%E4%B8%80%E4%BA%9B%E5%8F%A4%E4%BB%A3%E5%9C%B0%E7%90%86%E5%90%8D%E8%AF%8D/"/>
     <id>https://wk-1999.github.io/2022/02/25/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91%E4%B8%80%E4%BA%9B%E5%8F%A4%E4%BB%A3%E5%9C%B0%E7%90%86%E5%90%8D%E8%AF%8D/</id>
     <published>2022-02-24T16:36:56.000Z</published>
-    <updated>2022-02-26T09:46:17.475Z</updated>
+    <updated>2022-02-26T09:46:17.000Z</updated>
     
     
       
@@ -98,7 +125,7 @@
     <link href="https://wk-1999.github.io/2022/02/25/%E3%80%90%E7%AD%86%E8%A8%98%E3%80%91%E5%AD%94%E7%A9%8E%E9%81%94%E3%80%8A%E5%B0%9A%E6%9B%B8%E6%AD%A3%E7%BE%A9%E5%BA%8F%E3%80%8B/"/>
     <id>https://wk-1999.github.io/2022/02/25/%E3%80%90%E7%AD%86%E8%A8%98%E3%80%91%E5%AD%94%E7%A9%8E%E9%81%94%E3%80%8A%E5%B0%9A%E6%9B%B8%E6%AD%A3%E7%BE%A9%E5%BA%8F%E3%80%8B/</id>
     <published>2022-02-24T16:32:19.000Z</published>
-    <updated>2022-03-21T16:15:13.595Z</updated>
+    <updated>2022-03-21T16:15:13.000Z</updated>
     
     
       
@@ -148,7 +175,7 @@
     <link href="https://wk-1999.github.io/2022/01/24/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E7%9A%84%E3%80%8A%E6%96%B0%E5%80%9A%E5%A4%A9%E3%80%8B/"/>
     <id>https://wk-1999.github.io/2022/01/24/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E7%9A%84%E3%80%8A%E6%96%B0%E5%80%9A%E5%A4%A9%E3%80%8B/</id>
     <published>2022-01-24T13:44:42.000Z</published>
-    <updated>2022-01-24T14:36:17.121Z</updated>
+    <updated>2022-01-24T14:36:17.000Z</updated>
     
     
       
@@ -173,7 +200,7 @@
     <link href="https://wk-1999.github.io/2022/01/08/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B2%99%E4%B8%98%E3%80%8B/"/>
     <id>https://wk-1999.github.io/2022/01/08/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B2%99%E4%B8%98%E3%80%8B/</id>
     <published>2022-01-07T18:16:35.000Z</published>
-    <updated>2022-02-26T17:30:34.735Z</updated>
+    <updated>2022-02-26T17:30:34.000Z</updated>
     
     
       
@@ -223,7 +250,7 @@
     <link href="https://wk-1999.github.io/2021/12/21/%E3%80%90%E9%9F%B3%E4%B9%90%E3%80%91%E5%86%AC%E8%87%B3%EF%BC%8C%E8%99%BD%E7%84%B6%E7%9F%A5%E9%81%93%E5%86%B7%E7%9A%84%E4%BC%9A%E6%9B%B4%E5%86%B7/"/>
     <id>https://wk-1999.github.io/2021/12/21/%E3%80%90%E9%9F%B3%E4%B9%90%E3%80%91%E5%86%AC%E8%87%B3%EF%BC%8C%E8%99%BD%E7%84%B6%E7%9F%A5%E9%81%93%E5%86%B7%E7%9A%84%E4%BC%9A%E6%9B%B4%E5%86%B7/</id>
     <published>2021-12-21T11:00:00.000Z</published>
-    <updated>2021-12-21T11:40:55.048Z</updated>
+    <updated>2021-12-21T11:40:55.000Z</updated>
     
     
       
@@ -248,11 +275,11 @@
   </entry>
   
   <entry>
-    <title>走过的Hexo弯路（二）</title>
-    <link href="https://wk-1999.github.io/2021/12/15/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%BA%8C%EF%BC%89/"/>
-    <id>https://wk-1999.github.io/2021/12/15/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%BA%8C%EF%BC%89/</id>
+    <title>Hexo搭建与维护（二）在新设备接管旧站点</title>
+    <link href="https://wk-1999.github.io/2021/12/15/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9C%A8%E6%96%B0%E8%AE%BE%E5%A4%87%E6%8E%A5%E7%AE%A1%E6%97%A7%E7%AB%99%E7%82%B9/"/>
+    <id>https://wk-1999.github.io/2021/12/15/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9C%A8%E6%96%B0%E8%AE%BE%E5%A4%87%E6%8E%A5%E7%AE%A1%E6%97%A7%E7%AB%99%E7%82%B9/</id>
     <published>2021-12-15T01:27:30.000Z</published>
-    <updated>2021-12-15T02:40:30.000Z</updated>
+    <updated>2022-04-20T05:34:06.000Z</updated>
     
     
       
@@ -272,8 +299,6 @@
     
     <category term="Hexo" scheme="https://wk-1999.github.io/tags/Hexo/"/>
     
-    <category term="弯路" scheme="https://wk-1999.github.io/tags/%E5%BC%AF%E8%B7%AF/"/>
-    
   </entry>
   
   <entry>
@@ -281,7 +306,7 @@
     <link href="https://wk-1999.github.io/2021/12/11/%E3%80%90%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E3%80%91Neat%20Reader%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E2%80%9C%E4%B8%AA%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86%E2%80%9D/"/>
     <id>https://wk-1999.github.io/2021/12/11/%E3%80%90%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7%E3%80%91Neat%20Reader%E2%80%94%E2%80%94%E6%88%91%E7%9A%84%E2%80%9C%E4%B8%AA%E4%BA%BA%E5%9B%BE%E4%B9%A6%E9%A6%86%E2%80%9D/</id>
     <published>2021-12-11T13:04:43.000Z</published>
-    <updated>2021-12-11T17:43:20.166Z</updated>
+    <updated>2021-12-11T17:43:20.000Z</updated>
     
     
       
@@ -308,7 +333,7 @@
     <link href="https://wk-1999.github.io/2021/12/08/about/"/>
     <id>https://wk-1999.github.io/2021/12/08/about/</id>
     <published>2021-12-08T14:38:53.000Z</published>
-    <updated>2021-12-13T15:16:30.174Z</updated>
+    <updated>2021-12-13T15:16:30.000Z</updated>
     
     
       
@@ -325,11 +350,11 @@
   </entry>
   
   <entry>
-    <title>走过的Hexo弯路（一）</title>
-    <link href="https://wk-1999.github.io/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89%20(copy)/"/>
-    <id>https://wk-1999.github.io/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89%20(copy)/</id>
+    <title>Hexo搭建与维护（一）分类和标签</title>
+    <link href="https://wk-1999.github.io/2021/12/07/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%80%EF%BC%89%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/"/>
+    <id>https://wk-1999.github.io/2021/12/07/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%80%EF%BC%89%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/</id>
     <published>2021-12-07T15:15:30.000Z</published>
-    <updated>2021-12-15T02:33:10.000Z</updated>
+    <updated>2022-04-20T05:27:36.000Z</updated>
     
     
       
@@ -348,37 +373,6 @@
     
     
     <category term="Hexo" scheme="https://wk-1999.github.io/tags/Hexo/"/>
-    
-    <category term="弯路" scheme="https://wk-1999.github.io/tags/%E5%BC%AF%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>走过的Hexo弯路（一）</title>
-    <link href="https://wk-1999.github.io/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-    <id>https://wk-1999.github.io/2021/12/07/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E8%B5%B0%E8%BF%87%E7%9A%84Hexo%E5%BC%AF%E8%B7%AF%EF%BC%88%E4%B8%80%EF%BC%89/</id>
-    <published>2021-12-07T15:15:30.000Z</published>
-    <updated>2021-12-15T02:33:10.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="学习" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="Hexo" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/Hexo/"/>
-    
-    
-    <category term="Hexo" scheme="https://wk-1999.github.io/tags/Hexo/"/>
-    
-    <category term="弯路" scheme="https://wk-1999.github.io/tags/%E5%BC%AF%E8%B7%AF/"/>
     
   </entry>
   
@@ -408,7 +402,7 @@
     <link href="https://wk-1999.github.io/2021/09/05/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E5%9F%8E%E5%B1%B1/"/>
     <id>https://wk-1999.github.io/2021/09/05/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E5%9F%8E%E5%B1%B1/</id>
     <published>2021-09-05T12:32:24.000Z</published>
-    <updated>2021-12-21T12:31:26.844Z</updated>
+    <updated>2021-12-21T12:31:26.000Z</updated>
     
     
       
@@ -435,7 +429,7 @@
     <link href="https://wk-1999.github.io/2021/09/04/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%83%BD%E6%B1%9F%E5%A0%B0/"/>
     <id>https://wk-1999.github.io/2021/09/04/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%83%BD%E6%B1%9F%E5%A0%B0/</id>
     <published>2021-09-04T12:00:20.000Z</published>
-    <updated>2021-12-20T16:06:15.300Z</updated>
+    <updated>2021-12-20T16:06:15.000Z</updated>
     
     
       
@@ -462,7 +456,7 @@
     <link href="https://wk-1999.github.io/2021/09/02/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E7%BE%8A%E5%AE%AB/"/>
     <id>https://wk-1999.github.io/2021/09/02/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E7%BE%8A%E5%AE%AB/</id>
     <published>2021-09-02T10:32:24.000Z</published>
-    <updated>2021-12-20T16:06:12.635Z</updated>
+    <updated>2021-12-20T16:06:12.000Z</updated>
     
     
       
@@ -489,7 +483,7 @@
     <link href="https://wk-1999.github.io/2021/08/14/%E3%80%90%E9%9A%8F%E6%83%B32%E3%80%91%E6%88%91%E8%BF%98%E6%B2%A1%E6%9C%89%E9%BA%BB%E6%9C%A8/"/>
     <id>https://wk-1999.github.io/2021/08/14/%E3%80%90%E9%9A%8F%E6%83%B32%E3%80%91%E6%88%91%E8%BF%98%E6%B2%A1%E6%9C%89%E9%BA%BB%E6%9C%A8/</id>
     <published>2021-08-14T14:57:26.000Z</published>
-    <updated>2021-12-09T10:05:51.623Z</updated>
+    <updated>2021-12-09T10:05:51.000Z</updated>
     
     
       
@@ -514,7 +508,7 @@
     <link href="https://wk-1999.github.io/2021/07/24/%E3%80%90%E9%9A%8F%E6%83%B31%E3%80%91%E7%94%B1%E4%B9%A6%E5%86%99%E8%80%8C%E8%81%94%E6%83%B3/"/>
     <id>https://wk-1999.github.io/2021/07/24/%E3%80%90%E9%9A%8F%E6%83%B31%E3%80%91%E7%94%B1%E4%B9%A6%E5%86%99%E8%80%8C%E8%81%94%E6%83%B3/</id>
     <published>2021-07-24T15:49:48.000Z</published>
-    <updated>2021-12-09T09:57:30.766Z</updated>
+    <updated>2021-12-09T09:57:30.000Z</updated>
     
     
       
