@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Cover</title>
+    <url>/2022/05/18/Cover/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
+<center> 首页图片 </center>
+
+<p><img src="https://s2.loli.net/2022/05/18/bJnPxlaYEhu4oyc.jpg" alt="Cover1 2021/12/7-2021/12/31"></p>
+<p><img src="https://s2.loli.net/2022/05/18/9bmKZdkBRVo7sq2.jpg" alt="Cover2 2022/1/1-2022/3/28"></p>
+<p><img src="https://s2.loli.net/2022/05/18/vjUDo47LqWIeHbS.jpg" alt="Cover3 2022/3/28-2022/4/26"></p>
+<p><img src="https://s2.loli.net/2022/05/18/8SzMjqaExmgvGFh.jpg" alt="cover4 2022/4/26-"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/12/06/Hello%20world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>海内存知己，天涯若比邻！</p>
+<pre><code>当第一次看到win10系统展现给我的蔚蓝底色“海内存知己，天涯若比邻”，我记得自己有些恍惚，古典的诗歌，与当时最新的个人操作系统相遇，居然会让人有些感动。
+</code></pre>
+<h1 id="一年零八个月后，我又开始做个人博客"><a href="#一年零八个月后，我又开始做个人博客" class="headerlink" title="一年零八个月后，我又开始做个人博客"></a>一年零八个月后，我又开始做个人博客</h1><p>兜兜转转，距离第一次做网站已经过了一年零八个月。那是疫情中的漫长寒假，3月份，开学依旧遥遥无期。我开始准备考研，但是在家里的状态实在静不下心。偶然间看到微软的Office365开发者计划，偶然间，就心血来潮，开始了短暂且记忆深刻的摸代码之旅。<br>在E5计划续订压力的催使下，我开始做起简单的个人博客和个人云盘，拥有了独属于自己的互联网域名和备案网站，逐渐意识到自由的个人平台的意义所在：不用在乎访客的身份，只需要做一个尽可能解释自己的互联网投影。我们在愈发抽象的现代潮流中茫然漂流，我们的语言被不同类型的社交平台挤压、变形，我们从社交平台上看到片面、孤立、狭隘的人格幻象，逐渐的，那些熟悉的人变得愈发虚幻，或更令人厌恶，或更令人偏爱。<br>短暂的站长体验，让自己更讨厌——被社交平台惯出来的喜怒哀乐。<br>因为服务器到期，无力续费，自己也逐渐开始进行备考的规划，时间、精力和钱包迫使我暂时放弃Blog计划，“ ᵂ◡ᴷ ”——她的名字——仅存活了两个月。</p>
+<p><strong>崭新的起点，崭新的相遇</strong><br>这次采用Github+Hexo的方法，省事不少，也不需要捯饬云服务器，没有意外的话，我想我会一直做下去。<br>写关于久远的梦、关于……</p>
+<hr>
+<blockquote>
+<p>2021.06.11:<br>    之后有空闲，想再做起个人的博客，随便写写吧，写写奇怪的梦，比如那无数条小鳄鱼缠在右手上，比如大鳄鱼像青蛙一样蹦哒的前进……</p>
+</blockquote>
+]]></content>
+  </entry>
+  <entry>
     <title>2021总结：回望-期待</title>
     <url>/2021/12/31/2021%E6%80%BB%E7%BB%93%EF%BC%9A%E5%9B%9E%E6%9C%9B-%E6%9C%9F%E5%BE%85/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　2020年的最后一天，还在河大。冬日的天空晴朗深邃，树影稀落。</p>
@@ -65,32 +91,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/12/06/Hello%20world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>海内存知己，天涯若比邻！</p>
-<pre><code>当第一次看到win10系统展现给我的蔚蓝底色“海内存知己，天涯若比邻”，我记得自己有些恍惚，古典的诗歌，与当时最新的个人操作系统相遇，居然会让人有些感动。
-</code></pre>
-<h1 id="一年零八个月后，我又开始做个人博客"><a href="#一年零八个月后，我又开始做个人博客" class="headerlink" title="一年零八个月后，我又开始做个人博客"></a>一年零八个月后，我又开始做个人博客</h1><p>兜兜转转，距离第一次做网站已经过了一年零八个月。那是疫情中的漫长寒假，3月份，开学依旧遥遥无期。我开始准备考研，但是在家里的状态实在静不下心。偶然间看到微软的Office365开发者计划，偶然间，就心血来潮，开始了短暂且记忆深刻的摸代码之旅。<br>在E5计划续订压力的催使下，我开始做起简单的个人博客和个人云盘，拥有了独属于自己的互联网域名和备案网站，逐渐意识到自由的个人平台的意义所在：不用在乎访客的身份，只需要做一个尽可能解释自己的互联网投影。我们在愈发抽象的现代潮流中茫然漂流，我们的语言被不同类型的社交平台挤压、变形，我们从社交平台上看到片面、孤立、狭隘的人格幻象，逐渐的，那些熟悉的人变得愈发虚幻，或更令人厌恶，或更令人偏爱。<br>短暂的站长体验，让自己更讨厌——被社交平台惯出来的喜怒哀乐。<br>因为服务器到期，无力续费，自己也逐渐开始进行备考的规划，时间、精力和钱包迫使我暂时放弃Blog计划，“ ᵂ◡ᴷ ”——她的名字——仅存活了两个月。</p>
-<p><strong>崭新的起点，崭新的相遇</strong><br>这次采用Github+Hexo的方法，省事不少，也不需要捯饬云服务器，没有意外的话，我想我会一直做下去。<br>写关于久远的梦、关于……</p>
-<hr>
-<blockquote>
-<p>2021.06.11:<br>    之后有空闲，想再做起个人的博客，随便写写吧，写写奇怪的梦，比如那无数条小鳄鱼缠在右手上，比如大鳄鱼像青蛙一样蹦哒的前进……</p>
-</blockquote>
-]]></content>
-  </entry>
-  <entry>
-    <title>About Me</title>
-    <url>/2021/12/08/about/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>　　随便写一些，关于梦、电影、音乐、书……</p>
-<p>　　拍下值得的瞬间，为了终将忘却的当下。</p>
-<p>　　兴趣驳杂，热情短暂，大多写给自己。</p>
-<p>　　记录自己最近发生的事情，和脑子里的乱七八糟。</p>
-<p>　　另外，如果有朋友问我为什么不喜欢发pyq，为什么不更新说说了，可以拿给他们看这个博客。</p>
-<p>　　</p>
-<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>　　<a href="mailto:&#119;&#101;&#x6e;&#x2e;&#x6b;&#x40;&#x66;&#x6f;&#x78;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;">&#119;&#101;&#x6e;&#x2e;&#x6b;&#x40;&#x66;&#x6f;&#x78;&#109;&#97;&#x69;&#108;&#46;&#99;&#111;&#109;</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>Hexo搭建与维护（一）分类和标签</title>
     <url>/2021/12/07/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%80%EF%BC%89%E5%88%86%E7%B1%BB%E5%92%8C%E6%A0%87%E7%AD%BE/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>今天在文章如何管理分类、添加标签上折腾了整天，记录一下吧。</p>
@@ -123,18 +123,6 @@ tags:
       <tags>
         <tag>Hexo</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Cover</title>
-    <url>/2022/05/18/Cover/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><hr>
-<center> 首页图片 </center>
-
-<p><img src="https://s2.loli.net/2022/05/18/bJnPxlaYEhu4oyc.jpg" alt="Cover1 2021/12/7-2021/12/31"></p>
-<p><img src="https://s2.loli.net/2022/05/18/9bmKZdkBRVo7sq2.jpg" alt="Cover2 2022/1/1-2022/3/28"></p>
-<p><img src="https://s2.loli.net/2022/05/18/vjUDo47LqWIeHbS.jpg" alt="Cover3 2022/3/28-2022/4/26"></p>
-<p><img src="https://s2.loli.net/2022/05/18/8SzMjqaExmgvGFh.jpg" alt="cover4 2022/4/26-"></p>
-]]></content>
   </entry>
   <entry>
     <title>Hexo搭建与维护（二）在新设备接管旧站点</title>
@@ -196,35 +184,16 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【前尘1】2020庚子除夕</title>
-    <url>/2020/01/24/%E3%80%90%E5%89%8D%E5%B0%981%E3%80%912020%E5%BA%9A%E5%AD%90%E9%99%A4%E5%A4%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
-<p>韦伯：人是自我编制的意义之网的动物。</p>
-</blockquote>
-<p>　　有时坚持做某件事，并不是为了利益的回报，能自由的做喜欢的事情，本身就是最大的回报。这是自己给自己意义，而不是被迫赋予意义。没有谁可以逼你怎么样，除非你陷入的生活的囚笼，而我们早已困于囚笼之中。<br>　　一个普普通通的年轻人，年纪轻轻就步入社会工作，工作两年后付了房子的首付，然后就被牢牢套住之后十几二十年的生活。每年都要为房贷而工作，成了资本运作的工具人，为社会生产出远超自己衣食住行所需的价值。只要一直工作，社会就会一直发展。G家并不在乎你的钱，钱没有意义。只是希望你一直工作，工作不创造钱，工作创作出的价值才是最大的价值。<br>　　今年的鹤岗事件，让我看到生活本可以如此简单，为何要有这么多年轻人心甘情愿投入社会的陷阱里？<br>　　或许也是因为，实际的现实生活并不给社会里的人自由的选择吧。<br>　　今年是我呆在山上（河南大学报大学生通讯社 明伦校区）的第三年，回想两年半的经历，山上带给我的不只是表面的改变。<br>　　跟二十年前不一样，二十年前考上了大学就可以前途似锦，现在什么也不是。所以上大学为了什么？为了享乐，似乎并不现实。做着无意义的事情消磨四年，实在可笑。因而我想过许多，想做一些事情寻找意义。而在山上，给了我机会，通过实践检验着一种思考生活，看待生活的方式。<br>　　我通过MOO认识了草东没有派对，他们狠狠地打痛了我，生活一直都是如此现实，“哭啊喊”狂风吹过，没有人在乎。<br>　　通过Tim认识了I don’t like Monday’s，原来生活再苦也要高兴地像孩子，像无知者和傻子一样向前冲。<br>　　通过公路商店看到了原来这一代人都是相似的内心躁动而茫然，通过消费（动词）欲望来拯救我们的精神生活。我们经历着村上描写的“百无聊赖”，而且在酒精和摇滚乐里怡然沉醉。看着他人的悲欢，通常我都冷血到不起波澜。<br>　　这种距离感是颓丧者的自我保护。哪里会有人喜欢孤独，不过是不喜欢失望罢了。<br>　　那么，说到这里，都是我看待生活的方式。我想说：我喜欢的，无论是音乐、电影还是文字，都是在生动地表达，每个行为背后都隐含着作者的思想态度。这是一种作为，而在山上，我们都能有机会作为，传达自己的思想态度给众人。这就是我热爱山上的原因。<br>　　山上公众号是一个自媒体，迄今已经走过五年，并不被官方接受，更不用说给予支持了，甚至一度面临关停。山上发的东西都是我们透过学生的视野思考的和想做的。五年间我们发过不合主流意见的东西并且多次迫于各种压力而删稿，到了今年，我们做到了随缘更新。<br>　　为什么不能经常更新？因为我们要先应对学校安排的报纸上以及学习新闻网的新闻采写拍摄任务，这是我们的主要工作，每个人也有自己的日常学习任务。做山上的选题是利用我们工作学校的时间和精力之余。这些只是客观原因，主观原因是缺少可以接力的人。做山上的稿子需要思考、观点和态度，很耗费心思，需要热情，需要思想，更需要情怀。还有一些其他的问题，诸多原因难以细说。学生组织一代代更替，传承下来保持风格、坚持原则做到第五年不容易，而且感到越来越艰难。<br>　　今年我们接任的四个人从内心里感到十分十分荣幸，可以有机会带领山上走过第五个年头，跨入本世纪第二个五分之一，亦步亦趋，在这个无雪寒冬里依旧屹立。作为一家有媒体性质的团队，做成这样并不值得炫耀，甚至很丢人。但是我们不打算放弃。<br>　　我们知道明天不会更好，但是我们还站着，这本就是一种态度。</p>
-<blockquote>
-<p>　　因理想，为公义，求真相。<br>　　执笔为杖，寒山远上。</p>
-</blockquote>
-<p>（写的很乱，感谢您读到这里）</p>
+    <title>About Me</title>
+    <url>/2021/12/08/about/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>　　随便写一些，关于梦、电影、音乐、书……</p>
+<p>　　拍下值得的瞬间，为了终将忘却的当下。</p>
+<p>　　兴趣驳杂，热情短暂，大多写给自己。</p>
+<p>　　记录自己最近发生的事情，和脑子里的乱七八糟。</p>
+<p>　　另外，如果有朋友问我为什么不喜欢发pyq，为什么不更新说说了，可以拿给他们看这个博客。</p>
+<p>　　</p>
+<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>　　<a href="mailto:&#119;&#x65;&#110;&#46;&#107;&#64;&#x66;&#111;&#x78;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;">&#119;&#x65;&#110;&#46;&#107;&#64;&#x66;&#111;&#x78;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#x6d;</a></p>
 ]]></content>
-      <categories>
-        <category>前尘</category>
-      </categories>
-      <tags>
-        <tag>前尘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【前尘3】第一次博客建站缘由</title>
-    <url>/2020/04/03/%E3%80%90%E5%89%8D%E5%B0%983%E3%80%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99%E7%BC%98%E7%94%B1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　说起来，这个博客是之前做 index 的副产品。<br>　　一切都因为自己想要搞一个安全好用的 office 账号，要有 onedrive 空间。年后我发现有人说 E5 有渠道可以注册了，于是就找了教程搞了一个 E5 账号，但是只有 3 个月期限，需要自己找方法调用 API 才可以不断续期。<br>　　然后就参考了游轶老哥的教程，买了域名，租了服务器，搭建了 Oneindex 做私人网盘。但是服务器加域名每年也得一百多块钱，只搞个 Oneidex 有点浪费，为了尽可能利用好租的服务器，就进一步部署了 WordPress，搭建起了个人博客。这方面我是小白，参考了网上很多教程，前后花了三四天才调教完成。<br>　　通过自建博客，我发现自己很喜欢这样的记录形式，一切都在自己掌控之下，不用担心微信公众号、QQ 空间、或者微博之类的奇葩内容审查规则，对于平台风格以及评论都可以自己把握，建设多样化内容板块，展示自己完整的生活状态。<br>　　在此之前，我经常会犹豫，心里有些事情不知道怎么分享出来，空间、朋友圈，有些事情发出来总令人尴尬，感觉很别扭，而且过了一段时间，就不会有人关注。我不喜欢发日常流水账，分享的很多都是有特殊意义的。所以博客可能更适合我吧，也可以学习建站运维的知识。<br>　　生活中，我喜欢电影、摄影、美剧、数码搞机、深度评论以及有趣的思想或文章，多样化的兴趣意味着可以有丰富的拓展空间，运营博客做相关的内容也可以促进这些兴趣的深度发展，既是帮助自身积累，也是对外的展示窗口。如果能给访客带来知识、乐趣或者启发感悟，不失为一种贡献和价值。</p>
-]]></content>
-      <categories>
-        <category>前尘</category>
-      </categories>
-      <tags>
-        <tag>前尘</tag>
-      </tags>
   </entry>
   <entry>
     <title>【前尘2】薄情</title>
@@ -239,11 +208,16 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【前尘5】毕业寄语</title>
-    <url>/2021/05/30/%E3%80%90%E5%89%8D%E5%B0%985%E3%80%91%E6%AF%95%E4%B8%9A%E5%AF%84%E8%AF%AD/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　恍然四年，如梦方醒。<br>　　湖光塔影，东辰树影，贡院之日影，山水堂之人影，明灭神海之中。<br>　　更想起柳七“此去经年”语，其中仇憾终于悟得。<br>　　师友之情难忘，遥祝诸君长风破浪，南北东西，各自精彩！</p>
-<p><img src="https://gitee.com/wk_1999/pic-go/raw/master/img/w_k(65)%20I%20%E2%99%A5%20HENU%20-%20%E5%89%AF%E6%9C%AC.jpeg" alt="I ♥ HENU"></p>
-<p><img src="https://s2.loli.net/2022/05/18/Tecom9DXkfJi8yq.jpg" alt="I ♥ HENU"></p>
+    <title>【前尘1】2020庚子除夕</title>
+    <url>/2020/01/24/%E3%80%90%E5%89%8D%E5%B0%981%E3%80%912020%E5%BA%9A%E5%AD%90%E9%99%A4%E5%A4%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
+<p>韦伯：人是自我编制的意义之网的动物。</p>
+</blockquote>
+<p>　　有时坚持做某件事，并不是为了利益的回报，能自由的做喜欢的事情，本身就是最大的回报。这是自己给自己意义，而不是被迫赋予意义。没有谁可以逼你怎么样，除非你陷入的生活的囚笼，而我们早已困于囚笼之中。<br>　　一个普普通通的年轻人，年纪轻轻就步入社会工作，工作两年后付了房子的首付，然后就被牢牢套住之后十几二十年的生活。每年都要为房贷而工作，成了资本运作的工具人，为社会生产出远超自己衣食住行所需的价值。只要一直工作，社会就会一直发展。G家并不在乎你的钱，钱没有意义。只是希望你一直工作，工作不创造钱，工作创作出的价值才是最大的价值。<br>　　今年的鹤岗事件，让我看到生活本可以如此简单，为何要有这么多年轻人心甘情愿投入社会的陷阱里？<br>　　或许也是因为，实际的现实生活并不给社会里的人自由的选择吧。<br>　　今年是我呆在山上（河南大学报大学生通讯社 明伦校区）的第三年，回想两年半的经历，山上带给我的不只是表面的改变。<br>　　跟二十年前不一样，二十年前考上了大学就可以前途似锦，现在什么也不是。所以上大学为了什么？为了享乐，似乎并不现实。做着无意义的事情消磨四年，实在可笑。因而我想过许多，想做一些事情寻找意义。而在山上，给了我机会，通过实践检验着一种思考生活，看待生活的方式。<br>　　我通过MOO认识了草东没有派对，他们狠狠地打痛了我，生活一直都是如此现实，“哭啊喊”狂风吹过，没有人在乎。<br>　　通过Tim认识了I don’t like Monday’s，原来生活再苦也要高兴地像孩子，像无知者和傻子一样向前冲。<br>　　通过公路商店看到了原来这一代人都是相似的内心躁动而茫然，通过消费（动词）欲望来拯救我们的精神生活。我们经历着村上描写的“百无聊赖”，而且在酒精和摇滚乐里怡然沉醉。看着他人的悲欢，通常我都冷血到不起波澜。<br>　　这种距离感是颓丧者的自我保护。哪里会有人喜欢孤独，不过是不喜欢失望罢了。<br>　　那么，说到这里，都是我看待生活的方式。我想说：我喜欢的，无论是音乐、电影还是文字，都是在生动地表达，每个行为背后都隐含着作者的思想态度。这是一种作为，而在山上，我们都能有机会作为，传达自己的思想态度给众人。这就是我热爱山上的原因。<br>　　山上公众号是一个自媒体，迄今已经走过五年，并不被官方接受，更不用说给予支持了，甚至一度面临关停。山上发的东西都是我们透过学生的视野思考的和想做的。五年间我们发过不合主流意见的东西并且多次迫于各种压力而删稿，到了今年，我们做到了随缘更新。<br>　　为什么不能经常更新？因为我们要先应对学校安排的报纸上以及学习新闻网的新闻采写拍摄任务，这是我们的主要工作，每个人也有自己的日常学习任务。做山上的选题是利用我们工作学校的时间和精力之余。这些只是客观原因，主观原因是缺少可以接力的人。做山上的稿子需要思考、观点和态度，很耗费心思，需要热情，需要思想，更需要情怀。还有一些其他的问题，诸多原因难以细说。学生组织一代代更替，传承下来保持风格、坚持原则做到第五年不容易，而且感到越来越艰难。<br>　　今年我们接任的四个人从内心里感到十分十分荣幸，可以有机会带领山上走过第五个年头，跨入本世纪第二个五分之一，亦步亦趋，在这个无雪寒冬里依旧屹立。作为一家有媒体性质的团队，做成这样并不值得炫耀，甚至很丢人。但是我们不打算放弃。<br>　　我们知道明天不会更好，但是我们还站着，这本就是一种态度。</p>
+<blockquote>
+<p>　　因理想，为公义，求真相。<br>　　执笔为杖，寒山远上。</p>
+</blockquote>
+<p>（写的很乱，感谢您读到这里）</p>
 ]]></content>
       <categories>
         <category>前尘</category>
@@ -267,11 +241,49 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【前尘5】毕业寄语</title>
+    <url>/2021/05/30/%E3%80%90%E5%89%8D%E5%B0%985%E3%80%91%E6%AF%95%E4%B8%9A%E5%AF%84%E8%AF%AD/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　恍然四年，如梦方醒。<br>　　湖光塔影，东辰树影，贡院之日影，山水堂之人影，明灭神海之中。<br>　　更想起柳七“此去经年”语，其中仇憾终于悟得。<br>　　师友之情难忘，遥祝诸君长风破浪，南北东西，各自精彩！</p>
+<p><img src="https://gitee.com/wk_1999/pic-go/raw/master/img/w_k(65)%20I%20%E2%99%A5%20HENU%20-%20%E5%89%AF%E6%9C%AC.jpeg" alt="I ♥ HENU"></p>
+<p><img src="https://s2.loli.net/2022/05/18/Tecom9DXkfJi8yq.jpg" alt="I ♥ HENU"></p>
+]]></content>
+      <categories>
+        <category>前尘</category>
+      </categories>
+      <tags>
+        <tag>前尘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【前尘6】离别</title>
     <url>/2021/06/06/%E3%80%90%E5%89%8D%E5%B0%986%E3%80%91%E7%A6%BB%E5%88%AB/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　昨天最后去了一次游泳馆，夏日傍晚，池水温柔，想象着，混入着铁塔湖的味道。出西门，久等了一杯加冰柠檬水，却偶遇了毕业一年的堂堂哥和大二一起办摄影协会的同学，一段夏天的缘分又在一个夏天重聚，在夜市摊儿聊了很多，抹去了我毕业告别的最后一个遗憾。<br>　　寝室里的气氛轻松又紧张，大家稀罕着最后的一段时光，抚慰不舍。我见不得人伤心，也不喜欢在人前搞伤感，把痛哭流涕藏在此后漫漫旅途的梦里吧。如果突然想起来了我，就把我再忘掉吧，然后，慢慢等下一个重逢，也许两三年，也许五六年，也许数十年，缘分到了总会再见，就像昨天和堂哥三人。<br>　　在列车上，听到这首歌，就写下了这些话。</p>
 <center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1325896815&auto=0&height=66"></iframe> </center>
 
+]]></content>
+      <categories>
+        <category>前尘</category>
+      </categories>
+      <tags>
+        <tag>前尘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【前尘7】好人吗？</title>
+    <url>/2021/06/11/%E3%80%90%E5%89%8D%E5%B0%987%E3%80%91%E5%A5%BD%E4%BA%BA%E5%90%97%EF%BC%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　7号晚上到成都，不算那晚，今天是第四天了。<br>　　四天里干了些什么呢？说多不多，说少不少，其中风尘辛苦无处道去。<br>　　8号PASS掉两个工作，一个到地方才知道是劳务中介，就是进厂，薪酬跟说好的低了不少，不知道克扣了多少。另一个是去某影楼做摄助，地点偏僻，待遇极低。跟在那里工作两三年的一个小哥的交谈中，我觉得在那里估计也学不了多少东西，又到了他们宿舍，脏乱差，更没有多余的房间，于是坐了不多时，断然跑路了。当即联系了百词斩，想尝试一下社群运营，可惜，等到今天出面试结果，又是失败告终。但是有一个高途的垫底，也不是很焦虑。<br>　　9号，在叶霞阿姨家的民宿里修整了一晚，一边进行着百词斩的笔试，一边寻找合适的房子，那天不知道联系了多少个房东中介，光加微信的都有十四五个吧，又实地去看了三四个，可惜，奔波一天又是一无所获。满意的房子要么只长租，要么很贵，要么只要女生。其中一个十分满意，只是因为无人合租遗憾离去。晚上还是在叶阿姨家落脚，她母亲常住这里，不过那个婆婆似乎对我们这种旅人见怪不怪了，除了前一晚洗衣服时多加指点，没有其他什么交流。<br>　　10号，早上大早去了省体育馆附近的核招待所，老小区，临近地铁站，感觉很不错，一开始还走错了路。看了两个房子，一个是二房东帮室友转租，另一个可能也差不多吧。价钱一样，可惜后一个是个学音乐的小姐姐，在这边上学，还要等两天才能搬走，虽然房间很大也朝阳，我也只得无奈离去，选择了前一个，也就是现在住的地方。房间不大，窗户也锁不上，不过设施该有的都有，这两天处下来室友都还不错，很省心。<br>　　这间屋子是二房东+转租，事后才想明白其中关系，不禁后怕，如果老哥动了坏心思，可能房租就白交了。在我坚决要求下，终于在傍晚跟合租大哥签了合同，虽然不知道有多大用，起码会暂时安心吧。第一次租房，就这么有惊无险的度过了。然而有时候还是会为与那些更好的房子失之交臂感到惋惜。也许，算了，哪有什么也许呢，走过的路也行就是命中注定吧。<br>　　但令我不能忘怀的还有，就是我住的这间屋子的前一任主人，虽然只相处了一天，但却是我到成都以来交流最多的人了，他教了我很多，甚至我现学现卖，跟他说我是个三本混子，他好像没有怀疑吧。在更众多的普通人里，我是个耀眼的异类，然而，在我的层面上，自己只是不起眼的尘埃，迄今也不记得多少简历石沉大海，多少hr冷眼相待，又有多少次感受着职场的内卷斗争，996基本是常态，甚至我想007面试官都不愿意要。<br>　　那个小哥跟我说了很多，关于社会上的事情，普通人的生活就是这样卑微。我们拿着四五千的薪资拼死挣扎，有钱人却可以坐等房价上涨资产翻倍。他说，这么干一辈子也在大城市买不了房，甚至不如干几票大的，跟法律擦边的，干完就跑，也比这般模样强。他说，去做地产销售吧，运气好碰上大客户，一下就可以提成拿到手软，比中彩票的几率都高多了。就是不济，没有成交量，也比辣鸡公司不把实习生当人看强。以后找工作不要说实习，也不用在乎是否有经验，自己可以编嘛，反正大部分工作是个人都能干，干完就跑，谁能拦得住呢？<br>　　我不知道别人怎么样，但我知道，他是个好人——起码对于我来说。他走之后，我被床垫下的凸起硌到了，是一百多块钱现金，钱不多，但对于我来说就像是雪中送炭，中午转给他的饭钱他还没收，我自己犹豫了，但最终还是把钱如数微信转给了他。我最终没有学会他说的那样，或许吧，我也是个好人——起码对于他来说。好人很难做，但有时候就想去做。<br>　　总之吧，现在是暂时安顿下来了，工作也有了个着落，碰见的许多人，分辨不出好坏来，但幸运的是到现在还没有大的失误决断。不知道自己需要多久才可以真正独立，但到底是在成长了。<br>　　之后有空闲，想再做起个人的博客，随便写写吧，写写奇怪的梦，比如那无数条小鳄鱼缠在右手上，比如大鳄鱼像青蛙一样蹦哒的前进……可能不再发说说了吧，一般大的朋友们越来越少人看了。不过也说不准。</p>
+]]></content>
+      <categories>
+        <category>前尘</category>
+      </categories>
+      <tags>
+        <tag>前尘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【前尘8】回忆一则</title>
+    <url>/2021/07/07/%E3%80%90%E5%89%8D%E5%B0%988%E3%80%91%E5%9B%9E%E5%BF%86%E4%B8%80%E5%88%99/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　想起来以前，喜欢去学五食堂吃葱油拌面，那家窗口经常会有一个应该是兼职的小姐姐在窗口卖饭，带着口罩，露出一双带着细框眼镜的美丽眸子，我相信她应该是个温柔美丽的人儿。<br>　　我每次都是若无其事地买完饭，静静离去，我们什么故事也没有。</p>
 ]]></content>
       <categories>
         <category>前尘</category>
@@ -299,28 +311,18 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【前尘8】回忆一则</title>
-    <url>/2021/07/07/%E3%80%90%E5%89%8D%E5%B0%988%E3%80%91%E5%9B%9E%E5%BF%86%E4%B8%80%E5%88%99/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　想起来以前，喜欢去学五食堂吃葱油拌面，那家窗口经常会有一个应该是兼职的小姐姐在窗口卖饭，带着口罩，露出一双带着细框眼镜的美丽眸子，我相信她应该是个温柔美丽的人儿。<br>　　我每次都是若无其事地买完饭，静静离去，我们什么故事也没有。</p>
+    <title>关于Henu</title>
+    <url>/2021/06/06/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E5%85%B3%E4%BA%8EHenu/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> 纪念——在铁塔湖畔的四年
+
+<hr>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">建议开启网页夜间模式🌙</span><br><span class="line">点击图片底部显示图片名称😉</span><br><span class="line">因Gitee图床限制，除微信外，用其他应用打开有部分图片无法显示😢</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
-        <category>前尘</category>
+        <category>摄影</category>
+        <category>日常</category>
       </categories>
-      <tags>
-        <tag>前尘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【前尘7】好人吗？</title>
-    <url>/2021/06/11/%E3%80%90%E5%89%8D%E5%B0%987%E3%80%91%E5%A5%BD%E4%BA%BA%E5%90%97%EF%BC%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　7号晚上到成都，不算那晚，今天是第四天了。<br>　　四天里干了些什么呢？说多不多，说少不少，其中风尘辛苦无处道去。<br>　　8号PASS掉两个工作，一个到地方才知道是劳务中介，就是进厂，薪酬跟说好的低了不少，不知道克扣了多少。另一个是去某影楼做摄助，地点偏僻，待遇极低。跟在那里工作两三年的一个小哥的交谈中，我觉得在那里估计也学不了多少东西，又到了他们宿舍，脏乱差，更没有多余的房间，于是坐了不多时，断然跑路了。当即联系了百词斩，想尝试一下社群运营，可惜，等到今天出面试结果，又是失败告终。但是有一个高途的垫底，也不是很焦虑。<br>　　9号，在叶霞阿姨家的民宿里修整了一晚，一边进行着百词斩的笔试，一边寻找合适的房子，那天不知道联系了多少个房东中介，光加微信的都有十四五个吧，又实地去看了三四个，可惜，奔波一天又是一无所获。满意的房子要么只长租，要么很贵，要么只要女生。其中一个十分满意，只是因为无人合租遗憾离去。晚上还是在叶阿姨家落脚，她母亲常住这里，不过那个婆婆似乎对我们这种旅人见怪不怪了，除了前一晚洗衣服时多加指点，没有其他什么交流。<br>　　10号，早上大早去了省体育馆附近的核招待所，老小区，临近地铁站，感觉很不错，一开始还走错了路。看了两个房子，一个是二房东帮室友转租，另一个可能也差不多吧。价钱一样，可惜后一个是个学音乐的小姐姐，在这边上学，还要等两天才能搬走，虽然房间很大也朝阳，我也只得无奈离去，选择了前一个，也就是现在住的地方。房间不大，窗户也锁不上，不过设施该有的都有，这两天处下来室友都还不错，很省心。<br>　　这间屋子是二房东+转租，事后才想明白其中关系，不禁后怕，如果老哥动了坏心思，可能房租就白交了。在我坚决要求下，终于在傍晚跟合租大哥签了合同，虽然不知道有多大用，起码会暂时安心吧。第一次租房，就这么有惊无险的度过了。然而有时候还是会为与那些更好的房子失之交臂感到惋惜。也许，算了，哪有什么也许呢，走过的路也行就是命中注定吧。<br>　　但令我不能忘怀的还有，就是我住的这间屋子的前一任主人，虽然只相处了一天，但却是我到成都以来交流最多的人了，他教了我很多，甚至我现学现卖，跟他说我是个三本混子，他好像没有怀疑吧。在更众多的普通人里，我是个耀眼的异类，然而，在我的层面上，自己只是不起眼的尘埃，迄今也不记得多少简历石沉大海，多少hr冷眼相待，又有多少次感受着职场的内卷斗争，996基本是常态，甚至我想007面试官都不愿意要。<br>　　那个小哥跟我说了很多，关于社会上的事情，普通人的生活就是这样卑微。我们拿着四五千的薪资拼死挣扎，有钱人却可以坐等房价上涨资产翻倍。他说，这么干一辈子也在大城市买不了房，甚至不如干几票大的，跟法律擦边的，干完就跑，也比这般模样强。他说，去做地产销售吧，运气好碰上大客户，一下就可以提成拿到手软，比中彩票的几率都高多了。就是不济，没有成交量，也比辣鸡公司不把实习生当人看强。以后找工作不要说实习，也不用在乎是否有经验，自己可以编嘛，反正大部分工作是个人都能干，干完就跑，谁能拦得住呢？<br>　　我不知道别人怎么样，但我知道，他是个好人——起码对于我来说。他走之后，我被床垫下的凸起硌到了，是一百多块钱现金，钱不多，但对于我来说就像是雪中送炭，中午转给他的饭钱他还没收，我自己犹豫了，但最终还是把钱如数微信转给了他。我最终没有学会他说的那样，或许吧，我也是个好人——起码对于他来说。好人很难做，但有时候就想去做。<br>　　总之吧，现在是暂时安顿下来了，工作也有了个着落，碰见的许多人，分辨不出好坏来，但幸运的是到现在还没有大的失误决断。不知道自己需要多久才可以真正独立，但到底是在成长了。<br>　　之后有空闲，想再做起个人的博客，随便写写吧，写写奇怪的梦，比如那无数条小鳄鱼缠在右手上，比如大鳄鱼像青蛙一样蹦哒的前进……可能不再发说说了吧，一般大的朋友们越来越少人看了。不过也说不准。</p>
-]]></content>
-      <categories>
-        <category>前尘</category>
-      </categories>
-      <tags>
-        <tag>前尘</tag>
-      </tags>
   </entry>
   <entry>
     <title>又一个春天</title>
@@ -335,20 +337,6 @@ tags:
 <p>　　但是沉默的呵，沉默的没有。</p>
 <p><img src="https://s2.loli.net/2022/04/26/O3N4vBdoPIhsFH9.jpg" alt="blossom"></p>
 <p>　　春天……共和……</p>
-]]></content>
-      <categories>
-        <category>摄影</category>
-        <category>日常</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>关于Henu</title>
-    <url>/2021/06/06/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E5%85%B3%E4%BA%8EHenu/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> 纪念——在铁塔湖畔的四年
-
-<hr>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">建议开启网页夜间模式🌙</span><br><span class="line">点击图片底部显示图片名称😉</span><br><span class="line">因Gitee图床限制，除微信外，用其他应用打开有部分图片无法显示😢</span><br></pre></td></tr></table></figure>
-
 ]]></content>
       <categories>
         <category>摄影</category>
@@ -374,6 +362,35 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【前尘3】第一次博客建站缘由</title>
+    <url>/2020/04/03/%E3%80%90%E5%89%8D%E5%B0%983%E3%80%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8D%9A%E5%AE%A2%E5%BB%BA%E7%AB%99%E7%BC%98%E7%94%B1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　说起来，这个博客是之前做 index 的副产品。<br>　　一切都因为自己想要搞一个安全好用的 office 账号，要有 onedrive 空间。年后我发现有人说 E5 有渠道可以注册了，于是就找了教程搞了一个 E5 账号，但是只有 3 个月期限，需要自己找方法调用 API 才可以不断续期。<br>　　然后就参考了游轶老哥的教程，买了域名，租了服务器，搭建了 Oneindex 做私人网盘。但是服务器加域名每年也得一百多块钱，只搞个 Oneidex 有点浪费，为了尽可能利用好租的服务器，就进一步部署了 WordPress，搭建起了个人博客。这方面我是小白，参考了网上很多教程，前后花了三四天才调教完成。<br>　　通过自建博客，我发现自己很喜欢这样的记录形式，一切都在自己掌控之下，不用担心微信公众号、QQ 空间、或者微博之类的奇葩内容审查规则，对于平台风格以及评论都可以自己把握，建设多样化内容板块，展示自己完整的生活状态。<br>　　在此之前，我经常会犹豫，心里有些事情不知道怎么分享出来，空间、朋友圈，有些事情发出来总令人尴尬，感觉很别扭，而且过了一段时间，就不会有人关注。我不喜欢发日常流水账，分享的很多都是有特殊意义的。所以博客可能更适合我吧，也可以学习建站运维的知识。<br>　　生活中，我喜欢电影、摄影、美剧、数码搞机、深度评论以及有趣的思想或文章，多样化的兴趣意味着可以有丰富的拓展空间，运营博客做相关的内容也可以促进这些兴趣的深度发展，既是帮助自身积累，也是对外的展示窗口。如果能给访客带来知识、乐趣或者启发感悟，不失为一种贡献和价值。</p>
+]]></content>
+      <categories>
+        <category>前尘</category>
+      </categories>
+      <tags>
+        <tag>前尘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>青羊宫</title>
+    <url>/2021/09/02/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E7%BE%8A%E5%AE%AB/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> 世俗风尘，道心潜藏
+
+
+<hr>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">点击图片底部显示图片名称😉</span><br><span class="line">建议开启网页夜间模式🌙</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>摄影</category>
+        <category>旅行</category>
+      </categories>
+      <tags>
+        <tag>在路上</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>青城山</title>
     <url>/2021/09/05/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E5%9F%8E%E5%B1%B1/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">点击图片底部显示图片名称😉</span><br><span class="line">建议开启网页夜间模式🌙</span><br></pre></td></tr></table></figure>
@@ -386,23 +403,6 @@ tags:
 <center>孤心随烟雨 终与世浮沉
 <center>桂花秋雨夜 客辞青城山</center>
 
-]]></content>
-      <categories>
-        <category>摄影</category>
-        <category>旅行</category>
-      </categories>
-      <tags>
-        <tag>在路上</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>青羊宫</title>
-    <url>/2021/09/02/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E9%9D%92%E7%BE%8A%E5%AE%AB/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center> 世俗风尘，道心潜藏
-
-
-<hr>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">点击图片底部显示图片名称😉</span><br><span class="line">建议开启网页夜间模式🌙</span><br></pre></td></tr></table></figure>
 ]]></content>
       <categories>
         <category>摄影</category>
@@ -436,6 +436,19 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【最近】扔掉一些，捡起一些</title>
+    <url>/2022/04/16/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%89%94%E6%8E%89%E4%B8%80%E4%BA%9B%EF%BC%8C%E6%8D%A1%E8%B5%B7%E4%B8%80%E4%BA%9B/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　上大学以来，每年的春季学期都是最颓废的，什么都不想做，好像冬眠未足的熊。到了成都这里，虽然三月气温一度入夏，但是又很快转为阴雨湿冷。慵懒、疲惫，只想睡觉、看电影、玩游戏。然而生活吧，总有着既定规划，很多事情只能强打精神去做。</p>
+<p>　　这学期，除了工作需要，基本不用📷，有时候带着相机出门，兜兜转转一天，一次也没开过，成了负担。算了，耍手机吧，不拍了。所以把微单出了，以后买GR3吧。暂时的话就拿D3s喽。</p>
+<p>　　最近上手了Sigil，自己制作排版epub真有乐趣，没有css和正则基础，只能弄一些简单的，复制别人的代码慢慢搞。</p>
+<p><img src="https://s2.loli.net/2022/04/16/8pwDjCMUzieo7WV.jpg" alt="目前在做的《左传》"></p>
+<p>　　还找到了理想的下饭剧——《银魂》。</p>
+]]></content>
+      <categories>
+        <category>最近</category>
+      </categories>
+  </entry>
+  <entry>
     <title>【最近】翻车、作死、一事无成</title>
     <url>/2022/01/30/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E7%BF%BB%E8%BD%A6%E3%80%81%E4%BD%9C%E6%AD%BB%E3%80%81%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>统计一下最近的翻车，从便携屏开始的水逆之旅。</p>
@@ -452,19 +465,6 @@ tags:
 <p>　　课业3：“开端”。</p>
 <p>　　课业4：无。</p>
 <h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>　　过年像个🦈✏</p>
-]]></content>
-      <categories>
-        <category>最近</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>【最近】扔掉一些，捡起一些</title>
-    <url>/2022/04/16/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%89%94%E6%8E%89%E4%B8%80%E4%BA%9B%EF%BC%8C%E6%8D%A1%E8%B5%B7%E4%B8%80%E4%BA%9B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　上大学以来，每年的春季学期都是最颓废的，什么都不想做，好像冬眠未足的熊。到了成都这里，虽然三月气温一度入夏，但是又很快转为阴雨湿冷。慵懒、疲惫，只想睡觉、看电影、玩游戏。然而生活吧，总有着既定规划，很多事情只能强打精神去做。</p>
-<p>　　这学期，除了工作需要，基本不用📷，有时候带着相机出门，兜兜转转一天，一次也没开过，成了负担。算了，耍手机吧，不拍了。所以把微单出了，以后买GR3吧。暂时的话就拿D3s喽。</p>
-<p>　　最近上手了Sigil，自己制作排版epub真有乐趣，没有css和正则基础，只能弄一些简单的，复制别人的代码慢慢搞。</p>
-<p><img src="https://s2.loli.net/2022/04/16/8pwDjCMUzieo7WV.jpg" alt="目前在做的《左传》"></p>
-<p>　　还找到了理想的下饭剧——《银魂》。</p>
 ]]></content>
       <categories>
         <category>最近</category>
@@ -552,6 +552,26 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【笔记】一些古代地理名词</title>
+    <url>/2022/02/25/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91%E4%B8%80%E4%BA%9B%E5%8F%A4%E4%BB%A3%E5%9C%B0%E7%90%86%E5%90%8D%E8%AF%8D/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://s2.loli.net/2022/05/12/s83odaSyp7JjtYD.jpg" alt="古地理名词解"></p>
+<h3 id="一、山东、山西。"><a href="#一、山东、山西。" class="headerlink" title="一、山东、山西。"></a>一、山东、山西。</h3><p>　　山东、山西成为省名，是元朝以后的事。古史上的山东、山西和现代的位置大不相同。春秋战国时间，秦国和东方各国以崤山为界，东方六国统称“山东”（山左），崤山以西的秦国，称为“山西”（山右）。唐代以后，又以太行山以东（以平原为主）为山东，太行山以西（以山脉高原为主）为山西。</p>
+<h3 id="二、关内、关外、关中。"><a href="#二、关内、关外、关中。" class="headerlink" title="二、关内、关外、关中。"></a>二、关内、关外、关中。</h3><p>　　在春秋战国时期，秦国和东方各国以函谷关为界，函谷关是秦国东方的主要关口和门户，“关内”特指秦国，“关外”特指东方各国。此时的“关”，特指函谷关。到了近代，“关内”“关外”的词意发了变化，“关”特指山海关。“关内”指山海外以里的各省区。“关外”指山海关以外的东北三省。<br>　　历史上的“关中”，是指陕西处四关之中，东边有函谷关，南边有峣关、武关，西边有散关、庞关，北边有萧关、临晋关，是谓“关中”。现代所称“关中”，仅指陕西中部的秦川平原，范围已大为缩小。</p>
+<h3 id="三、河东、河西、河南、河北。"><a href="#三、河东、河西、河南、河北。" class="headerlink" title="三、河东、河西、河南、河北。"></a>三、河东、河西、河南、河北。</h3><p><img src="https://s2.loli.net/2022/05/12/A4Be8fRrjCkJsMI.jpg" alt="河内外1"></p>
+<p>　　“河”在古籍中专指黄河。陕西、山西交界处黄河呈北、南流向，秦汉以后将山西中南部地区称为“河东”（因在黄河以东）（唐末李克用被封为河东节度史，驻晋阳，今太原)，将处于黄河以西的陕西称为“河西”。唐朝时，“河西”则指黄河河套以西的甘肃、青海。“河西走廊”就因在黄河以西而得名。黄河进入华北平原后，基本上呈东西走向，所以将黄河以南地区称为“河南”，以北地区称为“河北”，后来逐渐演变为省级行政区名称。</p>
+<p><img src="https://s2.loli.net/2022/05/12/MgkQuSUjbD2E7Z4.jpg" alt="河内外2"></p>
+<h3 id="四、江东、江南。"><a href="#四、江东、江南。" class="headerlink" title="四、江东、江南。"></a>四、江东、江南。</h3><p>　　“江”在古籍中专指长江。指长江以东地区，古人以东为左，故又称“江左”、“江表”。长江在自金陵以上至九江一段为南北走向，古有中原进入南方吴地的主要渡口，江之东地区称为“江东”，因此地区在长江的东南方，故又称“江南”。后来江南的范围大大扩大，长江中下游的南部统称“江南”。</p>
+<h3 id="五、岭南。"><a href="#五、岭南。" class="headerlink" title="五、岭南。"></a>五、岭南。</h3><p>　　原是指中国南方的南岭山脉之南的地区。历史上，唐朝岭南道，也包括曾经属于中国皇朝统治的越南红河三角洲一带。在宋代以后，越南北部才分离出去。岭南之概念逐渐将越南排除在外。现在提及到岭南一词，特指广东、广西、海南、香港、澳门五省区区。</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+        <category>读书笔记</category>
+      </categories>
+      <tags>
+        <tag>文化常识</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【电影】《浊水漂流》</title>
     <url>/2022/02/26/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B5%8A%E6%B0%B4%E6%BC%82%E6%B5%81%E3%80%8B/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://s2.loli.net/2022/05/18/ansp38uoAemQvcq.png" alt="浊水漂流"></p>
@@ -582,26 +602,6 @@ tags:
       <tags>
         <tag>剧情</tag>
         <tag>🙂还行</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【笔记】一些古代地理名词</title>
-    <url>/2022/02/25/%E3%80%90%E7%AC%94%E8%AE%B0%E3%80%91%E4%B8%80%E4%BA%9B%E5%8F%A4%E4%BB%A3%E5%9C%B0%E7%90%86%E5%90%8D%E8%AF%8D/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="https://s2.loli.net/2022/05/12/s83odaSyp7JjtYD.jpg" alt="古地理名词解"></p>
-<h3 id="一、山东、山西。"><a href="#一、山东、山西。" class="headerlink" title="一、山东、山西。"></a>一、山东、山西。</h3><p>　　山东、山西成为省名，是元朝以后的事。古史上的山东、山西和现代的位置大不相同。春秋战国时间，秦国和东方各国以崤山为界，东方六国统称“山东”（山左），崤山以西的秦国，称为“山西”（山右）。唐代以后，又以太行山以东（以平原为主）为山东，太行山以西（以山脉高原为主）为山西。</p>
-<h3 id="二、关内、关外、关中。"><a href="#二、关内、关外、关中。" class="headerlink" title="二、关内、关外、关中。"></a>二、关内、关外、关中。</h3><p>　　在春秋战国时期，秦国和东方各国以函谷关为界，函谷关是秦国东方的主要关口和门户，“关内”特指秦国，“关外”特指东方各国。此时的“关”，特指函谷关。到了近代，“关内”“关外”的词意发了变化，“关”特指山海关。“关内”指山海外以里的各省区。“关外”指山海关以外的东北三省。<br>　　历史上的“关中”，是指陕西处四关之中，东边有函谷关，南边有峣关、武关，西边有散关、庞关，北边有萧关、临晋关，是谓“关中”。现代所称“关中”，仅指陕西中部的秦川平原，范围已大为缩小。</p>
-<h3 id="三、河东、河西、河南、河北。"><a href="#三、河东、河西、河南、河北。" class="headerlink" title="三、河东、河西、河南、河北。"></a>三、河东、河西、河南、河北。</h3><p><img src="https://s2.loli.net/2022/05/12/A4Be8fRrjCkJsMI.jpg" alt="河内外1"></p>
-<p>　　“河”在古籍中专指黄河。陕西、山西交界处黄河呈北、南流向，秦汉以后将山西中南部地区称为“河东”（因在黄河以东）（唐末李克用被封为河东节度史，驻晋阳，今太原)，将处于黄河以西的陕西称为“河西”。唐朝时，“河西”则指黄河河套以西的甘肃、青海。“河西走廊”就因在黄河以西而得名。黄河进入华北平原后，基本上呈东西走向，所以将黄河以南地区称为“河南”，以北地区称为“河北”，后来逐渐演变为省级行政区名称。</p>
-<p><img src="https://s2.loli.net/2022/05/12/MgkQuSUjbD2E7Z4.jpg" alt="河内外2"></p>
-<h3 id="四、江东、江南。"><a href="#四、江东、江南。" class="headerlink" title="四、江东、江南。"></a>四、江东、江南。</h3><p>　　“江”在古籍中专指长江。指长江以东地区，古人以东为左，故又称“江左”、“江表”。长江在自金陵以上至九江一段为南北走向，古有中原进入南方吴地的主要渡口，江之东地区称为“江东”，因此地区在长江的东南方，故又称“江南”。后来江南的范围大大扩大，长江中下游的南部统称“江南”。</p>
-<h3 id="五、岭南。"><a href="#五、岭南。" class="headerlink" title="五、岭南。"></a>五、岭南。</h3><p>　　原是指中国南方的南岭山脉之南的地区。历史上，唐朝岭南道，也包括曾经属于中国皇朝统治的越南红河三角洲一带。在宋代以后，越南北部才分离出去。岭南之概念逐渐将越南排除在外。现在提及到岭南一词，特指广东、广西、海南、香港、澳门五省区区。</p>
-]]></content>
-      <categories>
-        <category>学习</category>
-        <category>读书笔记</category>
-      </categories>
-      <tags>
-        <tag>文化常识</tag>
       </tags>
   </entry>
   <entry>
@@ -742,6 +742,46 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【随想】人民总是随波逐流</title>
+    <url>/2022/05/15/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E4%BA%BA%E6%B0%91%E6%80%BB%E6%98%AF%E9%9A%8F%E6%B3%A2%E9%80%90%E6%B5%81/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://s2.loli.net/2022/05/15/RDivYH2EmaQlh9L.png" alt="吉原" style="zoom:50%;" />
+
+<p>　　《银魂·吉原篇》讲述了一个天人统治的地下都市——吉原，这里被描述为“女人的牢笼，男人的天堂”，是无数男人向往的桃源乡。这里的妓女有些是被家人贩卖，有些是诱骗，有些是人口走私……不管有怎样的过去，到这里的女人终其一生都无法享受正常的生活。银时一行人，拼上性命，打倒了统治这里的夜兔之王——凤仙，但是获得了自由的吉原人，早已经走上了不能回头的道路。</p>
+<p>　　“这街上的艺妓们，都是在年幼时还没有判断能力的候被卖到这里，即使让她们在地上生活，也不知道该如何活着，甚至还有很多人完全不知道自由的含义。”</p>
+<p>　　倘若在一个现实中，不外乎出现新的“夜王”，继续骑在这些悲惨人民的头上，延续统治，一如封建历史上不断上演的权力更迭，除了让更多无辜的人们流血牺牲，并不能给人民带来真正的自由解放。</p>
+<p>　　屠龙者的刀剑，终化为恶龙的爪牙，伸向背后的人民。</p>
+<p>　　漫漫人类历史长河里，愚昧的人们一直都在随波逐流。太平年代歌颂明君，乱世里拥立新王，渴求那些有助于维护自身利益的头领，进行无节制的杀戮。正直善良并不能在乱世中保证生存，可是依靠杀戮上位的统治者却需要为了稳定的统治，以刑教推行良善温和的价值观念。</p>
+<p>　　觉醒之前，都是如此。直到马克思，揭露社会历史的阶级剥削关系。建立在物质世界的人类社会，从来没有单纯的男人和女人，同族和异族，宗教和异端，文明与野蛮的战争，都要为了生存而斗争，只是大多时候，我们都在为夺别人之食而相互残杀。欧洲人的侵略扩张，也正是这一模式的延续。转变发生自共产主义运动的兴起，反抗阶级压迫和侵略，是苏共和中共产生的相似历史，也是之后世界共产主义运动中不变的主张。</p>
+<p>　　新中国成立之初，我们一穷二白，但是完成了三大改造，打赢了抗美援朝，尽管穷困，但是社会和人们朝气蓬勃，对明天充满希望。曾经的仇敌日本，也在反思战争的罪行，使得当时的中日关系向着正常化方向发展。</p>
+<p>　　时至今日，我仍认可那时消灭阶级，人人平等的做法。但是很可惜，国内路线错误和世界形势的逼迫，让资本和阶级卷土重来。而这一次卷土重来的它们，聪明且狡诈。经济向好的年代，人人有饭吃，歌颂它们的声音不断。一旦危机来临，它们最先逃跑，而且利益捆绑到政府、学校、医疗、养老等一系列社会公共基础设施和服务，让改革举步维艰。</p>
+<p>　　在今天，让深刻感受到当下社会生存困境的年轻人，更加找不到方向。我们不能挥刀，不能挥拳，也不可以呐喊，除了彷徨。马列毛和鲁迅的话语让当今的现实愈发难堪，甚至让人羞于面对，也害怕有一天不能面对。</p>
+<p>　　人民总是不得不“随波逐流”。</p>
+<center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1459783374&auto=0&height=66"></iframe> </center>
+]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>银魂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【随想】凡士林的味道</title>
+    <url>/2022/04/22/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%87%A1%E5%A3%AB%E6%9E%97%E7%9A%84%E5%91%B3%E9%81%93/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　凡士林第一次从哪里闻到的？</p>
+<p>　　21年实习时候，有一次外派去到温江，有很多材料物资，同事就叫了一辆货拉拉，司机的车上放了好几盒凡士林。那种味道好像很早前就闻到过，但是我们家从来不用，也就不知道是什么。</p>
+<p>　　从锦江到温江，有一个多小时的车程。师傅开着音响，好像是很俗的歌，车窗敞开，路上的风呼啸，也吹不散车内凡士林的味道。</p>
+<p>　　MIX2s到手了，白色外观和陶瓷手感真的太棒，只是可惜屏幕没那么靓。</p>
+<p>　　不知道本来就有还是我随手用六神喷了一下的缘故，现在使用起来总是有一种凡士林的味道。</p>
+]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>随想</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【最近】五一　五四</title>
     <url>/2022/05/04/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E4%BA%94%E4%B8%80%E3%80%80%E4%BA%94%E5%9B%9B/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　五一，去了成都当代影像馆看艺术书展。</p>
@@ -778,30 +818,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【随想】人民总是随波逐流</title>
-    <url>/2022/05/15/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E4%BA%BA%E6%B0%91%E6%80%BB%E6%98%AF%E9%9A%8F%E6%B3%A2%E9%80%90%E6%B5%81/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><img src="https://s2.loli.net/2022/05/15/RDivYH2EmaQlh9L.png" alt="吉原" style="zoom:50%;" />
-
-<p>　　《银魂·吉原篇》讲述了一个天人统治的地下都市——吉原，这里被描述为“女人的牢笼，男人的天堂”，是无数男人向往的桃源乡。这里的妓女有些是被家人贩卖，有些是诱骗，有些是人口走私……不管有怎样的过去，到这里的女人终其一生都无法享受正常的生活。银时一行人，拼上性命，打倒了统治这里的夜兔之王——凤仙，但是获得了自由的吉原人，早已经走上了不能回头的道路。</p>
-<p>　　“这街上的艺妓们，都是在年幼时还没有判断能力的候被卖到这里，即使让她们在地上生活，也不知道该如何活着，甚至还有很多人完全不知道自由的含义。”</p>
-<p>　　倘若在一个现实中，不外乎出现新的“夜王”，继续骑在这些悲惨人民的头上，延续统治，一如封建历史上不断上演的权力更迭，除了让更多无辜的人们流血牺牲，并不能给人民带来真正的自由解放。</p>
-<p>　　屠龙者的刀剑，终化为恶龙的爪牙，伸向背后的人民。</p>
-<p>　　漫漫人类历史长河里，愚昧的人们一直都在随波逐流。太平年代歌颂明君，乱世里拥立新王，渴求那些有助于维护自身利益的头领，进行无节制的杀戮。正直善良并不能在乱世中保证生存，可是依靠杀戮上位的统治者却需要为了稳定的统治，以刑教推行良善温和的价值观念。</p>
-<p>　　觉醒之前，都是如此。直到马克思，揭露社会历史的阶级剥削关系。建立在物质世界的人类社会，从来没有单纯的男人和女人，同族和异族，宗教和异端，文明与野蛮的战争，都要为了生存而斗争，只是大多时候，我们都在为夺别人之食而相互残杀。欧洲人的侵略扩张，也正是这一模式的延续。转变发生自共产主义运动的兴起，反抗阶级压迫和侵略，是苏共和中共产生的相似历史，也是之后世界共产主义运动中不变的主张。</p>
-<p>　　新中国成立之初，我们一穷二白，但是完成了三大改造，打赢了抗美援朝，尽管穷困，但是社会和人们朝气蓬勃，对明天充满希望。曾经的仇敌日本，也在反思战争的罪行，使得当时的中日关系向着正常化方向发展。</p>
-<p>　　时至今日，我仍认可那时消灭阶级，人人平等的做法。但是很可惜，国内路线错误和世界形势的逼迫，让资本和阶级卷土重来。而这一次卷土重来的它们，聪明且狡诈。经济向好的年代，人人有饭吃，歌颂它们的声音不断。一旦危机来临，它们最先逃跑，而且利益捆绑到政府、学校、医疗、养老等一系列社会公共基础设施和服务，让改革举步维艰。</p>
-<p>　　在今天，让深刻感受到当下社会生存困境的年轻人，更加找不到方向。我们不能挥刀，不能挥拳，也不可以呐喊，除了彷徨。马列毛和鲁迅的话语让当今的现实愈发难堪，甚至让人羞于面对，也害怕有一天不能面对。</p>
-<p>　　人民总是不得不“随波逐流”。</p>
-<center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1459783374&auto=0&height=66"></iframe> </center>
-]]></content>
-      <categories>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>银魂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【随想】我还没有麻木</title>
     <url>/2021/08/14/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E6%88%91%E8%BF%98%E6%B2%A1%E6%9C%89%E9%BA%BB%E6%9C%A8/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><center>夜晚的城市，
@@ -809,22 +825,6 @@ tags:
 <p>　　<center>灯光璀璨，车辆如流，</p>
 <p>　　<center>看着人间来往如织，</p>
 <p>　　<center>不由眼眶朦胧、心头颤抖</p>
-]]></content>
-      <categories>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>随想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【随想】凡士林的味道</title>
-    <url>/2022/04/22/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%87%A1%E5%A3%AB%E6%9E%97%E7%9A%84%E5%91%B3%E9%81%93/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　凡士林第一次从哪里闻到的？</p>
-<p>　　21年实习时候，有一次外派去到温江，有很多材料物资，同事就叫了一辆货拉拉，司机的车上放了好几盒凡士林。那种味道好像很早前就闻到过，但是我们家从来不用，也就不知道是什么。</p>
-<p>　　从锦江到温江，有一个多小时的车程。师傅开着音响，好像是很俗的歌，车窗敞开，路上的风呼啸，也吹不散车内凡士林的味道。</p>
-<p>　　MIX2s到手了，白色外观和陶瓷手感真的太棒，只是可惜屏幕没那么靓。</p>
-<p>　　不知道本来就有还是我随手用六神喷了一下的缘故，现在使用起来总是有一种凡士林的味道。</p>
 ]]></content>
       <categories>
         <category>随想</category>
@@ -846,6 +846,19 @@ tags:
         <category>随想</category>
       </categories>
       <tags>
+        <tag>随想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【随想】由书写而联想</title>
+    <url>/2021/07/24/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E7%94%B1%E4%B9%A6%E5%86%99%E8%80%8C%E8%81%94%E6%83%B3/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　贬抑书写文字的观点“逻各斯中心主义”在当代或许将更胜以往。我们知道柏拉图的三张床，理式的、现实的和画家模仿的，其中只有第一种是最真实的，而第三种画家的则是模仿的模仿，这种艺术的层面同样作用于文字层面，文字无论再精妙，也无法触及理式的真实，正如道家老子说的“道可道非常道”。<br>　　如今对这样的观点做新的解释，摄影术的出现让我们前所未有的同镜头前的一切事物发生关联，当今我们更可以随时随地看到听到那些处于镜头前的东西。<br>　　那么书写文字的意义又将如何？<br>　　我们书写着感受到的东西，却是经过个人的加工，镜头记录的却分毫毕现的做了还原，（当然拍摄者用个人手法做出想要的镜头效果）<br>　　三张床的理论是否还完整的恰如其分？</p>
+]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>狂想不达米亚</tag>
         <tag>随想</tag>
       </tags>
   </entry>
@@ -875,19 +888,6 @@ tags:
       <tags>
         <tag>随想</tag>
         <tag>反思</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【随想】由书写而联想</title>
-    <url>/2021/07/24/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E7%94%B1%E4%B9%A6%E5%86%99%E8%80%8C%E8%81%94%E6%83%B3/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>　　贬抑书写文字的观点“逻各斯中心主义”在当代或许将更胜以往。我们知道柏拉图的三张床，理式的、现实的和画家模仿的，其中只有第一种是最真实的，而第三种画家的则是模仿的模仿，这种艺术的层面同样作用于文字层面，文字无论再精妙，也无法触及理式的真实，正如道家老子说的“道可道非常道”。<br>　　如今对这样的观点做新的解释，摄影术的出现让我们前所未有的同镜头前的一切事物发生关联，当今我们更可以随时随地看到听到那些处于镜头前的东西。<br>　　那么书写文字的意义又将如何？<br>　　我们书写着感受到的东西，却是经过个人的加工，镜头记录的却分毫毕现的做了还原，（当然拍摄者用个人手法做出想要的镜头效果）<br>　　三张床的理论是否还完整的恰如其分？</p>
-]]></content>
-      <categories>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>狂想不达米亚</tag>
-        <tag>随想</tag>
       </tags>
   </entry>
   <entry>
