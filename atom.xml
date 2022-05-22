@@ -6,7 +6,7 @@
   <link href="https://wk-1999.github.io/atom.xml" rel="self"/>
   
   <link href="https://wk-1999.github.io/"/>
-  <updated>2022-05-20T15:29:10.133Z</updated>
+  <updated>2022-05-22T11:32:51.332Z</updated>
   <id>https://wk-1999.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【学习】六十四卦符号及大衍筮法首占</title>
+    <link href="https://wk-1999.github.io/2022/05/22/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%A4%A7%E8%A1%8D%E7%AD%AE%E6%B3%95%E9%A6%96%E5%8D%A0/"/>
+    <id>https://wk-1999.github.io/2022/05/22/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%A4%A7%E8%A1%8D%E7%AD%AE%E6%B3%95%E9%A6%96%E5%8D%A0/</id>
+    <published>2022-05-22T10:27:35.000Z</published>
+    <updated>2022-05-22T11:32:51.332Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="周易" scheme="https://wk-1999.github.io/tags/%E5%91%A8%E6%98%93/"/>
+    
+  </entry>
   
   <entry>
     <title>【电影】Love, Death &amp; Robots (2022)</title>
@@ -500,33 +525,6 @@
     <category term="民谣" scheme="https://wk-1999.github.io/tags/%E6%B0%91%E8%B0%A3/"/>
     
     <category term="电音" scheme="https://wk-1999.github.io/tags/%E7%94%B5%E9%9F%B3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo搭建与维护（二）在新设备接管旧站点</title>
-    <link href="https://wk-1999.github.io/2021/12/15/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9C%A8%E6%96%B0%E8%AE%BE%E5%A4%87%E6%8E%A5%E7%AE%A1%E6%97%A7%E7%AB%99%E7%82%B9/"/>
-    <id>https://wk-1999.github.io/2021/12/15/Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9C%A8%E6%96%B0%E8%AE%BE%E5%A4%87%E6%8E%A5%E7%AE%A1%E6%97%A7%E7%AB%99%E7%82%B9/</id>
-    <published>2021-12-15T01:27:30.000Z</published>
-    <updated>2022-04-20T05:34:14.865Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="学习" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    <category term="Hexo" scheme="https://wk-1999.github.io/categories/%E5%AD%A6%E4%B9%A0/Hexo/"/>
-    
-    
-    <category term="Hexo" scheme="https://wk-1999.github.io/tags/Hexo/"/>
     
   </entry>
   
