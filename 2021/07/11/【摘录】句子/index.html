@@ -16,7 +16,7 @@
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"
       />
-      <title>Hexo及Markdown常用写作语法 |  不知所研</title>
+      <title>【摘录】句子 |  不知所研</title>
   <meta name="generator" content="hexo-theme-ayer">
       
       <link rel="shortcut icon" href="/logo.ico" />
@@ -60,7 +60,7 @@
     <main class="content on">
       <section class="outer">
   <article
-  id="post-Hexo及Markdown常用写作语法"
+  id="post-【摘录】句子"
   class="article article-type-post"
   itemscope
   itemprop="blogPost"
@@ -71,7 +71,7 @@
     <header class="article-header">
        
 <h1 class="article-title sea-center" style="border-left:0" itemprop="name">
-  Hexo及Markdown常用写作语法
+  【摘录】句子
 </h1>
  
 
@@ -79,11 +79,11 @@
     </header>
      
     <div class="article-meta">
-      <a href="/2022/07/11/Hexo%E5%8F%8AMarkdown%E5%B8%B8%E7%94%A8%E5%86%99%E4%BD%9C%E8%AF%AD%E6%B3%95/" class="article-date">
-  <time datetime="2022-07-11T12:49:05.000Z" itemprop="datePublished">2022-07-11</time>
+      <a href="/2021/07/11/%E3%80%90%E6%91%98%E5%BD%95%E3%80%91%E5%8F%A5%E5%AD%90/" class="article-date">
+  <time datetime="2021-07-11T13:36:40.000Z" itemprop="datePublished">2021-07-11</time>
 </a> 
   <div class="article-category">
-    <a class="article-category-link" href="/categories/%E5%AD%A6%E4%B9%A0/">学习</a>
+    <a class="article-category-link" href="/categories/%E5%AD%A6%E4%B9%A0/">学习</a> / <a class="article-category-link" href="/categories/%E5%AD%A6%E4%B9%A0/%E6%91%98%E5%BD%95/">摘录</a>
   </div>
   
 <div class="word_count">
@@ -91,7 +91,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字数统计:</span>
-            <span class="post-count">261</span>
+            <span class="post-count">598</span>
         </span>
     </span>
 
@@ -100,7 +100,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-book-open-line"></i>
             <span class="post-meta-item-text"> 阅读时长≈</span>
-            <span class="post-count">1 分钟</span>
+            <span class="post-count">2 分钟</span>
         </span>
     </span>
 </div>
@@ -115,55 +115,30 @@
   
     <div class="article-entry" itemprop="articleBody">
        
-  <h1 id="开头属性"><a href="#开头属性" class="headerlink" title="开头属性"></a>开头属性</h1><p>采用统一的yaml格式，用三条短横线上下分隔</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">categories: #&#x27;单层分类&#x27;</span><br><span class="line">- 一级分类</span><br><span class="line">- 二级分类</span><br><span class="line">tags: </span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">no_word_count: true #关闭字数统计</span><br><span class="line">comments: false #关闭评论</span><br><span class="line">albums: [[&quot;$url&quot;,&quot;$fileName&quot;],[&quot;$url&quot;,&quot;$fileName&quot;]] #图册，Picgo自定义链接格式</span><br><span class="line">date:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<h1 id="正文-Markdown"><a href="#正文-Markdown" class="headerlink" title="正文 | Markdown"></a>正文 | Markdown</h1><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">| 表头1|表头2|表头3|表头4</span><br><span class="line">|-| :- | :-: | -: |</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br></pre></td></tr></table></figure>
-
-<p>​    演示</p>
-<table>
-<thead>
-<tr>
-<th>表头1</th>
-<th align="left">表头2</th>
-<th align="center">表头3</th>
-<th align="right">表头4</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>默认左对齐</td>
-<td align="left">左对齐</td>
-<td align="center">居中对齐</td>
-<td align="right">右对齐</td>
-</tr>
-<tr>
-<td>默认左对齐</td>
-<td align="left">左对齐</td>
-<td align="center">居中对齐</td>
-<td align="right">右对齐</td>
-</tr>
-<tr>
-<td>默认左对齐</td>
-<td align="left">左对齐</td>
-<td align="center">居中对齐</td>
-<td align="right">右对齐</td>
-</tr>
-</tbody></table>
-<h2 id="居中"><a href="#居中" class="headerlink" title="居中"></a>居中</h2><p>​    代码</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;center&gt;居中文字&lt;/center&gt;</span><br></pre></td></tr></table></figure>
-
-<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line">这是代码</span><br></pre></td></tr></table></figure>
-
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&gt;引用</span><br><span class="line">&gt;&gt;次级引用</span><br></pre></td></tr></table></figure>
-
+  <h1 id="文学"><a href="#文学" class="headerlink" title="文学"></a>文学</h1><p>米兰·昆德拉《不朽》——</p>
 <blockquote>
-<p>引用</p>
+<p>公路不过是将一点与另一点联系起来的普通路线。公路本身没有意义，唯有公路连接的两点才有意义。而道路是对空间表示的敬意。每一段路本身都具有一种含义，催促我们歇歇脚。</p>
+</blockquote>
+<p>陈寅恪1929《清华大学王观堂先生纪念碑铭》——</p>
 <blockquote>
-<p>二级引用</p>
+<p>士之读书治学，盖将以脱心志于俗谛之桎梏，真理因得以发扬。</p>
 </blockquote>
+<p>德 尼采《敌基督者》——</p>
+<blockquote>
+<p>谁终将声震人间，必长久深自缄默。谁终将点燃闪电，必长久如云漂泊。</p>
 </blockquote>
-<hr>
-<h1 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h1><p>[1] <a target="_blank" rel="noopener" href="https://zhangjichengcc.github.io/blog/2018/02/27/hexo-%E5%88%9B%E5%BB%BA%E6%96%87%E7%AB%A0/">hexo 创建文章 &amp; 文章缩略图及banner &amp; MarkDown </a></p>
+<p>不详</p>
+<blockquote>
+<p>文学批评的最终目的，不是为了验证以至构筑某种文学批评理论，而在于通过文本解读或赏析促成一种深度认知和审美体验。</p>
+</blockquote>
+<p>某次讲座</p>
+<blockquote>
+<p>但没有什么比生活世界本身更有说服力。因为事实上，波澜壮阔的消费社会每天都在证明物感那无可阻挡、摧枯拉朽的力量。<br>所以醒醒吧，意义宰制的时代终结了自由的物感打动才是最富正义的力量，至为深刻的时代精神。这是一场姗姗来迟但不可能永久缺席的文艺复兴。而物感主义所做的，不过是煽风点火，顺势而为。<br>只是后发国家穷凶极恶的功利主义在负隅顽抗。混乱的物序，粗鄙的物感，不仅严重地败坏了我们的存在感，也极大地损害了我们的族类形象。为此，物感主义的使命是重建物序，在对全部物体系的崭新物感的创造中，将艺术带回生活的现场，并藉此重建生活世界的尊严。<br>除此而外，物感主义还必须远离婆婆妈妈的当代艺术，远离那些自以为是、简单粗暴的时代诊断，远离那些投机取巧、廉价空洞的意识形态批判，尤其要远离那些像雾霾一样没完没了的自我抒情。</p>
+</blockquote>
+<h1 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h1><p>不详</p>
+<blockquote>
+<p>0请高明，1可赛艇，2院讲话，3个代表，4次起身，5可奉告，6四水柜，7因祸福，8门外语,9十大寿，10全长者，百万蛤丝，千言万语，万寿吾江！</p>
+</blockquote>
  
       <!-- reward -->
       
@@ -228,12 +203,12 @@
     <a class="modal-close" href="javascript:;"><i class="ri-close-circle-line"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://wk-1999.github.io/2022/07/11/Hexo%E5%8F%8AMarkdown%E5%B8%B8%E7%94%A8%E5%86%99%E4%BD%9C%E8%AF%AD%E6%B3%95/" alt="微信分享二维码">
+      <img src="//api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://wk-1999.github.io/2021/07/11/%E3%80%90%E6%91%98%E5%BD%95%E3%80%91%E5%8F%A5%E5%AD%90/" alt="微信分享二维码">
     </div>
 </div>
 
 <div id="share-mask"></div>  
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hexo/" rel="tag">Hexo</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%AD%A6%E4%B9%A0/" rel="tag">学习</a></li></ul>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/ing/" rel="tag">ing</a></li></ul>
 
     </footer>
   </div>
@@ -241,10 +216,19 @@
    
   <nav class="article-nav">
     
+      <a href="/2021/07/11/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E8%A7%86%E9%A2%91%E6%A0%BC%E5%BC%8F%E8%AF%B4%E6%98%8E/" class="article-nav-link">
+        <strong class="article-nav-caption">上一篇</strong>
+        <div class="article-nav-title">
+          
+            视频格式说明
+          
+        </div>
+      </a>
     
-      <a href="/2022/07/09/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E8%8D%92%E5%BA%9F%E4%B8%8E%E5%BF%AB%E4%B9%90/" class="article-nav-link">
+    
+      <a href="/2021/07/11/%E3%80%90%E6%91%98%E5%BD%95%E3%80%91%E5%82%85%E5%88%9A%E3%80%8A%E5%85%88%E7%A7%A6%E6%96%87%E5%AD%A6%E6%96%87%E7%8C%AE%E5%AD%A6%E5%88%8D%E8%AE%AE%E8%AE%B2%E5%BA%A7%E7%BA%AA%E8%A6%81%E3%80%8B/" class="article-nav-link">
         <strong class="article-nav-caption">下一篇</strong>
-        <div class="article-nav-title">【最近】荒废与快乐</div>
+        <div class="article-nav-title">【摘录】傅刚《先秦文学文献学刍议讲座纪要》</div>
       </a>
     
   </nav>
