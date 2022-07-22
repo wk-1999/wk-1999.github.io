@@ -13,6 +13,704 @@
 ]]></content>
   </entry>
   <entry>
+    <title>【学习】基础正则表达式速查表</title>
+    <url>/2022/07/22/%E3%80%90%E5%AD%A6%E4%B9%A0%E3%80%91%E5%9F%BA%E7%A1%80%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%80%9F%E6%9F%A5%E8%A1%A8/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><em>引自：<a href="https://r2coding.com/#/?id=%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F">Road 2 Coding</a></em></p>
+<h1 id="基础正则表达式速查表"><a href="#基础正则表达式速查表" class="headerlink" title="基础正则表达式速查表"></a><strong>基础正则表达式速查表</strong></h1><h2 id="字符"><a href="#字符" class="headerlink" title="字符"></a><strong>字符</strong></h2><table>
+<thead>
+<tr>
+<th align="left">表达式</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>[abc]</code></td>
+<td align="left">字符集。匹配集合中所含的任一字符。</td>
+</tr>
+<tr>
+<td align="left"><code>[^abc]</code></td>
+<td align="left">否定字符集。匹配任何不在集合中的字符。</td>
+</tr>
+<tr>
+<td align="left"><code>[a-z]</code></td>
+<td align="left">字符范围。匹配指定范围内的任意字符。</td>
+</tr>
+<tr>
+<td align="left"><code>.</code></td>
+<td align="left">匹配除换行符以外的任何单个字符。</td>
+</tr>
+<tr>
+<td align="left"><code>\</code></td>
+<td align="left">转义字符。</td>
+</tr>
+<tr>
+<td align="left"><code>\w</code></td>
+<td align="left">匹配任何字母数字，包括下划线（等价于<code>[A-Za-z0-9_]</code>）。</td>
+</tr>
+<tr>
+<td align="left"><code>\W</code></td>
+<td align="left">匹配任何非字母数字（等价于<code>[^A-Za-z0-9_]</code>）。</td>
+</tr>
+<tr>
+<td align="left"><code>\d</code></td>
+<td align="left">数字。匹配任何数字。</td>
+</tr>
+<tr>
+<td align="left"><code>\D</code></td>
+<td align="left">非数字。匹配任何非数字字符。</td>
+</tr>
+<tr>
+<td align="left"><code>\s</code></td>
+<td align="left">空白。匹配任何空白字符，包括空格、制表符等。</td>
+</tr>
+<tr>
+<td align="left"><code>\S</code></td>
+<td align="left">非空白。匹配任何非空白字符。</td>
+</tr>
+</tbody></table>
+<h2 id="分组和引用"><a href="#分组和引用" class="headerlink" title="分组和引用"></a><strong>分组和引用</strong></h2><table>
+<thead>
+<tr>
+<th align="left">表达式</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>(expression)</code></td>
+<td align="left">分组。匹配括号里的整个表达式。</td>
+</tr>
+<tr>
+<td align="left"><code>(?:expression)</code></td>
+<td align="left">非捕获分组。匹配括号里的整个字符串但不获取匹配结果，拿不到分组引用。</td>
+</tr>
+<tr>
+<td align="left"><code>\num</code></td>
+<td align="left">对前面所匹配分组的引用。比如<code>(\d)\1</code>可以匹配两个相同的数字，<code>(Code)(Sheep)\1\2</code>则可以匹配<code>CodeSheepCodeSheep</code>。</td>
+</tr>
+</tbody></table>
+<h2 id="锚点-边界"><a href="#锚点-边界" class="headerlink" title="锚点/边界"></a><strong>锚点/边界</strong></h2><table>
+<thead>
+<tr>
+<th align="left">表达式</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>^</code></td>
+<td align="left">匹配字符串或行开头。</td>
+</tr>
+<tr>
+<td align="left"><code>$</code></td>
+<td align="left">匹配字符串或行结尾。</td>
+</tr>
+<tr>
+<td align="left"><code>\b</code></td>
+<td align="left">匹配单词边界。比如<code>Sheep\b</code>可以匹配<code>CodeSheep</code>末尾的<code>Sheep</code>，不能匹配<code>CodeSheepCode</code>中的<code>Sheep</code>。</td>
+</tr>
+<tr>
+<td align="left"><code>\B</code></td>
+<td align="left">匹配非单词边界。比如<code>Code\B</code>可以匹配<code>HelloCodeSheep</code>中的<code>Code</code>，不能匹配<code>HelloCode</code>中的<code>Code</code>。</td>
+</tr>
+</tbody></table>
+<h2 id="数量表示"><a href="#数量表示" class="headerlink" title="数量表示"></a><strong>数量表示</strong></h2><table>
+<thead>
+<tr>
+<th align="left">表达式</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>?</code></td>
+<td align="left">匹配前面的表达式0个或1个。即表示可选项。</td>
+</tr>
+<tr>
+<td align="left"><code>+</code></td>
+<td align="left">匹配前面的表达式至少1个。</td>
+</tr>
+<tr>
+<td align="left"><code>*</code></td>
+<td align="left">匹配前面的表达式0个或多个。</td>
+</tr>
+<tr>
+<td align="left">`</td>
+<td align="left">`</td>
+</tr>
+<tr>
+<td align="left"><code>&#123;m&#125;</code></td>
+<td align="left">匹配前面的表达式m个。</td>
+</tr>
+<tr>
+<td align="left"><code>&#123;m,&#125;</code></td>
+<td align="left">匹配前面的表达式最少m个。</td>
+</tr>
+<tr>
+<td align="left"><code>&#123;m,n&#125;</code></td>
+<td align="left">匹配前面的表达式最少m个，最多n个。</td>
+</tr>
+</tbody></table>
+<h2 id="预查断言"><a href="#预查断言" class="headerlink" title="预查断言"></a><strong>预查断言</strong></h2><table>
+<thead>
+<tr>
+<th align="left">表达式</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>(?=)</code></td>
+<td align="left">正向预查。比如<code>Code(?=Sheep)</code>能匹配<code>CodeSheep</code>中的<code>Code</code>，但不能匹配<code>CodePig</code>中的<code>Code</code>。</td>
+</tr>
+<tr>
+<td align="left"><code>(?!)</code></td>
+<td align="left">正向否定预查。比如<code>Code(?!Sheep)</code>不能匹配<code>CodeSheep</code>中的<code>Code</code>，但能匹配<code>CodePig</code>中的<code>Code</code>。</td>
+</tr>
+<tr>
+<td align="left"><code>(?&lt;=)</code></td>
+<td align="left">反向预查。比如<code>(?&lt;=Code)Sheep</code>能匹配<code>CodeSheep</code>中的<code>Sheep</code>，但不能匹配<code>ReadSheep</code>中的<code>Sheep</code>。</td>
+</tr>
+<tr>
+<td align="left"><code>(?&lt;!)</code></td>
+<td align="left">反向否定预查。比如<code>(?&lt;!Code)Sheep</code>不能匹配<code>CodeSheep</code>中的<code>Sheep</code>，但能匹配<code>ReadSheep</code>中的<code>Sheep</code>。</td>
+</tr>
+</tbody></table>
+<h2 id="特殊标志"><a href="#特殊标志" class="headerlink" title="特殊标志"></a><strong>特殊标志</strong></h2><table>
+<thead>
+<tr>
+<th align="left">表达式</th>
+<th align="left">描述</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><code>/.../i</code></td>
+<td align="left">忽略大小写。</td>
+</tr>
+<tr>
+<td align="left"><code>/.../g</code></td>
+<td align="left">全局匹配。</td>
+</tr>
+<tr>
+<td align="left"><code>/.../m</code></td>
+<td align="left">多行修饰符。用于多行匹配。</td>
+</tr>
+</tbody></table>
+<h1 id="常用正则表达式示例"><a href="#常用正则表达式示例" class="headerlink" title="常用正则表达式示例"></a><strong>常用正则表达式示例</strong></h1><h2 id="数字校验"><a href="#数字校验" class="headerlink" title="数字校验"></a><strong>数字校验</strong></h2><table>
+<thead>
+<tr>
+<th align="left">描述</th>
+<th align="left">正则表达式</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">数字</td>
+<td align="left"><code>^[0-9]*$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">n位数字</td>
+<td align="left"><code>^\d&#123;n&#125;$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">至少n位数字</td>
+<td align="left"><code>^\d&#123;n,&#125;$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">m~n位数字</td>
+<td align="left"><code>^\d&#123;m,n&#125;$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">整数</td>
+<td align="left"><code>^(-?[1-9]\d*)$</code></td>
+<td align="left">非0开头，包括正整数和负整数</td>
+</tr>
+<tr>
+<td align="left">正整数</td>
+<td align="left"><code>^[1-9]\d*$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">负整数</td>
+<td align="left"><code>^-[1-9]\d*$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">非负整数</td>
+<td align="left">`^(([1-9]\d*)</td>
+<td align="left">0)$`</td>
+</tr>
+<tr>
+<td align="left">非正整数</td>
+<td align="left">`^((-[1-9]\d*)</td>
+<td align="left">0)$`</td>
+</tr>
+<tr>
+<td align="left">浮点数</td>
+<td align="left">`^-?(?:[1-9]\d<em>.\d</em></td>
+<td align="left">0.\d*[1-9]\d*</td>
+</tr>
+<tr>
+<td align="left">正浮点数</td>
+<td align="left">`^(?:[1-9]\d<em>.\d</em></td>
+<td align="left">0.\d*[1-9]\d*)$`</td>
+</tr>
+<tr>
+<td align="left">负浮点数</td>
+<td align="left">`^-(?:[1-9]\d<em>.\d</em></td>
+<td align="left">0.\d*[1-9]\d*)$`</td>
+</tr>
+<tr>
+<td align="left">非正浮点数</td>
+<td align="left">`^(?:-(?:[1-9]\d*.\d+</td>
+<td align="left">0.\d*[1-9]\d*)</td>
+</tr>
+<tr>
+<td align="left">非负浮点数</td>
+<td align="left">`^(?:[1-9]\d*.\d+</td>
+<td align="left">0.\d+</td>
+</tr>
+<tr>
+<td align="left">仅一位小数</td>
+<td align="left">`^-?(?:0</td>
+<td align="left">[1-9][0-9]*).[0-9]{1}$`</td>
+</tr>
+<tr>
+<td align="left">最少一位小数</td>
+<td align="left">`^-?(?:0</td>
+<td align="left">[1-9][0-9]*).[0-9]{1,}$`</td>
+</tr>
+<tr>
+<td align="left">最多两位小数</td>
+<td align="left">`^-?(?:0</td>
+<td align="left">[1-9][0-9]*).[0-9]{1,2}$`</td>
+</tr>
+<tr>
+<td align="left">连续重复的数字</td>
+<td align="left"><code>^(\d)\1+$</code></td>
+<td align="left">例如：<code>111</code>，<code>222</code></td>
+</tr>
+</tbody></table>
+<h2 id="字符校验"><a href="#字符校验" class="headerlink" title="字符校验"></a><strong>字符校验</strong></h2><table>
+<thead>
+<tr>
+<th align="left">描述</th>
+<th align="left">正则表达式</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">中文</td>
+<td align="left"><code>^[\u4E00-\u9FA5]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">全角字符</td>
+<td align="left"><code>^[\uFF00-\uFFFF]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">半角字符</td>
+<td align="left"><code>^[\u0000-\u00FF]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">英文字符串（大写）</td>
+<td align="left"><code>^[A-Z]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">英文字符串（小写）</td>
+<td align="left"><code>^[a-z]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">英文字符串（不区分大小写）</td>
+<td align="left"><code>^[A-Za-z]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">中文和数字</td>
+<td align="left">`^(?:[\u4E00-\u9FA5]{0,}</td>
+<td align="left">\d)+$`</td>
+</tr>
+<tr>
+<td align="left">英文和数字</td>
+<td align="left"><code>^[A-Za-z0-9]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">数字、英文字母或者下划线组成的字符串</td>
+<td align="left"><code>^\w+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">中文、英文、数字包括下划线</td>
+<td align="left"><code>^[\u4E00-\u9FA5\w]+$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">不含字母的字符串</td>
+<td align="left"><code>^[^A-Za-z]*$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">连续重复的字符串</td>
+<td align="left"><code>^(.)\1+$</code></td>
+<td align="left">例如：<code>aaa</code>，<code>bbb</code></td>
+</tr>
+<tr>
+<td align="left">长度为n的字符串</td>
+<td align="left"><code>^.&#123;n&#125;$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">ASCII</td>
+<td align="left"><code>^[ -~]$</code></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h2 id="日期和时间校验"><a href="#日期和时间校验" class="headerlink" title="日期和时间校验"></a><strong>日期和时间校验</strong></h2><table>
+<thead>
+<tr>
+<th align="left">描述</th>
+<th align="left">正则表达式</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">日期</td>
+<td align="left">`^\d{1,4}-(?:1[0-2]</td>
+<td align="left">0?[1-9])-(?:0?[1-9]</td>
+</tr>
+<tr>
+<td align="left">日期</td>
+<td align="left">`^(?:(?!0000)[0-9]{4}-(?:(?:0[1-9]</td>
+<td align="left">1[0-2])-(?:0[1-9]</td>
+</tr>
+<tr>
+<td align="left">时间</td>
+<td align="left">`^(?:1[0-2]</td>
+<td align="left">0?[1-9]):[0-5]\d:[0-5]\d$`</td>
+</tr>
+<tr>
+<td align="left">时间</td>
+<td align="left">`^(?:[01]\d</td>
+<td align="left">2[0-3]):[0-5]\d:[0-5]\d$`</td>
+</tr>
+<tr>
+<td align="left">日期+时间</td>
+<td align="left">`^(\d{1,4}-(?:1[0-2]</td>
+<td align="left">0?[1-9])-(?:0?[1-9]</td>
+</tr>
+</tbody></table>
+<h2 id="日常生活相关"><a href="#日常生活相关" class="headerlink" title="日常生活相关"></a><strong>日常生活相关</strong></h2><table>
+<thead>
+<tr>
+<th align="left">描述</th>
+<th align="left">正则表达式</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">中文名</td>
+<td align="left"><code>^[\u4E00-\u9FA5·]&#123;2,16&#125;$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">英文名</td>
+<td align="left"><code>^[a-zA-Z][a-zA-Z\s]&#123;0,20&#125;[a-zA-Z]$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">车牌号</td>
+<td align="left"><code>^[京津沪渝冀豫云辽黑湘皖鲁新苏浙赣鄂桂甘晋蒙陕吉闽贵粤青藏川宁琼使领][A-HJ-NP-Z][A-HJ-NP-Z0-9]&#123;4&#125;[A-HJ-NP-Z0-9挂学警港澳]$</code></td>
+<td align="left">不含新能源</td>
+</tr>
+<tr>
+<td align="left">车牌号</td>
+<td align="left">`^[京津沪渝冀豫云辽黑湘皖鲁新苏浙赣鄂桂甘晋蒙陕吉闽贵粤青藏川宁琼使领]<a href="?:(?:%5BA-HJ-NP-Z0-9%5D%7B4%7D%5BA-HJ-NP-Z0-9%E6%8C%82%E5%AD%A6%E8%AD%A6%E6%B8%AF%E6%BE%B3%5D">A-HJ-NP-Z</a></td>
+<td align="left">(?:(?:\d{5}[A-HJK])</td>
+</tr>
+<tr>
+<td align="left">火车车次</td>
+<td align="left"><code>^[GCDZTSPKXLY1-9]\d&#123;1,4&#125;$</code></td>
+<td align="left">例如：<code>G1234</code></td>
+</tr>
+<tr>
+<td align="left">手机号</td>
+<td align="left">`^(?:(?:+</td>
+<td align="left">00)86)?1[3-9]\d{9}$`</td>
+</tr>
+<tr>
+<td align="left">手机号</td>
+<td align="left">`^(?:(?:+</td>
+<td align="left">00)86)?1(?:(?:3[\d])</td>
+</tr>
+<tr>
+<td align="left">固话号码</td>
+<td align="left">`^(?:(?:\d{3}-)?\d{8}</td>
+<td align="left">^(?:\d{4}-)?\d{7,8})(?:-\d+)?$`</td>
+</tr>
+<tr>
+<td align="left">手机IMEI码</td>
+<td align="left"><code>^\d&#123;15,17&#125;$</code></td>
+<td align="left">一般是15位</td>
+</tr>
+<tr>
+<td align="left">邮编</td>
+<td align="left">`^(?:0[1-7]</td>
+<td align="left">1[0-356]</td>
+</tr>
+<tr>
+<td align="left">统一社会信用代码</td>
+<td align="left"><code>^[0-9A-HJ-NPQRTUWXY]&#123;2&#125;\d&#123;6&#125;[0-9A-HJ-NPQRTUWXY]&#123;10&#125;$</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">身份证号码(1代)</td>
+<td align="left">`^[1-9]\d{7}(?:0\d</td>
+<td align="left">10</td>
+</tr>
+<tr>
+<td align="left">身份证号码(2代)</td>
+<td align="left">`^[1-9]\d{5}(?:18</td>
+<td align="left">19</td>
+</tr>
+<tr>
+<td align="left">QQ号</td>
+<td align="left"><code>^[1-9][0-9]&#123;4,&#125;$</code></td>
+<td align="left">一般是5到10位</td>
+</tr>
+<tr>
+<td align="left">微信号</td>
+<td align="left"><code>^[a-zA-Z][-_a-zA-Z0-9]&#123;5,19&#125;$</code></td>
+<td align="left">一般6~20位，字母开头，可包含字母、数字、-、_，不含特殊字符</td>
+</tr>
+<tr>
+<td align="left">股票代码</td>
+<td align="left">`^(s[hz]</td>
+<td align="left">S[HZ])(000[\d]{3}</td>
+</tr>
+<tr>
+<td align="left">银行卡卡号</td>
+<td align="left">`^[1-9]{1}(?:\d{15}</td>
+<td align="left">\d{18})$`</td>
+</tr>
+</tbody></table>
+<h2 id="互联网相关"><a href="#互联网相关" class="headerlink" title="互联网相关"></a><strong>互联网相关</strong></h2><table>
+<thead>
+<tr>
+<th align="left">描述</th>
+<th align="left">正则表达式</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">域名</td>
+<td align="left"><code>^[a-zA-Z0-9][-a-zA-Z0-9]&#123;0,62&#125;(?:\.[a-zA-Z0-9][-a-zA-Z0-9]&#123;0,62&#125;)+$</code></td>
+<td align="left">例如：r2coding.com</td>
+</tr>
+<tr>
+<td align="left">网址</td>
+<td align="left"><code>^(?:https?:\/\/)?[a-zA-Z0-9][-a-zA-Z0-9]&#123;0,62&#125;(?:\.[a-zA-Z0-9][-a-zA-Z0-9]&#123;0,62&#125;)+$</code></td>
+<td align="left">例如：<a href="https://www.r2coding.com/">https://www.r2coding.com/</a></td>
+</tr>
+<tr>
+<td align="left">带端口号的网址(或IP)</td>
+<td align="left"><code>^(?:https?:\/\/)?[\w-]+(?:\.[\w-]+)+:\d&#123;1,5&#125;\/?$</code></td>
+<td align="left">例如：<code>http://127.0.0.1:8888/</code></td>
+</tr>
+<tr>
+<td align="left">URL</td>
+<td align="left"><code>^https?:\/\/(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]&#123;1,256&#125;\.[a-zA-Z0-9()]&#123;1,6&#125;\b(?:[-a-zA-Z0-9()!@:%_\+.~#?&amp;\/\/=]*)$</code></td>
+<td align="left">例如：<a href="https://www.r2coding.com/#/README?id=1">https://www.r2coding.com/#/README?id=1</a></td>
+</tr>
+<tr>
+<td align="left">邮箱email</td>
+<td align="left"><code>^[A-Za-z0-9\u4e00-\u9fa5]+@[a-zA-Z0-9][-a-zA-Z0-9]&#123;0,62&#125;(?:\.[a-zA-Z0-9][-a-zA-Z0-9]&#123;0,62&#125;)+$</code></td>
+<td align="left">支持中文，例如：<code>codesheep@cs.com</code></td>
+</tr>
+<tr>
+<td align="left">用户名</td>
+<td align="left"><code>^[a-zA-Z0-9_-]&#123;4,20&#125;$</code></td>
+<td align="left">4到20位</td>
+</tr>
+<tr>
+<td align="left">弱密码</td>
+<td align="left"><code>^[\w]&#123;6,16&#125;$</code></td>
+<td align="left">6~16位，包含大小写字母和数字的组合</td>
+</tr>
+<tr>
+<td align="left">强密码</td>
+<td align="left"><code>^.*(?=.&#123;6,&#125;)(?=.*\d)(?=.*[A-Z])(?=.*[a-z])(?=.*[!@\.#$%^&amp;*? ]).*$</code></td>
+<td align="left">至少6位，包括至少1个大写字母，1个小写字母，1个数字，1个特殊字符</td>
+</tr>
+<tr>
+<td align="left">端口号</td>
+<td align="left">`^(?:[0-9]</td>
+<td align="left">[1-9][0-9]{1,3}</td>
+</tr>
+<tr>
+<td align="left">IPv4地址</td>
+<td align="left">`^(?:(?:\d</td>
+<td align="left">[1-9]\d</td>
+</tr>
+<tr>
+<td align="left">IPv4地址+端口</td>
+<td align="left">`^(?:(?:\d</td>
+<td align="left">[1-9]\d</td>
+</tr>
+<tr>
+<td align="left">IPv6地址</td>
+<td align="left">`^(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}</td>
+<td align="left">([0-9a-fA-F]{1,4}:){1,7}:</td>
+</tr>
+<tr>
+<td align="left">IPv6地址+端口</td>
+<td align="left">`^[(([0-9a-fA-F]{1,4}:){7,7}[0-9a-fA-F]{1,4}</td>
+<td align="left">([0-9a-fA-F]{1,4}:){1,7}:</td>
+</tr>
+<tr>
+<td align="left">子网掩码</td>
+<td align="left">`^(?:254</td>
+<td align="left">252</td>
+</tr>
+<tr>
+<td align="left">MAC地址</td>
+<td align="left">`^(?:(?:[a-f0-9A-F]{2}:){5}</td>
+<td align="left">(?:[a-f0-9A-F]{2}-){5})[a-f0-9A-F]{2}$`</td>
+</tr>
+<tr>
+<td align="left">Version版本号</td>
+<td align="left"><code>^\d+(?:\.\d+)&#123;2&#125;$</code></td>
+<td align="left">例如：<code>12.1.1</code></td>
+</tr>
+<tr>
+<td align="left">图片后缀</td>
+<td align="left">`.(gif</td>
+<td align="left">png</td>
+</tr>
+<tr>
+<td align="left">视频后缀</td>
+<td align="left">`.(swf</td>
+<td align="left">avi</td>
+</tr>
+<tr>
+<td align="left">图片链接</td>
+<td align="left">`(?:https?://)?[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(?:.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+.+.(gif</td>
+<td align="left">png</td>
+</tr>
+<tr>
+<td align="left">视频链接</td>
+<td align="left">`(?:https?://)?[a-zA-Z0-9][-a-zA-Z0-9]{0,62}(?:.[a-zA-Z0-9][-a-zA-Z0-9]{0,62})+.+.(swf</td>
+<td align="left">avi</td>
+</tr>
+<tr>
+<td align="left">迅雷链接</td>
+<td align="left"><code>thunderx?:\/\/[a-zA-Z\d]+=</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">ed2k链接</td>
+<td align="left"><code>ed2k:\/\/|file|.+|\/</code></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">磁力链接</td>
+<td align="left"><code>magnet:\?xt=urn:btih:[0-9a-fA-F]&#123;40,&#125;.*</code></td>
+<td align="left"></td>
+</tr>
+</tbody></table>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a><strong>其他</strong></h2><table>
+<thead>
+<tr>
+<th align="left">描述</th>
+<th align="left">正则表达式</th>
+<th align="left">备注</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">Windows文件路径</td>
+<td align="left"><code>^[a-zA-Z]:(?:\\[\w\u4E00-\u9FA5\s]+)+[.\w\u4E00-\u9FA5\s]+$</code></td>
+<td align="left">例如：<code>C:\Users\Administrator\Desktop\a.txt</code></td>
+</tr>
+<tr>
+<td align="left">Windows文件夹路径</td>
+<td align="left"><code>^[a-zA-Z]:(?:\\[\w\u4E00-\u9FA5\s]+)+$</code></td>
+<td align="left">例如：<code>C:\Users\Administrator\Desktop</code></td>
+</tr>
+<tr>
+<td align="left">Linux文件路径</td>
+<td align="left"><code>^\/(?:[^/]+\/)*[^/]+$</code></td>
+<td align="left">例如：<code>/root/library/a.txt</code></td>
+</tr>
+<tr>
+<td align="left">Linux文件夹路径</td>
+<td align="left"><code>^\/(?:[^/]+\/)*$</code></td>
+<td align="left">例如：<code>/root/library/</code></td>
+</tr>
+<tr>
+<td align="left">MD5格式</td>
+<td align="left">`^(?:[a-f\d]{32}</td>
+<td align="left">[A-F\d]{32})$`</td>
+</tr>
+<tr>
+<td align="left">BASE64格式</td>
+<td align="left"><code>^\s*data:(?:[a-z]+\/[a-z0-9-+.]+(?:;[a-z-]+=[a-z0-9-]+)?)?(?:;base64)?,([a-z0-9!$&amp;&#39;,()*+;=\-._~:@/?%\s]*?)\s*$</code></td>
+<td align="left">例如：<code>data:image/jpeg;base64,xxxx==</code></td>
+</tr>
+<tr>
+<td align="left">UUID</td>
+<td align="left"><code>^[a-f\d]&#123;4&#125;(?:[a-f\d]&#123;4&#125;-)&#123;4&#125;[a-f\d]&#123;12&#125;$</code></td>
+<td align="left">例如：<code>94f9d45a-71b0-4b3c-b69d-20c4bc9c8fdd</code></td>
+</tr>
+<tr>
+<td align="left">16进制</td>
+<td align="left"><code>^[A-Fa-f0-9]+$</code></td>
+<td align="left">例如：<code>FFFFFF</code></td>
+</tr>
+<tr>
+<td align="left">16进制颜色</td>
+<td align="left">`^#?([0-9a-fA-F]{3}</td>
+<td align="left">[0-9a-fA-F]{6})$`</td>
+</tr>
+<tr>
+<td align="left">SQL语句</td>
+<td align="left">`^(?:select</td>
+<td align="left">drop</td>
+</tr>
+<tr>
+<td align="left">Java包名</td>
+<td align="left"><code>^(?:[a-zA-Z_]\w*)+(?:[.][a-zA-Z_]\w*)+$</code></td>
+<td align="left">例如：<code>com.r2coding.controller</code></td>
+</tr>
+<tr>
+<td align="left">文件扩展名</td>
+<td align="left">`.(?:doc</td>
+<td align="left">pdf</td>
+</tr>
+<tr>
+<td align="left">HTML标签</td>
+<td align="left"><code>&lt;(\w+)[^&gt;]*&gt;(.*?&lt;\/\1&gt;)?</code></td>
+<td align="left">例如：<code>&lt;div class=&quot;navigator&quot;&gt;&lt;/div&gt;</code></td>
+</tr>
+<tr>
+<td align="left">HTML注释</td>
+<td align="left"><code>&lt;!--(.*?)--&gt;</code></td>
+<td align="left">例如：<code>&lt;!--注释--&gt;</code></td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>学习</category>
+        <category>编程</category>
+      </categories>
+      <tags>
+        <tag>正则表达式</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【争议】商祖契</title>
     <url>/2022/07/20/%E3%80%90%E4%BA%89%E8%AE%AE%E3%80%91%E5%95%86%E7%A5%96%E5%A5%91/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《山海经·大荒西经》</p>
@@ -472,7 +1170,7 @@
     <title>Hexo及Markdown常用写作语法</title>
     <url>/2022/07/11/Hexo%E5%8F%8AMarkdown%E5%B8%B8%E7%94%A8%E5%86%99%E4%BD%9C%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="开头属性"><a href="#开头属性" class="headerlink" title="开头属性"></a>开头属性</h1><p>采用统一的yaml格式，用三条短横线上下分隔</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">categories: #&#x27;单层分类&#x27;</span><br><span class="line">- 一级分类</span><br><span class="line">- 二级分类</span><br><span class="line">tags: </span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">no_word_count: true #关闭字数统计</span><br><span class="line">comments: false #关闭评论</span><br><span class="line">albums: [[&quot;$url&quot;,&quot;$fileName&quot;],[&quot;$url&quot;,&quot;$fileName&quot;]] #图册，Picgo自定义链接格式</span><br><span class="line">date:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">categories: #&#x27;单层分类&#x27;</span><br><span class="line">- 一级分类</span><br><span class="line">- 二级分类</span><br><span class="line">tags: </span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">no_word_count: true #关闭字数统计</span><br><span class="line">comments: false #关闭评论</span><br><span class="line">albums: [[&quot;$url&quot;,&quot;$fileName&quot;],[&quot;$url&quot;,&quot;$fileName&quot;]] #图册，Picgo自定义链接格式</span><br><span class="line">copyright: true #版权声明</span><br><span class="line">date:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
 <h1 id="正文-Markdown"><a href="#正文-Markdown" class="headerlink" title="正文 | Markdown"></a>正文 | Markdown</h1><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">| 表头1|表头2|表头3|表头4</span><br><span class="line">|-| :- | :-: | -: |</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br></pre></td></tr></table></figure>
 
@@ -526,7 +1224,7 @@
 ]]></content>
       <categories>
         <category>学习</category>
-        <category>Hexo</category>
+        <category>编程</category>
       </categories>
       <tags>
         <tag>语法</tag>
@@ -1289,7 +1987,7 @@
 ]]></content>
       <categories>
         <category>学习</category>
-        <category>Hexo</category>
+        <category>编程</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
@@ -1463,6 +2161,9 @@
 <hr>
 <p>四年前念叨的一句《卧虎藏龙》台词，现在又想念叨一遍：</p>
 <center>“我没有得道的喜悦，相反地，却被一种寂灭的悲哀环绕。“</center>]]></content>
+      <categories>
+        <category>最近</category>
+      </categories>
       <tags>
         <tag>年终总结</tag>
       </tags>
@@ -1595,7 +2296,7 @@
 ]]></content>
       <categories>
         <category>学习</category>
-        <category>Hexo</category>
+        <category>编程</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
@@ -1682,7 +2383,7 @@
         <category>软件</category>
       </categories>
       <tags>
-        <tag>软件/工具推荐</tag>
+        <tag>个人推荐</tag>
       </tags>
   </entry>
   <entry>
@@ -1694,7 +2395,7 @@
 <p>　　记录自己最近发生的事情，和脑子里的乱七八糟。</p>
 <p>　　另外，如果有朋友问我为什么不喜欢发pyq，为什么不更新说说了，可以拿给他们看这个博客。</p>
 <p>　　</p>
-<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>　　<a href="mailto:&#119;&#101;&#x6e;&#x2e;&#x6b;&#x40;&#x66;&#111;&#x78;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;">&#119;&#101;&#x6e;&#x2e;&#x6b;&#x40;&#x66;&#111;&#x78;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#109;</a></p>
+<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>　　<a href="mailto:&#119;&#x65;&#110;&#x2e;&#x6b;&#64;&#102;&#x6f;&#x78;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;">&#119;&#x65;&#110;&#x2e;&#x6b;&#64;&#102;&#x6f;&#x78;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a></p>
 ]]></content>
   </entry>
   <entry>
@@ -1727,7 +2428,7 @@ tags:
 ]]></content>
       <categories>
         <category>学习</category>
-        <category>Hexo</category>
+        <category>编程</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
@@ -1759,7 +2460,6 @@ tags:
 <center>山川云间生 蝼蚁道里行
 <center>孤心随烟雨 终与世浮沉
 <center>桂花秋雨夜 客辞青城山</center>
-
 ]]></content>
       <categories>
         <category>摄影</category>
