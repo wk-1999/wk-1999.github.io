@@ -1089,109 +1089,119 @@
       </tags>
   </entry>
   <entry>
-    <title>【争议】历法异议</title>
-    <url>/2022/07/17/%E3%80%90%E4%BA%89%E8%AE%AE%E3%80%91%E5%8E%86%E6%B3%95%E5%BC%82%E8%AE%AE/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>夏商周三代岁首问题有较多异议，此文辑录相关材料以备查。</p>
-<h1 id="一-岁首异议"><a href="#一-岁首异议" class="headerlink" title="一　岁首异议"></a>一　岁首异议</h1><h2 id="材料一-三正说"><a href="#材料一-三正说" class="headerlink" title="材料一　三正说"></a>材料一　三正说</h2><p>秦历建亥。汉武帝元封七年（公元前104年）改用太初历，以夏历的正月为岁首，此后大约二千年间，除了王莽和魏明帝时一度改用殷正，武则天和唐肃宗一度改用“周正”外，一般都用的是“夏正”。</p>
+    <title>【争议】斗建与岁首</title>
+    <url>/2022/07/17/%E3%80%90%E4%BA%89%E8%AE%AE%E3%80%91%E6%96%97%E5%BB%BA%E4%B8%8E%E5%B2%81%E9%A6%96/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="斗建"><a href="#斗建" class="headerlink" title="斗建"></a>斗建</h1><p>　　干支历法以北斗运转计算月令，斗柄所指之辰谓之“斗建”。中国传统月历以冬至所在之月（即公历12月）为子月，正如一日十二辰以午夜为子时，由此推演，确定十二个月对应的十二辰。</p>
+<p>　　子月于特定时刻观测北斗，斗柄指向正北。但天球流转，跨越一两千年，今时观测北斗方位与彼时偏移甚大。但如今只需要借助<a href="https://stellarium.org/zh_CN/">Stellarium</a>这款开源的天象模拟软件，我们就可以轻松准确地推算出特定时间的特定星象。</p>
+<p>　　《夏小正》记载正月“斗柄县在下”，“六月初昏斗柄正在上”。先秦时期的道家著作《鶡冠子·环流》提到：“斗柄东指，天下皆春，斗柄南指，天下皆夏，斗柄西指，天下皆秋，斗柄北指，天下皆冬。”</p>
+<blockquote>
+<p>《鹖冠子》据传是战国时期一个楚国隐士所作，因其常着羽冠，人称别号鹖冠子。1973年出土的马王堆汉墓帛书中，《老子》乙本卷前的古佚书有里不见于别书而与《鹖冠子》相合的内容，证实了《鹖冠子》是战国时著作，证明此书并非伪书。</p>
+</blockquote>
+<p>　　两书均指出可以根据北斗斗柄确定季节，为便于测算，我们以冬至之月的子月为例，此时为冬季，斗柄应当北指。我们因而可以设定：<strong>公元前500年</strong>的东周<strong>洛阳</strong>，<strong>冬至前后</strong>的初昏，观测到北斗斗柄指向正北。从而推测出观测的时间<strong>约20:22，即戌时</strong>，为太阳落山后约一个半时辰。</p>
+<p><img src="https://s2.loli.net/2022/07/25/9FrgZP8wWS3Ryeq.png" alt="image-20220725060352138"></p>
+<p>　　然而，斗转星移，北斗整体的位置也在移动，同样的时刻观测到的结果更加偏北、偏东。自唐代以后，在同样的日子，使北斗指向未变，斗柄末端的瑶光星却是已经隐没在地平线之下，尚未升起。到了现代，冬至日夜，我们就只能于晚上十点半左右，才能看到斗柄北指。</p>
+<p><img src="https://s2.loli.net/2022/07/25/yAiZ67vBJPXambu.jpg"></p>
+<h1 id="三正"><a href="#三正" class="headerlink" title="三正"></a>三正</h1><p>　　自战国以来，有所谓“三正论”，夏正建寅、殷正建丑、周正建子，三代轮流更改正朔，“王者始起”要“改正朔”、“易服色”以表示受命于天。秦以建亥之月（即夏历的十月）为岁首，且避始皇帝讳，以正月为“端月”，但夏正比较适合农事季节，所以并不称十月为正月，不改正月为四月，春夏秋冬的搭配仍和夏正相同。汉初沿袭秦制。汉武帝元封七年（公元前104年）改用太初历，以夏历的正月为岁首，此后大约二千年间，除了王莽和魏明帝时一度改用殷正，武则天和唐肃宗一度改用“周正”外，一般都用的是“夏正”。</p>
 <table>
 <thead>
 <tr>
 <th align="center">公历</th>
-<th align="center">现行农历</th>
+<th align="center">农历</th>
 <th align="center">夏　建寅</th>
 <th align="center">殷　建丑<sup>[1]</sup></th>
 <th align="center">周　建子</th>
 </tr>
 </thead>
 <tbody><tr>
+<td align="center">1月</td>
+<td align="center">十二月<strong>丑</strong></td>
+<td align="center">十二月（季冬）</td>
+<td align="center"><strong>正月　（季冬）</strong></td>
+<td align="center">二月　（季冬）</td>
+</tr>
+<tr>
 <td align="center">2月</td>
-<td align="center"><strong>寅</strong> 　一月</td>
+<td align="center">一月　<strong>寅</strong></td>
 <td align="center"><strong>正月　（孟春）</strong></td>
 <td align="center">二月　（孟春）</td>
 <td align="center">三月　（孟春）</td>
 </tr>
 <tr>
 <td align="center">3月</td>
-<td align="center"><strong>卯</strong> 　二月</td>
+<td align="center">二月　<strong>卯</strong></td>
 <td align="center">二月　（仲春）</td>
 <td align="center">三月　（仲春）</td>
 <td align="center">四月　（仲春）</td>
 </tr>
 <tr>
 <td align="center">4月</td>
-<td align="center"><strong>辰</strong> 　三月</td>
+<td align="center">三月　<strong>辰</strong></td>
 <td align="center">三月　（季春）</td>
 <td align="center">四月　（季春）</td>
 <td align="center">五月　（季春）</td>
 </tr>
 <tr>
 <td align="center">5月</td>
-<td align="center"><strong>巳</strong> 　四月</td>
+<td align="center">四月　<strong>巳</strong></td>
 <td align="center">四月　（孟夏）</td>
 <td align="center">五月　（孟夏）</td>
 <td align="center">六月　（孟夏）</td>
 </tr>
 <tr>
 <td align="center">6月</td>
-<td align="center"><strong>午</strong> 　五月</td>
+<td align="center">五月　<strong>午</strong></td>
 <td align="center">五月　（仲夏）</td>
 <td align="center">六月　（仲夏）</td>
 <td align="center">七月　（仲夏）</td>
 </tr>
 <tr>
 <td align="center">7月</td>
-<td align="center"><strong>未</strong> 　六月</td>
+<td align="center">六月　<strong>未</strong></td>
 <td align="center">六月　（季夏）</td>
 <td align="center">七月　（季夏）</td>
 <td align="center">八月　（季夏）</td>
 </tr>
 <tr>
 <td align="center">8月</td>
-<td align="center"><strong>申</strong> 　七月</td>
+<td align="center">七月　<strong>申</strong></td>
 <td align="center">七月　（孟秋）</td>
 <td align="center">八月　（孟秋）</td>
 <td align="center">九月　（孟秋）</td>
 </tr>
 <tr>
 <td align="center">9月</td>
-<td align="center"><strong>酉</strong> 　八月</td>
+<td align="center">八月　<strong>酉</strong></td>
 <td align="center">八月　（仲秋）</td>
 <td align="center">九月　（仲秋）</td>
 <td align="center">十月　（仲秋）</td>
 </tr>
 <tr>
 <td align="center">10月</td>
-<td align="center"><strong>戌</strong> 　九月</td>
+<td align="center">九月　<strong>戌</strong></td>
 <td align="center">九月　（季秋）</td>
 <td align="center">十月　（季秋）</td>
 <td align="center">十一月（季秋）</td>
 </tr>
 <tr>
 <td align="center">11月</td>
-<td align="center"><strong>亥</strong> 　十月</td>
+<td align="center">十月　<strong>亥</strong></td>
 <td align="center">十月　（孟冬）</td>
 <td align="center">十一月（孟冬）</td>
 <td align="center">十二月（孟冬）</td>
 </tr>
 <tr>
 <td align="center">12月</td>
-<td align="center"><strong>子</strong> 十一月</td>
+<td align="center">十一月<strong>子</strong></td>
 <td align="center">十一月（仲冬）</td>
 <td align="center">十二月（仲冬）</td>
 <td align="center"><strong>正月　（仲冬）</strong></td>
-</tr>
-<tr>
-<td align="center">1月</td>
-<td align="center"><strong>丑</strong> 十二月</td>
-<td align="center">十二月（季冬）</td>
-<td align="center"><strong>正月　（季冬）</strong></td>
-<td align="center">二月　（季冬）</td>
 </tr>
 </tbody></table>
 <blockquote>
 <p>[1] 董作宾：《殷历谱》下编卷一《年历谱》，中央研究院历史研究所。</p>
 </blockquote>
-<h2 id="材料二-殷建午-2"><a href="#材料二-殷建午-2" class="headerlink" title="材料二　殷建午[2]"></a>材料二　殷建午<sup>[2]</sup></h2><table>
+<h2 id="殷建午说-2"><a href="#殷建午说-2" class="headerlink" title="殷建午说[2]"></a>殷建午说<sup>[2]</sup></h2><p>　　三代岁首问题有较多异议，此辑录其一。</p>
+<table>
 <thead>
 <tr>
 <th align="center">公历</th>
@@ -1200,6 +1210,11 @@
 </tr>
 </thead>
 <tbody><tr>
+<td align="center">1月</td>
+<td align="center"><strong>丑</strong> 十二月</td>
+<td align="center">八月　（季冬）</td>
+</tr>
+<tr>
 <td align="center">2月</td>
 <td align="center"><strong>寅</strong> 　一月</td>
 <td align="center">九月　（孟春）</td>
@@ -1254,11 +1269,6 @@
 <td align="center"><strong>子</strong> 十一月</td>
 <td align="center">七月　（仲冬）</td>
 </tr>
-<tr>
-<td align="center">1月</td>
-<td align="center"><strong>丑</strong> 十二月</td>
-<td align="center">八月　（季冬）</td>
-</tr>
 </tbody></table>
 <blockquote>
 <p>[2] 王星光,张军涛.甲骨文与殷商农时探析[J].中国农史,2016,35(02):15-28.</p>
@@ -1267,6 +1277,9 @@
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
 <iframe src="//player.bilibili.com/player.html?aid=638721587&bvid=BV1RY4y1k7nq&cid=589624099&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
 
+
+<hr>
+<p>​    [1] 2022.7.25 修改：补充斗建一节。</p>
 ]]></content>
       <categories>
         <category>摘录</category>
@@ -1274,7 +1287,6 @@
         <category>学术争议</category>
       </categories>
       <tags>
-        <tag>持续更新</tag>
         <tag>三代</tag>
         <tag>天文</tag>
         <tag>历法</tag>
@@ -1301,8 +1313,8 @@
         <category>读书笔记</category>
       </categories>
       <tags>
-        <tag>持续更新</tag>
         <tag>周易</tag>
+        <tag>持续更新</tag>
         <tag>十三经</tag>
       </tags>
   </entry>
@@ -2535,7 +2547,7 @@
 <p>　　记录自己最近发生的事情，和脑子里的乱七八糟。</p>
 <p>　　另外，如果有朋友问我为什么不喜欢发pyq，为什么不更新说说了，可以拿给他们看这个博客。</p>
 <p>　　</p>
-<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>　　<a href="mailto:&#119;&#x65;&#x6e;&#46;&#x6b;&#64;&#102;&#x6f;&#120;&#109;&#97;&#105;&#108;&#x2e;&#99;&#111;&#109;">&#119;&#x65;&#x6e;&#46;&#x6b;&#64;&#102;&#x6f;&#120;&#109;&#97;&#105;&#108;&#x2e;&#99;&#111;&#109;</a></p>
+<h3 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h3><p>　　<a href="mailto:&#119;&#101;&#x6e;&#46;&#107;&#x40;&#102;&#x6f;&#120;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#119;&#101;&#x6e;&#46;&#107;&#x40;&#102;&#x6f;&#120;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#x6d;</a></p>
 ]]></content>
   </entry>
   <entry>
