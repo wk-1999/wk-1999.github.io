@@ -6,7 +6,7 @@
   <link href="https://wk-1999.github.io/atom.xml" rel="self"/>
   
   <link href="https://wk-1999.github.io/"/>
-  <updated>2022-07-26T05:31:20.673Z</updated>
+  <updated>2022-07-26T06:51:47.159Z</updated>
   <id>https://wk-1999.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://wk-1999.github.io/2022/07/26/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E4%BA%94%E5%BE%B7%E7%BB%88%E5%A7%8B/"/>
     <id>https://wk-1999.github.io/2022/07/26/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E4%BA%94%E5%BE%B7%E7%BB%88%E5%A7%8B/</id>
     <published>2022-07-26T04:48:16.000Z</published>
-    <updated>2022-07-26T05:31:20.673Z</updated>
+    <updated>2022-07-26T06:51:47.159Z</updated>
     
     
       
@@ -48,7 +48,7 @@
     <link href="https://wk-1999.github.io/2022/07/26/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E3%80%8A%E7%AB%B9%E4%B9%A6%E7%BA%AA%E5%B9%B4%E3%80%8B%E4%B8%8E%E5%A4%8F%E5%95%86%E5%91%A8%E5%B9%B4%E4%BB%A3%E7%A0%94%E7%A9%B6/"/>
     <id>https://wk-1999.github.io/2022/07/26/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E3%80%8A%E7%AB%B9%E4%B9%A6%E7%BA%AA%E5%B9%B4%E3%80%8B%E4%B8%8E%E5%A4%8F%E5%95%86%E5%91%A8%E5%B9%B4%E4%BB%A3%E7%A0%94%E7%A9%B6/</id>
     <published>2022-07-26T02:54:02.000Z</published>
-    <updated>2022-07-26T06:43:24.457Z</updated>
+    <updated>2022-07-26T06:51:38.983Z</updated>
     
     
       
@@ -81,7 +81,7 @@
     <link href="https://wk-1999.github.io/2022/07/26/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E9%80%A0%E7%89%A9/"/>
     <id>https://wk-1999.github.io/2022/07/26/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E9%80%A0%E7%89%A9/</id>
     <published>2022-07-26T02:32:23.000Z</published>
-    <updated>2022-07-26T03:23:32.142Z</updated>
+    <updated>2022-07-26T06:51:49.452Z</updated>
     
     
       
@@ -157,13 +157,13 @@
     <category term="学术" scheme="https://wk-1999.github.io/categories/%E5%AF%B8%E8%BF%9B/%E5%AD%A6%E6%9C%AF/"/>
     
     
-    <category term="转载" scheme="https://wk-1999.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
     <category term="商代" scheme="https://wk-1999.github.io/tags/%E5%95%86%E4%BB%A3/"/>
     
     <category term="甲骨" scheme="https://wk-1999.github.io/tags/%E7%94%B2%E9%AA%A8/"/>
     
     <category term="日名" scheme="https://wk-1999.github.io/tags/%E6%97%A5%E5%90%8D/"/>
+    
+    <category term="转载" scheme="https://wk-1999.github.io/tags/%E8%BD%AC%E8%BD%BD/"/>
     
   </entry>
   
@@ -172,7 +172,7 @@
     <link href="https://wk-1999.github.io/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%95%86%E7%8E%8B%E6%97%A5%E5%90%8D/"/>
     <id>https://wk-1999.github.io/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%95%86%E7%8E%8B%E6%97%A5%E5%90%8D/</id>
     <published>2022-07-19T22:23:28.000Z</published>
-    <updated>2022-07-25T05:42:03.914Z</updated>
+    <updated>2022-07-26T06:51:15.083Z</updated>
     
     
       
@@ -196,6 +196,8 @@
     
     <category term="日名" scheme="https://wk-1999.github.io/tags/%E6%97%A5%E5%90%8D/"/>
     
+    <category term="学术争议" scheme="https://wk-1999.github.io/tags/%E5%AD%A6%E6%9C%AF%E4%BA%89%E8%AE%AE/"/>
+    
   </entry>
   
   <entry>
@@ -203,7 +205,7 @@
     <link href="https://wk-1999.github.io/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%B9%B2%E6%94%AF%E4%B8%8E%E5%8E%86%E6%B3%95/"/>
     <id>https://wk-1999.github.io/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%B9%B2%E6%94%AF%E4%B8%8E%E5%8E%86%E6%B3%95/</id>
     <published>2022-07-19T19:29:11.000Z</published>
-    <updated>2022-07-26T06:38:59.595Z</updated>
+    <updated>2022-07-26T06:50:48.282Z</updated>
     
     
       
@@ -220,6 +222,8 @@
     
     <category term="学术" scheme="https://wk-1999.github.io/categories/%E5%AF%B8%E8%BF%9B/%E5%AD%A6%E6%9C%AF/"/>
     
+    
+    <category term="学术争议" scheme="https://wk-1999.github.io/tags/%E5%AD%A6%E6%9C%AF%E4%BA%89%E8%AE%AE/"/>
     
     <category term="历法" scheme="https://wk-1999.github.io/tags/%E5%8E%86%E6%B3%95/"/>
     
@@ -234,7 +238,7 @@
     <link href="https://wk-1999.github.io/2022/07/17/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E6%96%97%E5%BB%BA%E4%B8%8E%E5%B2%81%E9%A6%96/"/>
     <id>https://wk-1999.github.io/2022/07/17/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E6%96%97%E5%BB%BA%E4%B8%8E%E5%B2%81%E9%A6%96/</id>
     <published>2022-07-17T00:34:16.000Z</published>
-    <updated>2022-07-26T05:38:37.625Z</updated>
+    <updated>2022-07-26T06:51:00.580Z</updated>
     
     
       
@@ -251,6 +255,8 @@
     
     <category term="学术" scheme="https://wk-1999.github.io/categories/%E5%AF%B8%E8%BF%9B/%E5%AD%A6%E6%9C%AF/"/>
     
+    
+    <category term="学术争议" scheme="https://wk-1999.github.io/tags/%E5%AD%A6%E6%9C%AF%E4%BA%89%E8%AE%AE/"/>
     
     <category term="三代" scheme="https://wk-1999.github.io/tags/%E4%B8%89%E4%BB%A3/"/>
     
