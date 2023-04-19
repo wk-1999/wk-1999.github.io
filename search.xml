@@ -19,6 +19,303 @@
       </categories>
   </entry>
   <entry>
+    <title>【工具】如何制作修改、制作PDF</title>
+    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E4%BF%AE%E6%94%B9PDF/</url>
+    <content><![CDATA[<p>经常有PDF阅读的需求，并且越来越忍受不了低质量的图像，最起码也要能够轻松的阅读文字。所以逐渐学会了自己动手丰衣足食。Windows下PDG阅读器，推荐<a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a>。</p>
+<h1 id="先利其器——软件集合"><a href="#先利其器——软件集合" class="headerlink" title="先利其器——软件集合"></a>先利其器——软件集合</h1><h2 id="PDF补丁丁"><a href="#PDF补丁丁" class="headerlink" title="PDF补丁丁"></a><a href="https://www.cnblogs.com/pdfpatcher/">PDF补丁丁</a></h2><blockquote>
+<p>PDF补丁丁是一个用于修改PDF文件信息的工具。它具有以下功能：</p>
+<ul>
+<li>修改PDF信息：修改文档属性、页码编号、页面链接、页面尺寸；删除自动打开网页等动作，去除复制及打印限制；设置阅读器初始模式。</li>
+<li>贴心PDF书签编辑器：带有阅读界面（具有便于阅读竖排文档的从右到左阅读方式），可批量修改PDF书签属性（颜色、样式、目标页码、缩放比例等），在书签中执行查找替换（支持正则表达式及XPath匹配、可快速选择篇、章、节书签），<a href="https://www.cnblogs.com/pdfpatcher/p/8452025.html">自动快速生成文档书签</a>。</li>
+<li>生成PDF书签：无需手工输入，自动识别正文标题或目录，为PDF文档生成书签。</li>
+<li>制作PDF文件：合并已有PDF文件或图片，生成新的PDF文件。合并后的PDF文档带有原文档的书签，还可挂上新书签（或根据文件名生成），新书签文本和样式可自定义。</li>
+<li>拆分或合并PDF文件，并保留原文件的书签或挂上新的书签。</li>
+<li>高速无损导出PDF文档的图片。</li>
+<li>提取或删除PDF文档中指定的页面，调整PDF文档的页面顺序。</li>
+<li>根据PDF文档元数据重命名PDF文件名。</li>
+<li>调用微软 Office 的图像识别引擎分析PDF文档图片中的文字；将图片PDF的目录页转换为PDF书签。识别结果可写入PDF文件。</li>
+<li>替换字库：替换文档中使用的字体库；嵌入字库到PDF文档，消除复制文本时的乱码，使之可在没有字库的设备（如Kindle等电子书阅读器）上阅读。</li>
+<li>分析文档结构：以树视图显示PDF文档结构，可编辑修改PDF文档节点，或将PDF文档导出成XML文件，供PDF爱好者分析、调试之用。</li>
+<li>永久免费，绝不过期，无广告，无弹出废话对话框。</li>
+</ul>
+</blockquote>
+<p>评价：神！无敌！就PDF合成、拆分、书签目录制作、导出等功能来说，薄纱一众付费大牌软件。</p>
+<p>小缺憾，工作中发现对于JPEG2000合成的PDF支持不甚好，会闪退，可能是渲染压力太大。</p>
+<h2 id="ComicEnhancerPro"><a href="#ComicEnhancerPro" class="headerlink" title="ComicEnhancerPro"></a><a href="https://yanhainav.lanzoul.com/imKjF0tg8i3a">ComicEnhancerPro</a></h2><p>老马出品，必属精品！</p>
+<p>使用前阅读 ComicEnhancerPro.htm 帮助文件</p>
+<p>功能不懂的欢迎交流讨论。</p>
+<h2 id="Tilt-correction1-v1-0中文绿色版-图片批量倾斜校正工具"><a href="#Tilt-correction1-v1-0中文绿色版-图片批量倾斜校正工具" class="headerlink" title="Tilt correction1 v1.0中文绿色版(图片批量倾斜校正工具)"></a>Tilt correction1 v1.0中文绿色版(图片批量倾斜校正工具)</h2><p><a href="https://yanhainav.lanzoul.com/iQ88F0tg7i0b">Tilt correction1 v1.0</a><br>密码:cra8</p>
+<h2 id="PDF-Password-Remover"><a href="#PDF-Password-Remover" class="headerlink" title="PDF Password Remover"></a><a href="https://yanhainav.lanzoul.com/iHqVS0tfxqcb">PDF Password Remover</a></h2><p>PDF文件被加密、权限被限制？拖进去，打一顿，放出来就好了。</p>
+<h2 id="专门转换各种牛鬼蛇神"><a href="#专门转换各种牛鬼蛇神" class="headerlink" title="专门转换各种牛鬼蛇神"></a>专门转换各种牛鬼蛇神</h2><ul>
+<li><a href="https://yanhainav.lanzoul.com/iPOXe0tfxrdi">转换caj</a>（会有个别CAJ文件无法转换）</li>
+<li><a href="https://yanhainav.lanzoul.com/i30FM0tfxqfe">Pdg2Pic</a>，PDG转换为PDF格式（UVZ文件是PDG经过压缩，只需要把.uvz后缀改为.zip解压，就能得到PDG）</li>
+<li><a href="https://yanhainav.lanzoul.com/iIUZv0tfxq9i">DjVuToy</a> 密码:fxzj，DjVu转换为PDF格式</li>
+<li><a href="https://www.neat-reader.cn/downloads/converter">Neat Converter - 免费电子文档转码器，支持ePub，Azw3，Mobi，PDF，Docx，TXT文件的相互转换</a></li>
+</ul>
+<h1 id="案例阅读"><a href="#案例阅读" class="headerlink" title="案例阅读"></a>案例阅读</h1><p>王森老师的制作案例：</p>
+<p><a href="https://mp.weixin.qq.com/s/yLBlLkpMFkOfjBNzzUlR8Q">重制《甲骨文字字释综览》的过程 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/vlCjCfD_lgmIl9XGrz9b2w">重制《殷墟甲骨刻辞类纂》的过程 (qq.com)</a></p>
+<p>从PDF提取图片的环节，可以使用PDF补丁丁代替。</p>
+<p>图片纠偏也可以使用Tilt correction1。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>数据处理</tag>
+        <tag>制作电子书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【工具】简单运用正则表达式</title>
+    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E7%AE%80%E5%8D%95%E8%BF%90%E7%94%A8%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/</url>
+    <content><![CDATA[<h1 id="什么是正则表达式？"><a href="#什么是正则表达式？" class="headerlink" title="什么是正则表达式？"></a>什么是正则表达式？</h1><p>正则表达式能被用来在查找某种类型的文本。一个正则表达式是一个由普通字符、文字（例如，字母 a-z）以及特殊字符（被称为元字符），组成的一个文本串。</p>
+<p>这个文本串描述了一个或多个符合的字符串，当搜索文本时就可以匹配到对应的内容。</p>
+<h1 id="在EmEditor中使用正则表达式"><a href="#在EmEditor中使用正则表达式" class="headerlink" title="在EmEditor中使用正则表达式"></a>在EmEditor中使用正则表达式</h1><p>1.在<strong>搜索</strong>菜单下选择<strong>查找</strong>（在当前文件中查找文本模式），<strong>替换</strong>（查找文本模式然后替换它们），或<strong>在文件中查找</strong>选项（在多个文件中查找文本模式）。</p>
+<p>2.勾选<strong>使用正则表达式</strong>复选框以及其他搜索参数，例如 <strong>区分大小写</strong>。</p>
+<p>3.输入要搜索的正则表达式然后点击<strong>「查找」</strong>。如果用 <strong>在文件中查找</strong>，还要输入文本类型（如果多于 1 个文本类型的话，用分号隔开），还有要搜索的文件夹。如果用<strong>替换</strong>，还要输入要替换被找到的文本模式的文本（可以用反向引用 -如下）。</p>
+<h1 id="正则表达式语法"><a href="#正则表达式语法" class="headerlink" title="正则表达式语法"></a>正则表达式语法</h1><p>详细语法列表参考<a href="https://www.emeditor.org/zh-cn/howto_search_search_regexp_syntax.html">EmEditor 帮助: 正则表达式语法 </a></p>
+<h1 id="中文文本常用的正则语法"><a href="#中文文本常用的正则语法" class="headerlink" title="中文文本常用的正则语法"></a>中文文本常用的正则语法</h1><h2 id="汉字"><a href="#汉字" class="headerlink" title="汉字"></a>汉字</h2><p>经过测试，可以匹配3500常用汉字，和7000通用汉字</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">[一-龟]</span><br></pre></td></tr></table></figure>
+
+<h2 id="数字"><a href="#数字" class="headerlink" title="数字"></a>数字</h2><table>
+<thead>
+<tr>
+<th align="left"><strong>数字范围</strong></th>
+<th align="left"><strong>含义</strong></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">\d</td>
+<td align="left">任何 0-9 的数字，包含半角数字、全角数字、罗马数字等等</td>
+</tr>
+<tr>
+<td align="left">[0,9]</td>
+<td align="left">匹配半角下的数字</td>
+</tr>
+<tr>
+<td align="left">[1 , 9]</td>
+<td align="left">匹配整数 1，2，3，…，9。</td>
+</tr>
+<tr>
+<td align="left">[ , 9)</td>
+<td align="left">匹配任何小于 9 的整数。</td>
+</tr>
+<tr>
+<td align="left">[1.0 , 9.0)</td>
+<td align="left">匹配任何大于或等于 1.0，并且小于 9.0 的小数。</td>
+</tr>
+<tr>
+<td align="left">[ , 1.0)</td>
+<td align="left">匹配任何小于 1.0 的小数。</td>
+</tr>
+<tr>
+<td align="left">(2.0 , ]</td>
+<td align="left">匹配任何大于 2.0 的小数。</td>
+</tr>
+<tr>
+<td align="left">[1,0 , 9,0 “,” ]</td>
+<td align="left">匹配用逗号作为小数点，大于或等于 1.0 且小于 9.0 的十进制数。</td>
+</tr>
+<tr>
+<td align="left">[1 , 9 , 2]</td>
+<td align="left">匹配整数 1，3，5，7，9。</td>
+</tr>
+</tbody></table>
+<h2 id="英文"><a href="#英文" class="headerlink" title="英文"></a>英文</h2><table>
+<thead>
+<tr>
+<th>正则表达式</th>
+<th>说明</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>[abc]</td>
+<td>a、b、c中任意一个字符</td>
+<td></td>
+</tr>
+<tr>
+<td>[^abc]</td>
+<td>除了a、b、c中任意一个字符</td>
+<td></td>
+</tr>
+<tr>
+<td>[a-z]</td>
+<td>a、b、c……z中任意一个字符</td>
+<td></td>
+</tr>
+<tr>
+<td>[a-zA-Z0-9]</td>
+<td>a~z、A～Z、0-9中任意一个字符</td>
+<td></td>
+</tr>
+<tr>
+<td>[a-z&amp;&amp;[^bc]]</td>
+<td>a-z中除了b和c以外的任意一个字符，其中&amp;&amp;表示“与”的关系</td>
+<td></td>
+</tr>
+<tr>
+<td>\l</td>
+<td>任何 a-z 的小写字符</td>
+<td></td>
+</tr>
+<tr>
+<td>\u</td>
+<td>任何 A-Z 的大写字符</td>
+<td></td>
+</tr>
+</tbody></table>
+<h2 id="其他符号"><a href="#其他符号" class="headerlink" title="其他符号"></a>其他符号</h2><table>
+<thead>
+<tr>
+<th>正则表达式</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>\n</td>
+<td>一个换行符</td>
+</tr>
+<tr>
+<td>\r</td>
+<td>在<strong>在文件中替换</strong>表示一个回车符</td>
+</tr>
+<tr>
+<td>\t</td>
+<td>一个 tab，制表符</td>
+</tr>
+<tr>
+<td>(.*?)</td>
+<td>匹配多个字符</td>
+</tr>
+<tr>
+<td>[^\x00-\xff]</td>
+<td>匹配所有全角符号，包含汉字和全角标点</td>
+</tr>
+</tbody></table>
+<h1 id="举例实践"><a href="#举例实践" class="headerlink" title="举例实践"></a>举例实践</h1><h2 id="问题设定一"><a href="#问题设定一" class="headerlink" title="问题设定一"></a>问题设定一</h2><p>我们有一个10万字的文本，需要在所有汉字字符和小写英文字符之间添加一个空格。</p>
+<h3 id="撰写正则表达式"><a href="#撰写正则表达式" class="headerlink" title="撰写正则表达式"></a>撰写正则表达式</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">查找：([一-龟])([a-z])</span><br><span class="line">替换：\1 \2</span><br></pre></td></tr></table></figure>
+
+<h3 id="解释"><a href="#解释" class="headerlink" title="解释"></a>解释</h3><p><code>[一-龟]</code>代表汉字，<code>[a-z]</code>代表小写英文。<br>添加括号是为了在替换中用<code>\1</code> 表示第一个括号中的内容，<code>\2</code> 表示第二个括号的内容，从而保留原有的字符不变，在<code>\1</code>与<code>\2</code>之间添加一个空格，再点击替换全部即可。</p>
+<h2 id="问题设定二"><a href="#问题设定二" class="headerlink" title="问题设定二"></a>问题设定二</h2><p>还是一个10万字的文本，其中部分文字夹杂了无意义的小数点，要求将他们全部删除，但同时不能删除使用正确的小数点。</p>
+<h3 id="找规律"><a href="#找规律" class="headerlink" title="找规律"></a>找规律</h3><p>经过多次比对，发现这些小数点都在有着一定规律：都夹在汉字中间，其本应该是句号。</p>
+<h3 id="撰写正则表达式-1"><a href="#撰写正则表达式-1" class="headerlink" title="撰写正则表达式"></a>撰写正则表达式</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">查找：([一-龟])\.([一-龟])</span><br><span class="line">替换：\1。\2</span><br></pre></td></tr></table></figure>
+
+<h3 id="解释-1"><a href="#解释-1" class="headerlink" title="解释"></a>解释</h3><p><code>[一-龟]</code>代表汉字，小数点<code>.</code>作为正则表达式中的元字符，可以匹配除换行符外的任意字符，为避免歧义需要在其前面加<code>\</code>。</p>
+<p><code>\</code>可以把下一个字符标记为一个特殊字符，一个文字，或一个向后引用。</p>
+<p>例如，<code>.</code>作为正则表达式中的元字符，可以匹配除换行符外的任意字符，但<code>\.</code>就只代表<code>.</code>。如单独一个n只能与字符n相匹配。而但\n就代表一个换行符号。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>正则表达式</tag>
+        <tag>数据处理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【工具】如何处理txt文本</title>
+    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86txt%E6%96%87%E6%9C%AC/</url>
+    <content><![CDATA[<p>在学习工作中经常会遇到要处理类似txt等纯文本的情况，以下列举出一些常用工具。</p>
+<h1 id="TXT文件批量处理"><a href="#TXT文件批量处理" class="headerlink" title="TXT文件批量处理"></a>TXT文件批量处理</h1><p><a href="https://yanhainav.lanzoul.com/i2cAm0tfxpwf">TXT文件批量处理</a> 密码:8y10</p>
+<p>如其所言，就是txt文件批量处理，下载即用。</p>
+<blockquote>
+<p>1、批量删除前后行：删除多个文本文件最前面几行，或者最后面几行；</p>
+<p>2、批量删除连续行：删除文本文件中 连续行，3 19(则删除3-19行的内容)</p>
+<p>3、批量删除奇数行：删除文本文件中奇数的行，1、3、5、7……</p>
+<p>4、批量删除偶数行：删除文本文件中偶数的行，2、4、6、8……</p>
+<p>5、批量删除空白行：删除文本文件中 只含有空格或者制表符或者没有任何内容的行</p>
+<p>6、批量删除重复行：重复行是针对单个文件来说的，删除重复行之后 文件内容的顺序保持源文件行的顺序，不会打乱。</p>
+<p>7、批量删除特定行：特定行是自定义行，目前不支持省略输入，支持输入固定数字</p>
+<p>8、批量删除含有关键字的行：删除含有关键字的行，可以是一个关键字，可以是多个关键字，（多个关键字： 某一行含有的多个关键字）</p>
+<p>批量删除文本：包括删除文本、替换文本、删除行首数字、删除行首尾多少个字符。</p>
+<p>9、批量删除数据(文本)：删除多个文件中含有特定文本。</p>
+<p>10、批量替换文本：多个文件中批量替换文本</p>
+<p>11、删除行首数字：删除行首的数字，一般对于行首递增的数字有明显效果。</p>
+<p>12、批量删除行首字符：删除行首自定义多少个字符，一个字母，一个数字，一个汉字，一个标点都是一个字符。如果你不知道或者不想数多少个字符，可以让程序计算。</p>
+<p>13、批量删除行尾字符：同上。</p>
+<p>合并：包括普通合并、合并+数据、隔行合并、左右合并4种。</p>
+<p>14、合并：普通合并，就是正常的多个文本文件进行合并，按照行的合并，第一个文件的最后一行，和第二个文件第一行不在同一行，是两个连续的行。以此类推。(好像是废话)</p>
+<p>15、合并+数据：多个文件合并的时候直接添加数据，可以是多行数据。</p>
+<p>16、合并+文件名：多个文件合并的时候直接添加文件名（不包括路径，不包括后缀名），可以是多行数据。</p>
+<p>17、合并+数据+文件名：多个文件合并的时候先添加数据，再添加文件名（不包括路径，不包括后缀名）。</p>
+<p>18、隔行合并：多个文件进行隔行合并。如果有3个文件进行隔行合并，新文件的行的构成：File1的第一行 + File2的第一行 + File3的第一行 + File1的第二行 + File2的第二行 + File3的第二行 + ……</p>
+<p>19、左右合并：左右合并因为需求不高，目前仅支持2个文件左右合并；如果想要进行多个文件左右合并，可以进行多次左右合并。</p>
+<p>20、批量拆分，设置拆分新文件的个数：拆分成固定的个数。</p>
+<p>说明：按照行进行拆分，不会把一行拆分成两个！</p>
+<p>21、批量拆分，设置每个新文件的行数：拆分成多个文件。</p>
+<p>22、批量拆分，拆分奇偶行：奇数的行拆分到一个文件，偶数的行拆分到一个文件。</p>
+<p>23、批量添加文本（数据）到文件首尾：可以添加多行文本到文件的首尾，支持添加过的不进行重复添加，（判断是否重复添加的标准是某一行完全一样，包括空格等符号）。</p>
+<p>24、批量添加文本到行首尾：可以批量添加文本到每一行的最前面或者最后面。支持添加递增的数字。递增数字：就是每一行添加的数字不一样，或者叫做行号</p>
+<p>25、批量添加文件名到文件首行：添加的文件名可以自定义包含路径和包含扩展名。</p>
+<p>26、添加文件夹，就是直接添加一个文件夹，说明添加文件或者添加文件夹的时候，如果已经存在则跳过添加。说明：添加文件夹的时候，不会将子文件夹添加进来。</p>
+<p>27、重命名：并不是自定义文件名，这个名字是根据每个文件的第一行，并且提取每个文件的第一行作为新的文件名，旧的文件名也可以自定义保留。</p>
+<p>28、恢复备份文件：程序会产生备份文件，如果处理后的文件不能满意，则恢复到原始状态。</p>
+<p>29、批量查找个数：批量从多个文本文件中查找输入文本的个数,程序的状态一栏会显示找到了多少</p>
+<p>30、批量转码：多个文本文件批量转成自己想要的文件编码</p>
+<p>引自B站：爱玩游戏的小樱吖 <a href="https://www.bilibili.com/read/cv17076306">https://www.bilibili.com/read/cv17076306</a> 出处：bilibili</p>
+</blockquote>
+<h1 id="notepad–"><a href="#notepad–" class="headerlink" title="notepad–"></a>notepad–</h1><p>gitee开源主页：<a href="https://gitee.com/cxasm/notepad--#https://gitee.com/cxasm/notepad--/releases/latest">notepad–</a></p>
+<blockquote>
+<p>一个国产跨平台、简单的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare。 (gitee.com)</p>
+</blockquote>
+<p>非常好用的文本编辑器，可以甩掉某++了，也可以用作一般代码编辑器。</p>
+<p>对于大部分人而言，可以代替windows功能孱弱的记事本。</p>
+<h1 id="EmEditor"><a href="#EmEditor" class="headerlink" title="EmEditor"></a>EmEditor</h1><p><a href="https://yanhainav.lanzoul.com/iuviO0tg042h">EmEditor</a></p>
+<p>妙用无穷，被称为windows平台最强文本编辑器，但需要付费，所以不能算是代替记事本的最好选择。</p>
+<p>也可以下载后可以使用此激活码：DMAZM-WHY52-AX222-ZQJXN-79JXH</p>
+<h1 id="学一些正则"><a href="#学一些正则" class="headerlink" title="学一些正则"></a>学一些正则</h1><p>想要更好处理文本数据，仅仅依靠工具是不行的，最好掌握一点点“查找-替换”的进阶知识——正则表达式。</p>
+<p>这一部分内容放在下一篇文章中。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>数据处理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【工具】如何找书</title>
+    <url>/2023/04/15/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E6%89%BE%E4%B9%A6/</url>
+    <content><![CDATA[<p>　　想找读秀资源？kindle电子书？看完本文就知道了。</p>
+<p>　　资源列表：<a href="http://www.yanhainav.cn/#term-28-5">http://www.yanhainav.cn/#term-28-5</a></p>
+<p>　　这里列出了我经常使用的资源站，接下来逐一介绍。</p>
+<h1 id="出版物（读秀、zlib）"><a href="#出版物（读秀、zlib）" class="headerlink" title="出版物（读秀、zlib）"></a>出版物（读秀、zlib）</h1><h2 id="①-首先去豆瓣查找该书的出版信息。"><a href="#①-首先去豆瓣查找该书的出版信息。" class="headerlink" title="① 首先去豆瓣查找该书的出版信息。"></a>① 首先去<a href="https://www.douban.com/">豆瓣</a>查找该书的出版信息。</h2><p>一种书可能有许多版本，不同出版社的出版质量都不一样的，甚至同一出版社也会出修订本、增补本，先通过豆瓣查询此书的出版书目，了解各个版本的基本信息、读者评价，确定一个最佳目标。</p>
+<blockquote>
+<p>古时出版业远不如当今发达，尤其到了明清，面对积累下来的庞大历史文献以及有限的出版资源，许多人在求学之初都要先面临求书之难，想要有所精进就不得不面对择书之难，只有选对、找对版本才是做好学问的开始，这就凸显了目录版本学的重要性。当今出版界做古籍整理的一般都会选好底本校本，但受限于整理者能力、出版社资源等方方面面的限制，古籍出版质量也往往参差不齐，如果选择了不好的出版物，只会给研究工作添堵。</p>
+</blockquote>
+<blockquote>
+<p>王鸣盛《十七史商榷》：“目录之学，学中第一紧要事，必从此问途，方能得其门而入。”</p>
+<p>张之洞《书目答问》：“读书不知要领，劳而无功；知某书宜读而不得精校精注本，事倍功半。”</p>
+</blockquote>
+<p>这也是本站特地把书目查询放在最前面，把豆瓣放在第一位置的原因之一，而且网站的搜索功能也可以直接进行豆瓣搜索。</p>
+<h2 id="②-确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。"><a href="#②-确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。" class="headerlink" title="② 确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。"></a>② 确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。</h2><h2 id="③-免费资源搜索推荐：-Z-Library-Z-Library-烟海-yanhainav-cn-、FreeMbook"><a href="#③-免费资源搜索推荐：-Z-Library-Z-Library-烟海-yanhainav-cn-、FreeMbook" class="headerlink" title="③ 免费资源搜索推荐：[Z-Library](Z-Library | 烟海 (yanhainav.cn))、FreeMbook"></a>③ 免费资源搜索推荐：[Z-Library](<a href="http://www.yanhainav.cn/sites/40.html">Z-Library | 烟海 (yanhainav.cn)</a>)、<a href="http://www.yanhainav.cn/sites/41.html">FreeMbook</a></h2><p>Zlib作为全球最知名、最具影响力的电子书资源站之一，也有许多中文出版物资源，但种类、版本、质量都一般，适合偏大众、通俗、热门的资源检索。</p>
+<p>而对于相对专业的出版物，就更依赖读秀的资源了，如果你要的书在读秀可以搜到，那么大概率也可以在<a href="http://www.yanhainav.cn/sites/41.html">FreeMbook</a>找到，资源保存方法在其网站有说明，并且资源全部免费。</p>
+<p>但毕竟免费，有可能也有覆盖不到的，就可以到1元哥、2元哥之类的看看运气。</p>
+<h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>读秀的资源一般都是PDG格式，推荐使用<a href="https://yanhainav.lanzoul.com/i30FM0tfxqfe">Pdg2Pic</a>，转换为PDF格式。我也十分推荐将乱七八糟的格式统一起来，尽可能用pdf&#x2F;doc&#x2F;txt等常见通用格式保存重要资料，方便管理和使用。</p>
+<p>如果想直接阅读PDG，这里推荐<a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a>，该软件可以说是最快、最干净的PDF阅读器，也支持eBook (epub, mobi), comic book (cbz&#x2F;cbr), DjVu, XPS, CHM, image等格式（for Windows）。</p>
+<h1 id="电子书（epub-x2F-mobi-x2F-azw3）"><a href="#电子书（epub-x2F-mobi-x2F-azw3）" class="headerlink" title="电子书（epub&#x2F;mobi&#x2F;azw3）"></a>电子书（epub&#x2F;mobi&#x2F;azw3）</h1><p>mobi 和 azw 都是 Amazon亚马逊的私有格式格式，依靠 Amazon 这个巨大的内容提供商及其电子书阅读器 Kindle 的流行普及。mobi 是比较老的一种格式，而 azw 只是 mobi 的另一种形式而已，也可理解为 mobi 加了个壳，亚马逊利用它对电子书做 DRM 版权保护。</p>
+<p>EPUB（Electronic Publication 的缩写，电子出版）是一种电子图书标准，由国际数字出版论坛（IDPF）提出；其中包括 3 种文件格式标准（文件的扩展名为 .epub），这个格式已取代了先前的 Open eBook 开放电子书标准。</p>
+<p>随着亚马逊退出中国，以及epub开放标准的普及，我更推荐使用epub格式。</p>
+<p><a href="https://www.neat-reader.cn/downloads/converter">Neat Converter - 免费电子文档转码器，支持ePub，Azw3，Mobi，PDF，Docx，TXT文件的相互转换 (neat-reader.cn)</a></p>
+<p>如何找资源？</p>
+<p>除了网站列出的Zlib、文渊阁、熊猫搜书等，也可以关注微博、公众号、电报群等，对于大部分人来讲，网站列出的就足够了。</p>
+<hr>
+<p>最后，新书资源（三年内）不要报太大期望。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>资源检索</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【最近】清明携亲访校——“大学”是因为“大”</title>
     <url>/2023/04/05/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%B8%85%E6%98%8E%E6%90%BA%E4%BA%B2%E8%AE%BF%E6%A0%A1%E2%80%94%E2%80%94%E2%80%9C%E5%A4%A7%E5%AD%A6%E2%80%9D%E6%98%AF%E5%9B%A0%E4%B8%BA%E2%80%9C%E5%A4%A7%E2%80%9D/</url>
     <content><![CDATA[<p>　　新学期的第一个小假期，带着三奶奶、叔叔和上二年级的小妹到学校玩，去年小婶就让我有空带着妞妞去大学里转一转，因为种种原因，一直到今天才方便。</p>
@@ -3980,9 +4277,9 @@
         <category>学术</category>
       </categories>
       <tags>
+        <tag>转载</tag>
         <tag>商代</tag>
         <tag>甲骨</tag>
-        <tag>转载</tag>
       </tags>
   </entry>
   <entry>
@@ -5452,8 +5749,8 @@
         <category>总结</category>
       </categories>
       <tags>
-        <tag>年终总结</tag>
         <tag>Henu</tag>
+        <tag>年终总结</tag>
       </tags>
   </entry>
   <entry>
@@ -5678,7 +5975,7 @@
 <p>　　记录最近发生的事情，和脑子里的乱七八糟。</p>
 <p>　　如果有朋友关心我的近况，可以给他们看这个博客。</p>
 <p>　　</p>
-<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#119;&#x65;&#x6e;&#x2e;&#107;&#x40;&#x66;&#111;&#x78;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;">&#119;&#x65;&#x6e;&#x2e;&#107;&#x40;&#x66;&#111;&#x78;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;</a></p>
+<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#x77;&#101;&#110;&#46;&#x6b;&#64;&#102;&#x6f;&#x78;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x77;&#101;&#110;&#46;&#x6b;&#64;&#102;&#x6f;&#x78;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></p>
 ]]></content>
       <categories>
         <category>一个筐</category>
@@ -5719,8 +6016,8 @@ tags:
         <category>Hexo</category>
       </categories>
       <tags>
-        <tag>博客写作</tag>
         <tag>博客搭建</tag>
+        <tag>博客写作</tag>
       </tags>
   </entry>
   <entry>
