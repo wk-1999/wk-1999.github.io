@@ -20,8 +20,28 @@
       </categories>
   </entry>
   <entry>
-    <title>【工具】如何制作、修改PDF</title>
-    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E4%BF%AE%E6%94%B9PDF/</url>
+    <title>【随想】儿时夏天的味道</title>
+    <url>/2023/06/07/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%84%BF%E6%97%B6%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%91%B3%E9%81%93/</url>
+    <content><![CDATA[<p>　　看到这个题目，可能很多人都第一时间想到的是糖果一类的特有零食，我想说的并不是这个。关于我个人对于“味道”的特殊体验，之前写过几篇了，今天受到激发，忍不住再写一篇。</p>
+<p>　　闻到的是皮革的清香，唇齿间是口香糖嚼完之后的回甘，前者激发我想起了儿时的夏天。</p>
+<p>　　家里有三张皮质沙发，很好的皮料，颜色是比较少见的深绿色，到现在都还好好的，就是缝隙的灰尘和生锈的沙发脚过了二十年已经很难以去除了。皮沙发在夏天一下子躺上去会感觉凉凉的，我小时候很喜欢躺上面睡觉，我爸妈会担心出汗容易损坏皮面，所以天太热时候一般不让我睡上面。我会趁着空隙躺上去，蜷缩在沙发面上，紧紧贴着皮面，在气温和体温作用下，一种独特的皮革清香就会蒸发。</p>
+<p>　　均匀的感受冰冰凉的沙发，门外的清风，和聒噪的蝉鸣，孩童时代的我很贪恋这样光膀子躺在沙发上享受夏天。</p>
+<p>　　今天去成都中医药大学出差，在办公室里摆放了很多皮质沙发椅，不知道是不是真皮，但能够嗅到一股淡淡的皮革味，在大脑加工下，这个味道萦绕我鼻腔一整天，时而朦胧，时而清晰，仔细回味，就像童年的夏天。</p>
+<p>　　小时候还很喜欢吃口香糖，不管是嚼完了吐还是吹泡泡搞恶作剧，口香糖对于小孩都有巨大的吸引力。最近舌根和齿缝间就总是出现那种嚼完口香糖后的回甘，有一点点薄荷的味道，有一点点甜，哪怕今天喝了苏打水柠檬水，吃了火锅和陈皮糖，还是不能忘掉这一种味道。</p>
+<p>　　那些青涩稚嫩的日子，永远陈封在遥远的过去，但是味道不会——我好像昨天才写过这段话。</p>
+<p>　　人生如戏，童年是清香与甘甜的回忆。</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>味道</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【工具】PDF制作、修改与格式转换工具</title>
+    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91PDF%E5%88%B6%E4%BD%9C%E3%80%81%E4%BF%AE%E6%94%B9%E4%B8%8E%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</url>
     <content><![CDATA[<p>经常有PDF阅读的需求，并且越来越忍受不了低质量的图像，所以逐渐学会了自己动手丰衣足食。Windows PDG阅读器，推荐<a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a>。</p>
 <h1 id="先利其器——软件集合"><a href="#先利其器——软件集合" class="headerlink" title="先利其器——软件集合"></a>先利其器——软件集合</h1><h2 id="PDF补丁丁"><a href="#PDF补丁丁" class="headerlink" title="PDF补丁丁"></a><a href="https://www.cnblogs.com/pdfpatcher/">PDF补丁丁</a></h2><blockquote>
 <p>PDF补丁丁是一个用于修改PDF文件信息的工具。它具有以下功能：</p>
@@ -297,6 +317,9 @@
 <h2 id="②-确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。"><a href="#②-确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。" class="headerlink" title="② 确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。"></a>② 确定版本，记住作者（包括翻译、校对）、出版社、出版年份、ISBN等信息。</h2><h2 id="③-免费资源搜索推荐：-Z-Library-Z-Library-烟海-yanhainav-cn-、FreeMbook"><a href="#③-免费资源搜索推荐：-Z-Library-Z-Library-烟海-yanhainav-cn-、FreeMbook" class="headerlink" title="③ 免费资源搜索推荐：[Z-Library](Z-Library | 烟海 (yanhainav.cn))、FreeMbook"></a>③ 免费资源搜索推荐：[Z-Library](<a href="http://www.yanhainav.cn/sites/40.html">Z-Library | 烟海 (yanhainav.cn)</a>)、<a href="http://www.yanhainav.cn/sites/41.html">FreeMbook</a></h2><p>Zlib作为全球最知名、最具影响力的电子书资源站之一，也有许多中文出版物资源，但种类、版本、质量都一般，适合偏大众、通俗、热门的资源检索。</p>
 <p>而对于相对专业的出版物，就更依赖读秀的资源了，如果你要的书在读秀可以搜到，那么大概率也可以在<a href="http://www.yanhainav.cn/sites/41.html">FreeMbook</a>找到，资源保存方法在其网站有说明，并且资源全部免费。</p>
 <p>但毕竟免费，有可能也有覆盖不到的，就可以到1元哥、2元哥之类的看看运气。</p>
+<blockquote>
+<p>GreasyFork 脚本已下线，可以<a href="https://yanhainav.lanzoul.com/iti480xczr9c">手动下载安装</a>，附一个<a href="https://yanhainav.lanzoul.com/iDWit0xczrad">Speedownload</a>。</p>
+</blockquote>
 <h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>读秀的资源一般都是PDG格式，推荐使用<a href="https://yanhainav.lanzoul.com/i30FM0tfxqfe">Pdg2Pic</a>，转换为PDF格式。我也十分推荐将乱七八糟的格式统一起来，尽可能用pdf&#x2F;doc&#x2F;txt等常见通用格式保存重要资料，方便管理和使用。</p>
 <p>如果想直接阅读PDG，这里推荐<a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a>，该软件可以说是最快、最干净的PDF阅读器，也支持eBook (epub, mobi), comic book (cbz&#x2F;cbr), DjVu, XPS, CHM, image等格式（for Windows）。</p>
 <h1 id="电子书（epub-x2F-mobi-x2F-azw3）"><a href="#电子书（epub-x2F-mobi-x2F-azw3）" class="headerlink" title="电子书（epub&#x2F;mobi&#x2F;azw3）"></a>电子书（epub&#x2F;mobi&#x2F;azw3）</h1><p>mobi 和 azw 都是 Amazon亚马逊的私有格式格式，依靠 Amazon 这个巨大的内容提供商及其电子书阅读器 Kindle 的流行普及。mobi 是比较老的一种格式，而 azw 只是 mobi 的另一种形式而已，也可理解为 mobi 加了个壳，亚马逊利用它对电子书做 DRM 版权保护。</p>
@@ -1487,6 +1510,7 @@
         <category>随想</category>
       </categories>
       <tags>
+        <tag>味道</tag>
         <tag>散文</tag>
       </tags>
   </entry>
@@ -4278,9 +4302,9 @@
         <category>学术</category>
       </categories>
       <tags>
+        <tag>转载</tag>
         <tag>商代</tag>
         <tag>甲骨</tag>
-        <tag>转载</tag>
       </tags>
   </entry>
   <entry>
@@ -5103,9 +5127,9 @@
         <category>最近</category>
       </categories>
       <tags>
+        <tag>记梦</tag>
         <tag>诗歌</tag>
         <tag>狂想不达米亚</tag>
-        <tag>记梦</tag>
       </tags>
   </entry>
   <entry>
@@ -5506,6 +5530,7 @@
       </categories>
       <tags>
         <tag>实习</tag>
+        <tag>味道</tag>
       </tags>
   </entry>
   <entry>
@@ -5976,7 +6001,7 @@
 <p>　　记录最近发生的事情，和脑子里的乱七八糟。</p>
 <p>　　如果有朋友关心我的近况，可以给他们看这个博客。</p>
 <p>　　</p>
-<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#x77;&#101;&#x6e;&#46;&#107;&#64;&#102;&#x6f;&#120;&#109;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x77;&#101;&#x6e;&#46;&#107;&#64;&#102;&#x6f;&#120;&#109;&#97;&#x69;&#108;&#46;&#x63;&#x6f;&#x6d;</a></p>
+<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#119;&#x65;&#110;&#46;&#x6b;&#64;&#x66;&#x6f;&#120;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#111;&#x6d;">&#119;&#x65;&#110;&#46;&#x6b;&#64;&#x66;&#x6f;&#120;&#x6d;&#x61;&#x69;&#108;&#46;&#99;&#111;&#x6d;</a></p>
 ]]></content>
       <categories>
         <category>一个筐</category>
@@ -6350,8 +6375,8 @@ tags:
         <category>记梦</category>
       </categories>
       <tags>
-        <tag>狂想不达米亚</tag>
         <tag>记梦</tag>
+        <tag>狂想不达米亚</tag>
       </tags>
   </entry>
   <entry>
@@ -6443,8 +6468,8 @@ tags:
       </categories>
       <tags>
         <tag>Henu</tag>
-        <tag>记梦</tag>
         <tag>考研</tag>
+        <tag>记梦</tag>
       </tags>
   </entry>
   <entry>
@@ -6505,8 +6530,8 @@ tags:
         <category>记梦</category>
       </categories>
       <tags>
-        <tag>狂想不达米亚</tag>
         <tag>记梦</tag>
+        <tag>狂想不达米亚</tag>
       </tags>
   </entry>
   <entry>

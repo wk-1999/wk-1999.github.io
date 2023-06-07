@@ -6,7 +6,7 @@
   <link href="https://wk-1999.github.io/atom.xml" rel="self"/>
   
   <link href="https://wk-1999.github.io/"/>
-  <updated>2023-04-19T15:11:38.651Z</updated>
+  <updated>2023-06-06T16:51:42.137Z</updated>
   <id>https://wk-1999.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【工具】如何制作、修改PDF</title>
-    <link href="https://wk-1999.github.io/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E4%BF%AE%E6%94%B9PDF/"/>
-    <id>https://wk-1999.github.io/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9C%E4%BF%AE%E6%94%B9PDF/</id>
+    <title>【随想】儿时夏天的味道</title>
+    <link href="https://wk-1999.github.io/2023/06/07/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%84%BF%E6%97%B6%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%91%B3%E9%81%93/"/>
+    <id>https://wk-1999.github.io/2023/06/07/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%84%BF%E6%97%B6%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%91%B3%E9%81%93/</id>
+    <published>2023-06-06T16:21:52.000Z</published>
+    <updated>2023-06-06T16:51:42.137Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;　　看到这个题目，可能很多人都第一时间想到的是糖果一类的特有零食，我想说的并不是这个。关于我个人对于“味道”的特殊体验，之前写过几篇了，今天受到激发，忍不住再写一篇。&lt;/p&gt;
+&lt;p&gt;　　闻到的是皮革的清香，唇齿间是口香糖嚼完之后的回甘，前者激发我想起了儿时的夏天。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="人生忽然" scheme="https://wk-1999.github.io/categories/%E4%BA%BA%E7%94%9F%E5%BF%BD%E7%84%B6/"/>
+    
+    <category term="随想" scheme="https://wk-1999.github.io/categories/%E4%BA%BA%E7%94%9F%E5%BF%BD%E7%84%B6/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+    <category term="味道" scheme="https://wk-1999.github.io/tags/%E5%91%B3%E9%81%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【工具】PDF制作、修改与格式转换工具</title>
+    <link href="https://wk-1999.github.io/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91PDF%E5%88%B6%E4%BD%9C%E3%80%81%E4%BF%AE%E6%94%B9%E4%B8%8E%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/"/>
+    <id>https://wk-1999.github.io/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91PDF%E5%88%B6%E4%BD%9C%E3%80%81%E4%BF%AE%E6%94%B9%E4%B8%8E%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</id>
     <published>2023-04-19T13:38:47.000Z</published>
-    <updated>2023-04-19T15:11:38.651Z</updated>
+    <updated>2023-05-26T14:54:07.227Z</updated>
     
     
       
@@ -107,7 +136,7 @@
     <link href="https://wk-1999.github.io/2023/04/15/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E6%89%BE%E4%B9%A6/"/>
     <id>https://wk-1999.github.io/2023/04/15/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E5%A6%82%E4%BD%95%E6%89%BE%E4%B9%A6/</id>
     <published>2023-04-15T09:24:11.000Z</published>
-    <updated>2023-04-19T11:46:33.639Z</updated>
+    <updated>2023-05-26T14:55:16.290Z</updated>
     
     
       
@@ -583,36 +612,6 @@
     <category term="青铜器" scheme="https://wk-1999.github.io/tags/%E9%9D%92%E9%93%9C%E5%99%A8/"/>
     
     <category term="摘录" scheme="https://wk-1999.github.io/tags/%E6%91%98%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【随想】文化产品的政治正确</title>
-    <link href="https://wk-1999.github.io/2022/11/11/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%9A%84%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/"/>
-    <id>https://wk-1999.github.io/2022/11/11/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E6%96%87%E5%8C%96%E4%BA%A7%E5%93%81%E7%9A%84%E6%94%BF%E6%B2%BB%E6%AD%A3%E7%A1%AE/</id>
-    <published>2022-11-10T19:27:29.000Z</published>
-    <updated>2022-11-19T11:04:36.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;越来越多的西方影视作品和其他流行文化中在极力鼓吹政治正确，最近在看桀哥的《战神：诸神黄昏》直播，水友们都在吐槽阿特柔斯的小女友设定是个黑人，在北欧神话的背景中安排这样一个格格不入的角色，为了政治正确抛弃传统和历史，西方的流行文化迷失进了一种令消费者作呕的文化毒瘴。&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    <category term="人生忽然" scheme="https://wk-1999.github.io/categories/%E4%BA%BA%E7%94%9F%E5%BF%BD%E7%84%B6/"/>
-    
-    <category term="随想" scheme="https://wk-1999.github.io/categories/%E4%BA%BA%E7%94%9F%E5%BF%BD%E7%84%B6/%E9%9A%8F%E6%83%B3/"/>
-    
-    
-    <category term="政治" scheme="https://wk-1999.github.io/tags/%E6%94%BF%E6%B2%BB/"/>
-    
-    <category term="文化" scheme="https://wk-1999.github.io/tags/%E6%96%87%E5%8C%96/"/>
     
   </entry>
   
