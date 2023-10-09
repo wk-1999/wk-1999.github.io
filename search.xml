@@ -9,7 +9,7 @@
 <p>　　记录最近发生的事情，和脑子里的乱七八糟。</p>
 <p>　　如果有朋友关心我的近况，可以给他们看这个博客。</p>
 <p>　　</p>
-<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#119;&#101;&#110;&#46;&#x6b;&#64;&#x66;&#111;&#120;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#119;&#101;&#110;&#46;&#x6b;&#64;&#x66;&#111;&#120;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></p>
+<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#119;&#x65;&#x6e;&#46;&#x6b;&#64;&#102;&#111;&#120;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#119;&#x65;&#x6e;&#46;&#x6b;&#64;&#102;&#111;&#120;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;</a></p>
 ]]></content>
       <categories>
         <category>一个筐</category>
@@ -52,28 +52,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/12/06/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91Hello%20world/</url>
-    <content><![CDATA[<p>海内存知己，天涯若比邻！</p>
-<pre><code>当第一次看到win10系统展现给我的蔚蓝底色“海内存知己，天涯若比邻”，我记得自己有些恍惚，古典的诗歌，与当时最新的个人操作系统相遇，居然会让人有些感动。
-</code></pre>
-<h1 id="一年零八个月后，我又开始做个人博客"><a href="#一年零八个月后，我又开始做个人博客" class="headerlink" title="一年零八个月后，我又开始做个人博客"></a>一年零八个月后，我又开始做个人博客</h1><p>兜兜转转，距离第一次做网站已经过了一年零八个月。那是疫情中的漫长寒假，3月份，开学依旧遥遥无期。我开始准备考研，但是在家里的状态实在静不下心。偶然间看到微软的Office365开发者计划，偶然间，就心血来潮，开始了短暂且记忆深刻的摸代码之旅。<br>在E5计划续订压力的催使下，我开始做起简单的个人博客和个人云盘，拥有了独属于自己的互联网域名和备案网站，逐渐意识到自由的个人平台的意义所在：不用在乎访客的身份，只需要做一个尽可能解释自己的互联网投影。我们在愈发抽象的现代潮流中茫然漂流，我们的语言被不同类型的社交平台挤压、变形，我们从社交平台上看到片面、孤立、狭隘的人格幻象，逐渐的，那些熟悉的人变得愈发虚幻，或更令人厌恶，或更令人偏爱。<br>短暂的站长体验，让自己更讨厌——被社交平台惯出来的喜怒哀乐。<br>因为服务器到期，无力续费，自己也逐渐开始进行备考的规划，时间、精力和钱包迫使我暂时放弃Blog计划，“ ᵂ◡ᴷ ”——她的名字——仅存活了两个月。</p>
-<p><strong>崭新的起点，崭新的相遇</strong><br>这次采用Github+Hexo的方法，省事不少，也不需要捯饬云服务器，没有意外的话，我想我会一直做下去。<br>写关于久远的梦、关于……</p>
-<hr>
-<blockquote>
-<p>2021.06.11:<br>    之后有空闲，想再做起个人的博客，随便写写吧，写写奇怪的梦，比如那无数条小鳄鱼缠在右手上，比如大鳄鱼像青蛙一样蹦哒的前进……</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>一个筐</category>
-        <category>总结</category>
-      </categories>
-      <tags>
-        <tag>博客</tag>
-        <tag>想法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Cover</title>
     <url>/2022/05/18/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91Cover/</url>
     <content><![CDATA[<hr>
@@ -91,43 +69,6 @@
         <category>一个筐</category>
         <category>本站</category>
       </categories>
-  </entry>
-  <entry>
-    <title>句子摘抄</title>
-    <url>/2021/07/11/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91%E5%8F%A5%E5%AD%90%E6%91%98%E6%8A%84/</url>
-    <content><![CDATA[<h1 id="文学"><a href="#文学" class="headerlink" title="文学"></a>文学</h1><p>米兰·昆德拉《不朽》——</p>
-<blockquote>
-<p>公路不过是将一点与另一点联系起来的普通路线。公路本身没有意义，唯有公路连接的两点才有意义。而道路是对空间表示的敬意。每一段路本身都具有一种含义，催促我们歇歇脚。</p>
-</blockquote>
-<p>陈寅恪1929《清华大学王观堂先生纪念碑铭》——</p>
-<blockquote>
-<p>士之读书治学，盖将以脱心志于俗谛之桎梏，真理因得以发扬。</p>
-</blockquote>
-<p>德 尼采《敌基督者》——</p>
-<blockquote>
-<p>谁终将声震人间，必长久深自缄默。谁终将点燃闪电，必长久如云漂泊。</p>
-</blockquote>
-<p>不详</p>
-<blockquote>
-<p>文学批评的最终目的，不是为了验证以至构筑某种文学批评理论，而在于通过文本解读或赏析促成一种深度认知和审美体验。</p>
-</blockquote>
-<p>某次讲座</p>
-<blockquote>
-<p>但没有什么比生活世界本身更有说服力。因为事实上，波澜壮阔的消费社会每天都在证明物感那无可阻挡、摧枯拉朽的力量。<br>所以醒醒吧，意义宰制的时代终结了自由的物感打动才是最富正义的力量，至为深刻的时代精神。这是一场姗姗来迟但不可能永久缺席的文艺复兴。而物感主义所做的，不过是煽风点火，顺势而为。<br>只是后发国家穷凶极恶的功利主义在负隅顽抗。混乱的物序，粗鄙的物感，不仅严重地败坏了我们的存在感，也极大地损害了我们的族类形象。为此，物感主义的使命是重建物序，在对全部物体系的崭新物感的创造中，将艺术带回生活的现场，并藉此重建生活世界的尊严。<br>除此而外，物感主义还必须远离婆婆妈妈的当代艺术，远离那些自以为是、简单粗暴的时代诊断，远离那些投机取巧、廉价空洞的意识形态批判，尤其要远离那些像雾霾一样没完没了的自我抒情。</p>
-</blockquote>
-<h1 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h1><p>不详</p>
-<blockquote>
-<p>0请高明，1可赛艇，2院讲话，3个代表，4次起身，5可奉告，6四水柜，7因祸福，8门外语,9十大寿，10全长者，百万蛤丝，千言万语，万寿吾江！</p>
-</blockquote>
-<h1 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h1><p><img src="https://s2.loli.net/2022/09/08/YxobGhQKwjNIkaX.png" alt="杀人放火金腰带，修桥补路无尸骸"></p>
-]]></content>
-      <categories>
-        <category>一个筐</category>
-        <category>本站</category>
-      </categories>
-      <tags>
-        <tag>佳句</tag>
-      </tags>
   </entry>
   <entry>
     <title>2021总结：回望-期待</title>
@@ -169,6 +110,65 @@
       <tags>
         <tag>Henu</tag>
         <tag>年终总结</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/12/06/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91Hello%20world/</url>
+    <content><![CDATA[<p>海内存知己，天涯若比邻！</p>
+<pre><code>当第一次看到win10系统展现给我的蔚蓝底色“海内存知己，天涯若比邻”，我记得自己有些恍惚，古典的诗歌，与当时最新的个人操作系统相遇，居然会让人有些感动。
+</code></pre>
+<h1 id="一年零八个月后，我又开始做个人博客"><a href="#一年零八个月后，我又开始做个人博客" class="headerlink" title="一年零八个月后，我又开始做个人博客"></a>一年零八个月后，我又开始做个人博客</h1><p>兜兜转转，距离第一次做网站已经过了一年零八个月。那是疫情中的漫长寒假，3月份，开学依旧遥遥无期。我开始准备考研，但是在家里的状态实在静不下心。偶然间看到微软的Office365开发者计划，偶然间，就心血来潮，开始了短暂且记忆深刻的摸代码之旅。<br>在E5计划续订压力的催使下，我开始做起简单的个人博客和个人云盘，拥有了独属于自己的互联网域名和备案网站，逐渐意识到自由的个人平台的意义所在：不用在乎访客的身份，只需要做一个尽可能解释自己的互联网投影。我们在愈发抽象的现代潮流中茫然漂流，我们的语言被不同类型的社交平台挤压、变形，我们从社交平台上看到片面、孤立、狭隘的人格幻象，逐渐的，那些熟悉的人变得愈发虚幻，或更令人厌恶，或更令人偏爱。<br>短暂的站长体验，让自己更讨厌——被社交平台惯出来的喜怒哀乐。<br>因为服务器到期，无力续费，自己也逐渐开始进行备考的规划，时间、精力和钱包迫使我暂时放弃Blog计划，“ ᵂ◡ᴷ ”——她的名字——仅存活了两个月。</p>
+<p><strong>崭新的起点，崭新的相遇</strong><br>这次采用Github+Hexo的方法，省事不少，也不需要捯饬云服务器，没有意外的话，我想我会一直做下去。<br>写关于久远的梦、关于……</p>
+<hr>
+<blockquote>
+<p>2021.06.11:<br>    之后有空闲，想再做起个人的博客，随便写写吧，写写奇怪的梦，比如那无数条小鳄鱼缠在右手上，比如大鳄鱼像青蛙一样蹦哒的前进……</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>一个筐</category>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>博客</tag>
+        <tag>想法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>句子摘抄</title>
+    <url>/2021/07/11/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91%E5%8F%A5%E5%AD%90%E6%91%98%E6%8A%84/</url>
+    <content><![CDATA[<h1 id="文学"><a href="#文学" class="headerlink" title="文学"></a>文学</h1><p>米兰·昆德拉《不朽》——</p>
+<blockquote>
+<p>公路不过是将一点与另一点联系起来的普通路线。公路本身没有意义，唯有公路连接的两点才有意义。而道路是对空间表示的敬意。每一段路本身都具有一种含义，催促我们歇歇脚。</p>
+</blockquote>
+<p>陈寅恪1929《清华大学王观堂先生纪念碑铭》——</p>
+<blockquote>
+<p>士之读书治学，盖将以脱心志于俗谛之桎梏，真理因得以发扬。</p>
+</blockquote>
+<p>德 尼采《敌基督者》——</p>
+<blockquote>
+<p>谁终将声震人间，必长久深自缄默。谁终将点燃闪电，必长久如云漂泊。</p>
+</blockquote>
+<p>不详</p>
+<blockquote>
+<p>文学批评的最终目的，不是为了验证以至构筑某种文学批评理论，而在于通过文本解读或赏析促成一种深度认知和审美体验。</p>
+</blockquote>
+<p>某次讲座</p>
+<blockquote>
+<p>但没有什么比生活世界本身更有说服力。因为事实上，波澜壮阔的消费社会每天都在证明物感那无可阻挡、摧枯拉朽的力量。<br>所以醒醒吧，意义宰制的时代终结了自由的物感打动才是最富正义的力量，至为深刻的时代精神。这是一场姗姗来迟但不可能永久缺席的文艺复兴。而物感主义所做的，不过是煽风点火，顺势而为。<br>只是后发国家穷凶极恶的功利主义在负隅顽抗。混乱的物序，粗鄙的物感，不仅严重地败坏了我们的存在感，也极大地损害了我们的族类形象。为此，物感主义的使命是重建物序，在对全部物体系的崭新物感的创造中，将艺术带回生活的现场，并藉此重建生活世界的尊严。<br>除此而外，物感主义还必须远离婆婆妈妈的当代艺术，远离那些自以为是、简单粗暴的时代诊断，远离那些投机取巧、廉价空洞的意识形态批判，尤其要远离那些像雾霾一样没完没了的自我抒情。</p>
+</blockquote>
+<h1 id="网络"><a href="#网络" class="headerlink" title="网络"></a>网络</h1><p>不详</p>
+<blockquote>
+<p>0请高明，1可赛艇，2院讲话，3个代表，4次起身，5可奉告，6四水柜，7因祸福，8门外语,9十大寿，10全长者，百万蛤丝，千言万语，万寿吾江！</p>
+</blockquote>
+<h1 id="电影"><a href="#电影" class="headerlink" title="电影"></a>电影</h1><p><img src="https://s2.loli.net/2022/09/08/YxobGhQKwjNIkaX.png" alt="杀人放火金腰带，修桥补路无尸骸"></p>
+]]></content>
+      <categories>
+        <category>一个筐</category>
+        <category>本站</category>
+      </categories>
+      <tags>
+        <tag>佳句</tag>
       </tags>
   </entry>
   <entry>
@@ -222,6 +222,39 @@
       </categories>
       <tags>
         <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>致圆满的二十二</title>
+    <url>/2022/09/11/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91%E8%87%B4%E5%9C%86%E6%BB%A1%E7%9A%84%E4%BA%8C%E5%8D%81%E4%BA%8C/</url>
+    <content><![CDATA[<center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=521416693&auto=0&height=66"></iframe> </center>
+
+<p>　　如果按阴历算，22 岁的开始，是 2021 年 9 月 23 日，农历八月十七，这一天我当上了我们专业的班长。明天就是我的 23 岁，刚刚好一年。</p>
+<p>　　这一年，带领班级整整齐齐地聚餐一次，其他小聚就不算了。相比于本科时候的班级，我对研究生的小班团更有感情，大家每天上课、吃饭、活动经常一起，十个人的联系非常紧密，相处和谐融洽。</p>
+<p>　　22 岁的始终，都是中国古典文献学班团班长的身份，完整而圆满，像昨天晚上的月亮。</p>
+<p>　　我很想解释清楚，选择那一天开始，以及选择今天结束，都是出于偶然。某种意义上来说，也许是奇妙的缘分注定。</p>
+<p>　　本来新生候选班长要跟辅导员面试的那天，由于通知太晚，我已经坐上了去望江的校车，要在宣传部坐班一整天，所以错过了，后续单独安排了我的面试。年级的新生干部里男生很少，这也可能是辅导员有耐心等我的原因吧。我猜测很可能也是因为我的这个推迟，让正式的年级干部任命也推迟了几天，刚好赶上我的八月十七。</p>
+<p>　　至于在 22 岁的最后一天离任，也有些巧合。选这天班长交接的通知也是随口提的，一方面想着有无人接任竞选还不好说，另一方面也想着赶中秋开班会不好，延后一天吧，只要 17 号之前搞定就行。还没有想到生日的问题，也没想起来了去年当班长是什么时间。记起这些，是现在，11 号凌晨，复盘才想起来的。</p>
+<p>　　我想起自己的生日，往往都是中秋节到了。中秋假一般三天，自高中住校以来，多年不在家过生日，自己到学校也不在乎这个，年少很讨厌甜腻的食物，生日从来都是心里过。</p>
+<p>　　长那么大，很少体验到过生日仪式感，小时候觉得过生日可以吃好吃的，玩好玩的，不过我印象里初中开始，就不关心过生日吃喝玩乐了。很小时候也不爱喝奶粉，长大了有些乳糖不耐，也不喜欢甜食，现在倒是好多了。</p>
+<p>　　第一次真正感受到生日的仪式感，是大二时候，2018 年 9 月 26 日，农历八月十七，与 99 年我出生时候的公历阴历一致。那一天我在校报收了三个徒弟，我很激动，大二了就可以当师父，带新人了，可以教她们东西，可以为“山上”的建设出力。那时产生的责任感，影响了我很久。跟三个徒弟产生的联系，至今未绝。</p>
+<p>　　坦然面对命运，它要我经历什么，就去经历什么。有时候也会努力改变，比如中考那年、高考那年、考研那年，尽人事听天命。成年以来，从没想过自己的生日总是会与一些特殊日子产生联系，滋生出仪式感。</p>
+<p>　　二十二岁已经走完了，研一一年，充实丰富，迷茫颓废，读书，刷剧，当班长，学装机，干摄影，当助教，做博客，写论文，常躺尸……</p>
+<p>　　好像不算太差。</p>
+<p>　　二十三岁，我又会如何度过？</p>
+<p>　　我以后会有所作为吗？</p>
+<p>　　我能改变世界吗？</p>
+<p>　　我能养活自己吗？</p>
+<p>　　这一年，经济基本独立，但也就解决基本需求。</p>
+<p>　　学业一团半成品，抟好像样的形状还需要很多努力。</p>
+<p>　　走完了一程还有下一程，追寻改变的契机，新的方向，“问征夫以前路，恨晨光之熹微”。</p>
+]]></content>
+      <categories>
+        <category>一个筐</category>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>SCU</tag>
       </tags>
   </entry>
   <entry>
@@ -346,6 +379,49 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo搭建与维护（三）绑定域名</title>
+    <url>/2022/04/20/%E3%80%90%E4%BB%A3%E7%A0%81%E3%80%91Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%89%EF%BC%89%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
+    <content><![CDATA[<p>　　　本文记录一下如何将个人域名与部署在Github上的Hexo博客绑定。</p>
+<p>1，获取已建立的Hexo博客IP地址。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">win+r输入cmd</span><br><span class="line">输入ping github博客网址</span><br><span class="line">复制IP</span><br></pre></td></tr></table></figure>
+
+<p>2，域名控制台添加IP解析</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">我使用的腾讯云DNS，在域名中添加对应两条解析：@和www</span><br></pre></td></tr></table></figure>
+
+<p>3，在Github的博客仓库添加域名</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Setting-Pages-Custom domain</span><br><span class="line">添加域名</span><br></pre></td></tr></table></figure>
+
+<p>4，在本地Hexo文件夹中设置域名</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">文件路径：\Blog\source</span><br><span class="line">新建CNAME文件（无后缀），添加域名，保存。</span><br></pre></td></tr></table></figure>
+
+<p>5，浏览器输入域名测试。</p>
+<p>6，结束。</p>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>代码</category>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【前尘】回忆一则</title>
+    <url>/2021/07/07/%E3%80%90%E5%89%8D%E5%B0%98%E3%80%91%E5%9B%9E%E5%BF%86%E4%B8%80%E5%88%99/</url>
+    <content><![CDATA[<p>　　想起来以前，很喜欢去学五食堂吃葱油拌面，那家窗口经常会有一个小姐姐，我觉得应该是兼职，在窗口卖饭。带着口罩，露出一双带着细框眼镜的美丽眸子，我相信她应该是个温柔美丽的人儿。</p>
+<p>　　每次都是打完饭，静静离去。</p>
+<p>　　我们什么故事也没有。</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>前尘</category>
+      </categories>
+      <tags>
+        <tag>Henu</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo搭建与维护（一）项目结构、文章分类与标签</title>
     <url>/2021/12/07/%E3%80%90%E4%BB%A3%E7%A0%81%E3%80%91Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%80%EF%BC%89%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E3%80%81%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E4%B8%8E%E6%A0%87%E7%AD%BE/</url>
     <content><![CDATA[<h1 id="Hexo项目主要文件目录"><a href="#Hexo项目主要文件目录" class="headerlink" title="Hexo项目主要文件目录"></a>Hexo项目主要文件目录</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">├── .deploy       # 需要部署的文件</span><br><span class="line">├── node_modules  # 项目所有的依赖包和插件</span><br><span class="line">├── public        # 生成的静态网页文件</span><br><span class="line">├── scaffolds     # 文章模板</span><br><span class="line">├── source        # 博客正文和其他源文件等都应该放在这里</span><br><span class="line">|   ├── _drafts   # 草稿</span><br><span class="line">|   └── _posts    # 文章</span><br><span class="line">├── themes        # 主题</span><br><span class="line">├── _config.yml   # 全局配置文件</span><br><span class="line">└── package.json  # 项目依赖信息</span><br></pre></td></tr></table></figure>
@@ -384,56 +460,55 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>致圆满的二十二</title>
-    <url>/2022/09/11/%E3%80%90%E4%B8%80%E4%B8%AA%E7%AD%90%E3%80%91%E8%87%B4%E5%9C%86%E6%BB%A1%E7%9A%84%E4%BA%8C%E5%8D%81%E4%BA%8C/</url>
-    <content><![CDATA[<center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=521416693&auto=0&height=66"></iframe> </center>
+    <title>Hexo搭建与维护（二）在新设备接管旧站点</title>
+    <url>/2021/12/15/%E3%80%90%E4%BB%A3%E7%A0%81%E3%80%91Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9C%A8%E6%96%B0%E8%AE%BE%E5%A4%87%E6%8E%A5%E7%AE%A1%E6%97%A7%E7%AB%99%E7%82%B9/</url>
+    <content><![CDATA[<p>今天课上无事，给Surface Go也安装了Blog的环境，相当于一次重装，稍做记录！</p>
+<h1 id="Part-1-在新设备接管旧站点"><a href="#Part-1-在新设备接管旧站点" class="headerlink" title="Part 1 在新设备接管旧站点"></a>Part 1 在新设备接管旧站点</h1><h2 id="一、工具安装"><a href="#一、工具安装" class="headerlink" title="一、工具安装"></a>一、工具安装</h2><p><strong>1、安装 node.js</strong>： </p>
+<p>node 下载地址：<a href="http://nodejs.cn/download/">http://nodejs.cn/download/</a> </p>
+<p><strong>2、安装版本控制工具 Git</strong> : </p>
+<p>Git 下载地址：<a href="https://git-scm.com/download">https://git-scm.com/download</a></p>
+<blockquote>
+<p>两个工具安装全部是下一步！下一步！下一步！</p>
+</blockquote>
+<p><strong>3、安装Hexo</strong></p>
+<p><code>npm install hexo-cli -g</code></p>
+<blockquote>
+<p>通过win+r输入cmd，再敲入安装命令</p>
+</blockquote>
+<p><strong>4、检查安装是否成功</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">node -v			# 检查npde.js</span><br><span class="line">git --version		# 检查Git</span><br><span class="line">hexo -v			# 检查hexo版本</span><br></pre></td></tr></table></figure>
 
-<p>　　如果按阴历算，22 岁的开始，是 2021 年 9 月 23 日，农历八月十七，这一天我当上了我们专业的班长。明天就是我的 23 岁，刚刚好一年。</p>
-<p>　　这一年，带领班级整整齐齐地聚餐一次，其他小聚就不算了。相比于本科时候的班级，我对研究生的小班团更有感情，大家每天上课、吃饭、活动经常一起，十个人的联系非常紧密，相处和谐融洽。</p>
-<p>　　22 岁的始终，都是中国古典文献学班团班长的身份，完整而圆满，像昨天晚上的月亮。</p>
-<p>　　我很想解释清楚，选择那一天开始，以及选择今天结束，都是出于偶然。某种意义上来说，也许是奇妙的缘分注定。</p>
-<p>　　本来新生候选班长要跟辅导员面试的那天，由于通知太晚，我已经坐上了去望江的校车，要在宣传部坐班一整天，所以错过了，后续单独安排了我的面试。年级的新生干部里男生很少，这也可能是辅导员有耐心等我的原因吧。我猜测很可能也是因为我的这个推迟，让正式的年级干部任命也推迟了几天，刚好赶上我的八月十七。</p>
-<p>　　至于在 22 岁的最后一天离任，也有些巧合。选这天班长交接的通知也是随口提的，一方面想着有无人接任竞选还不好说，另一方面也想着赶中秋开班会不好，延后一天吧，只要 17 号之前搞定就行。还没有想到生日的问题，也没想起来了去年当班长是什么时间。记起这些，是现在，11 号凌晨，复盘才想起来的。</p>
-<p>　　我想起自己的生日，往往都是中秋节到了。中秋假一般三天，自高中住校以来，多年不在家过生日，自己到学校也不在乎这个，年少很讨厌甜腻的食物，生日从来都是心里过。</p>
-<p>　　长那么大，很少体验到过生日仪式感，小时候觉得过生日可以吃好吃的，玩好玩的，不过我印象里初中开始，就不关心过生日吃喝玩乐了。很小时候也不爱喝奶粉，长大了有些乳糖不耐，也不喜欢甜食，现在倒是好多了。</p>
-<p>　　第一次真正感受到生日的仪式感，是大二时候，2018 年 9 月 26 日，农历八月十七，与 99 年我出生时候的公历阴历一致。那一天我在校报收了三个徒弟，我很激动，大二了就可以当师父，带新人了，可以教她们东西，可以为“山上”的建设出力。那时产生的责任感，影响了我很久。跟三个徒弟产生的联系，至今未绝。</p>
-<p>　　坦然面对命运，它要我经历什么，就去经历什么。有时候也会努力改变，比如中考那年、高考那年、考研那年，尽人事听天命。成年以来，从没想过自己的生日总是会与一些特殊日子产生联系，滋生出仪式感。</p>
-<p>　　二十二岁已经走完了，研一一年，充实丰富，迷茫颓废，读书，刷剧，当班长，学装机，干摄影，当助教，做博客，写论文，常躺尸……</p>
-<p>　　好像不算太差。</p>
-<p>　　二十三岁，我又会如何度过？</p>
-<p>　　我以后会有所作为吗？</p>
-<p>　　我能改变世界吗？</p>
-<p>　　我能养活自己吗？</p>
-<p>　　这一年，经济基本独立，但也就解决基本需求。</p>
-<p>　　学业一团半成品，抟好像样的形状还需要很多努力。</p>
-<p>　　走完了一程还有下一程，追寻改变的契机，新的方向，“问征夫以前路，恨晨光之熹微”。</p>
-]]></content>
-      <categories>
-        <category>一个筐</category>
-        <category>总结</category>
-      </categories>
-      <tags>
-        <tag>SCU</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo搭建与维护（三）绑定域名</title>
-    <url>/2022/04/20/%E3%80%90%E4%BB%A3%E7%A0%81%E3%80%91Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%B8%89%EF%BC%89%E7%BB%91%E5%AE%9A%E5%9F%9F%E5%90%8D/</url>
-    <content><![CDATA[<p>　　　本文记录一下如何将个人域名与部署在Github上的Hexo博客绑定。</p>
-<p>1，获取已建立的Hexo博客IP地址。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">win+r输入cmd</span><br><span class="line">输入ping github博客网址</span><br><span class="line">复制IP</span><br></pre></td></tr></table></figure>
+<blockquote>
+<p>均通过Git Bash检查</p>
+</blockquote>
+<h2 id="二、通过Git-Bash生成ssh"><a href="#二、通过Git-Bash生成ssh" class="headerlink" title="二、通过Git Bash生成ssh"></a>二、通过Git Bash生成ssh</h2><p><strong>1、生成SSH公钥</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;Github邮箱&quot;</span><br></pre></td></tr></table></figure>
 
-<p>2，域名控制台添加IP解析</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">我使用的腾讯云DNS，在域名中添加对应两条解析：@和www</span><br></pre></td></tr></table></figure>
+<p><strong>2、进入 C:\Users\主机名.ssh 目录</strong></p>
+<p>复制 <strong>id_rsa.pub</strong> 里面的信息到Github的 <strong>SSH公钥</strong> 中</p>
+<p><strong>3、Git Bash绑定（直接键入命令）</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;Github用户名&quot;</span><br><span class="line">git config --global user.email &quot;Github邮箱&quot;</span><br></pre></td></tr></table></figure>
 
-<p>3，在Github的博客仓库添加域名</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Setting-Pages-Custom domain</span><br><span class="line">添加域名</span><br></pre></td></tr></table></figure>
+<p><strong>4、测试ssh是否绑定成功</strong></p>
+<p><code>ssh -T git@github.com</code></p>
+<p>如果一切无误，到此即可在另一台电脑上同样的博客数据文件夹（通过坚果云同步）中进行操作。</p>
+<h1 id="Part-2-（如果）建立新站点"><a href="#Part-2-（如果）建立新站点" class="headerlink" title="Part 2 （如果）建立新站点"></a>Part 2 （如果）建立新站点</h1><h2 id="一、Github"><a href="#一、Github" class="headerlink" title="一、Github"></a>一、Github</h2><p><strong>1、建立账户</strong></p>
+<p><strong>2、创建仓库（仓库名是用户名）</strong></p>
+<blockquote>
+<p>仓库分支（branch）目前默认main，后续操作有可能会上传到master，建议如果发生这种情况，就删除main分支，将master设为唯一默认分支。</p>
+</blockquote>
+<h2 id="二、创建本地博客项目"><a href="#二、创建本地博客项目" class="headerlink" title="二、创建本地博客项目"></a>二、创建本地博客项目</h2><p><strong>1、项目文件生成</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init	# 初始化</span><br><span class="line">hexo g		# 生成</span><br><span class="line">hexo s		# 本地部署，部署位置http://localhost:4000</span><br></pre></td></tr></table></figure>
 
-<p>4，在本地Hexo文件夹中设置域名</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">文件路径：\Blog\source</span><br><span class="line">新建CNAME文件（无后缀），添加域名，保存。</span><br></pre></td></tr></table></figure>
+<p><strong>2、项目文件目录解释</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">├── .deploy       # 需要部署的文件</span><br><span class="line">├── node_modules  # 项目所有的依赖包和插件</span><br><span class="line">├── public        # 生成的静态网页文件</span><br><span class="line">├── scaffolds     # 文章模板</span><br><span class="line">├── source        # 博客正文和其他源文件等都应该放在这里</span><br><span class="line">|   ├── _drafts   # 草稿</span><br><span class="line">|   └── _posts    # 文章</span><br><span class="line">├── themes        # 主题</span><br><span class="line">├── _config.yml   # 全局配置文件</span><br><span class="line">└── package.json  # 项目依赖信息</span><br></pre></td></tr></table></figure>
 
-<p>5，浏览器输入域名测试。</p>
-<p>6，结束。</p>
+<p><strong>3、在项目根目录安装deploy插件</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save	# 之后就可以使用 hexo d 远程部署</span><br></pre></td></tr></table></figure>
+
+<p><strong>4、修改项目配置文件 &#x2F;_config.yml</strong></p>
+<hr>
+<p>结束！</p>
 ]]></content>
       <categories>
         <category>寸进</category>
@@ -931,81 +1006,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【前尘】回忆一则</title>
-    <url>/2021/07/07/%E3%80%90%E5%89%8D%E5%B0%98%E3%80%91%E5%9B%9E%E5%BF%86%E4%B8%80%E5%88%99/</url>
-    <content><![CDATA[<p>　　想起来以前，很喜欢去学五食堂吃葱油拌面，那家窗口经常会有一个小姐姐，我觉得应该是兼职，在窗口卖饭。带着口罩，露出一双带着细框眼镜的美丽眸子，我相信她应该是个温柔美丽的人儿。</p>
-<p>　　每次都是打完饭，静静离去。</p>
-<p>　　我们什么故事也没有。</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>前尘</category>
-      </categories>
-      <tags>
-        <tag>Henu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo搭建与维护（二）在新设备接管旧站点</title>
-    <url>/2021/12/15/%E3%80%90%E4%BB%A3%E7%A0%81%E3%80%91Hexo%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88%E4%BA%8C%EF%BC%89%E5%9C%A8%E6%96%B0%E8%AE%BE%E5%A4%87%E6%8E%A5%E7%AE%A1%E6%97%A7%E7%AB%99%E7%82%B9/</url>
-    <content><![CDATA[<p>今天课上无事，给Surface Go也安装了Blog的环境，相当于一次重装，稍做记录！</p>
-<h1 id="Part-1-在新设备接管旧站点"><a href="#Part-1-在新设备接管旧站点" class="headerlink" title="Part 1 在新设备接管旧站点"></a>Part 1 在新设备接管旧站点</h1><h2 id="一、工具安装"><a href="#一、工具安装" class="headerlink" title="一、工具安装"></a>一、工具安装</h2><p><strong>1、安装 node.js</strong>： </p>
-<p>node 下载地址：<a href="http://nodejs.cn/download/">http://nodejs.cn/download/</a> </p>
-<p><strong>2、安装版本控制工具 Git</strong> : </p>
-<p>Git 下载地址：<a href="https://git-scm.com/download">https://git-scm.com/download</a></p>
-<blockquote>
-<p>两个工具安装全部是下一步！下一步！下一步！</p>
-</blockquote>
-<p><strong>3、安装Hexo</strong></p>
-<p><code>npm install hexo-cli -g</code></p>
-<blockquote>
-<p>通过win+r输入cmd，再敲入安装命令</p>
-</blockquote>
-<p><strong>4、检查安装是否成功</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">node -v			# 检查npde.js</span><br><span class="line">git --version		# 检查Git</span><br><span class="line">hexo -v			# 检查hexo版本</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>均通过Git Bash检查</p>
-</blockquote>
-<h2 id="二、通过Git-Bash生成ssh"><a href="#二、通过Git-Bash生成ssh" class="headerlink" title="二、通过Git Bash生成ssh"></a>二、通过Git Bash生成ssh</h2><p><strong>1、生成SSH公钥</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;Github邮箱&quot;</span><br></pre></td></tr></table></figure>
-
-<p><strong>2、进入 C:\Users\主机名.ssh 目录</strong></p>
-<p>复制 <strong>id_rsa.pub</strong> 里面的信息到Github的 <strong>SSH公钥</strong> 中</p>
-<p><strong>3、Git Bash绑定（直接键入命令）</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global user.name &quot;Github用户名&quot;</span><br><span class="line">git config --global user.email &quot;Github邮箱&quot;</span><br></pre></td></tr></table></figure>
-
-<p><strong>4、测试ssh是否绑定成功</strong></p>
-<p><code>ssh -T git@github.com</code></p>
-<p>如果一切无误，到此即可在另一台电脑上同样的博客数据文件夹（通过坚果云同步）中进行操作。</p>
-<h1 id="Part-2-（如果）建立新站点"><a href="#Part-2-（如果）建立新站点" class="headerlink" title="Part 2 （如果）建立新站点"></a>Part 2 （如果）建立新站点</h1><h2 id="一、Github"><a href="#一、Github" class="headerlink" title="一、Github"></a>一、Github</h2><p><strong>1、建立账户</strong></p>
-<p><strong>2、创建仓库（仓库名是用户名）</strong></p>
-<blockquote>
-<p>仓库分支（branch）目前默认main，后续操作有可能会上传到master，建议如果发生这种情况，就删除main分支，将master设为唯一默认分支。</p>
-</blockquote>
-<h2 id="二、创建本地博客项目"><a href="#二、创建本地博客项目" class="headerlink" title="二、创建本地博客项目"></a>二、创建本地博客项目</h2><p><strong>1、项目文件生成</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo init	# 初始化</span><br><span class="line">hexo g		# 生成</span><br><span class="line">hexo s		# 本地部署，部署位置http://localhost:4000</span><br></pre></td></tr></table></figure>
-
-<p><strong>2、项目文件目录解释</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">├── .deploy       # 需要部署的文件</span><br><span class="line">├── node_modules  # 项目所有的依赖包和插件</span><br><span class="line">├── public        # 生成的静态网页文件</span><br><span class="line">├── scaffolds     # 文章模板</span><br><span class="line">├── source        # 博客正文和其他源文件等都应该放在这里</span><br><span class="line">|   ├── _drafts   # 草稿</span><br><span class="line">|   └── _posts    # 文章</span><br><span class="line">├── themes        # 主题</span><br><span class="line">├── _config.yml   # 全局配置文件</span><br><span class="line">└── package.json  # 项目依赖信息</span><br></pre></td></tr></table></figure>
-
-<p><strong>3、在项目根目录安装deploy插件</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-deployer-git --save	# 之后就可以使用 hexo d 远程部署</span><br></pre></td></tr></table></figure>
-
-<p><strong>4、修改项目配置文件 &#x2F;_config.yml</strong></p>
-<hr>
-<p>结束！</p>
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>代码</category>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>博客搭建</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【前尘】毕业寄语</title>
     <url>/2021/05/30/%E3%80%90%E5%89%8D%E5%B0%98%E3%80%91%E6%AF%95%E4%B8%9A%E5%AF%84%E8%AF%AD/</url>
     <content><![CDATA[<p>　　恍然四年，如梦方醒。<br>　　湖光塔影，东辰树影，贡院之日影，山水堂之人影，明灭神海之中。<br>　　更想起柳七“此去经年”语，其中仇憾终于悟得。<br>　　师友之情难忘，遥祝诸君长风破浪，南北东西，各自精彩！</p>
@@ -1034,23 +1034,6 @@ tags:
       </categories>
       <tags>
         <tag>Henu</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【转】傅刚《先秦文学文献学刍议讲座纪要》</title>
-    <url>/2021/07/11/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%82%85%E5%88%9A%E3%80%8A%E5%85%88%E7%A7%A6%E6%96%87%E5%AD%A6%E6%96%87%E7%8C%AE%E5%AD%A6%E5%88%8D%E8%AE%AE%E8%AE%B2%E5%BA%A7%E7%BA%AA%E8%A6%81%E3%80%8B/</url>
-    <content><![CDATA[<p>　　关于先秦文学文献的研究方法，傅刚老师表示，文学文献的整理和研究方法，大体上与历史文献相同，即要明目录、版本、训诂、校勘、辨伪。对此，他整理出四个要点。</p>
-<p>　　第一、先秦文献由于去今时代辽远，语词音韵皆有专门学问，故亦须明小学，识字明音，这些都是必备的知识。因此，先秦文学文献应该包括传、记、说、解等训诂材料。</p>
-<p>　　第二、学习先秦文学文献，必须具有正确的学术态度，要遵从古代文献整理的基本法则，重视第一手材料的搜集、整理、考辨，不要断章取义，不能掩盖不利于自己的材料，亦不能盲目追新务奇，要明白古代学术研究本没有跃进式发展，尤其是古代学科。傅刚老师表示，有一些其它学科批评古代研究，认为古代研究多少年都没有大的发明和创造。他认为，这是因为他们不明白古代研究本没有跃进式发展，学术研究都是一点一点向前进的。不可能在古人研究基础之外得出迥异于前人的结论，学术事业的发展是一步步在前人的基础之上点滴积累而成的。</p>
-<p>　　第三、先秦文学文献牵涉的知识层面甚广，所有与文献的形成相关的知识都应该具备。第四、文学文献的研究和理解，还要关注目录、版本等内容，此外还有如文本的写作方式、文献的体例、文本载体的构成和书写工具的变化等等，这在先秦阶段尤其重要。对此，傅刚老师以甲骨ト辞的内容为例，他认为我们不仅要看ト辞写的是什么，还要考虑甲骨这种载体对写作的限制，从而讨论出殷商时期社会上实际存在的文体状况。</p>
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>学术</category>
-      </categories>
-      <tags>
-        <tag>转载</tag>
-        <tag>文献学</tag>
       </tags>
   </entry>
   <entry>
@@ -1606,31 +1589,20 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【学术】商王日名</title>
-    <url>/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%95%86%E7%8E%8B%E6%97%A5%E5%90%8D/</url>
-    <content><![CDATA[<h1 id="一-商王得日名之生前死后"><a href="#一-商王得日名之生前死后" class="headerlink" title="一 商王得日名之生前死后"></a>一 商王得日名之生前死后</h1><h2 id="生前说"><a href="#生前说" class="headerlink" title="生前说"></a>生前说</h2><p>　　一、东汉《白虎通义•姓名》：“殷家质，故直以生日名子也。”</p>
-<h2 id="死后说"><a href="#死后说" class="headerlink" title="死后说"></a>死后说</h2><p>　　一、三国谯周“庙主说”，《古史考》：“夏、殷之礼，生称王，死称庙主”。</p>
-<p>　　二、王国维提出“祭名说”，“盖专为祭而设”，“以甲日生者祭以甲日”，“以乙日生者祭以乙日”。</p>
-<p>　　三、董作宾“忌日说”。</p>
-<p>　　四、陈梦家“长幼先后说”，主张卜辞中的庙号都是按世次、长幼、即位先后排定的致祭次序。</p>
-<p>　　五、李学勤：“殷人日名乃是死后选定的”。</p>
-<h2 id="宗族婚姻"><a href="#宗族婚姻" class="headerlink" title="宗族婚姻"></a>宗族婚姻</h2><p>　　一、张光直《商王庙号新考》，商王室实行内婚范畴的父方交表婚制，王室权力由政治势力最大的两大亲群轮流执掌，表现在日名系统上即分为两组或三组，且王位由舅传甥，而不是由父传子。</p>
-<p>　　二、张富祥《商王名号与日名制》，把“十日名看成是古代贵族集团用以表示内婚制的符号”。</p>
-<p>[1] <a href="https://mp.weixin.qq.com/s/rDCbbXsTvMRF_nM1GTPE4g">张富祥.商王名号与日名制[J].文史知识,2006(05):4-13.</a></p>
-<h1 id="二-商王日名的内涵"><a href="#二-商王日名的内涵" class="headerlink" title="二 商王日名的内涵"></a>二 商王日名的内涵</h1><p>　　根据已有研究，学界有族名、内婚制下生母的区别名、谥号意义等说法，<a href="https://www.bilibili.com/video/BV19t4y1n76v/?spm_id_from=333.788&vd_source=7e60d6022d93d56b7a5c7ebc637e7178">B站UP小森森2：祖甲改制 15:36</a> 暂时采取了谥号一说，认为十天干有着不同的意义，给予商王日名是后世谥号制度的雏形。</p>
-<p><img src="https://s2.loli.net/2022/07/20/rIGhvpDeCZXKjU6.png"></p>
-<p>　　如果从这个角度出发，那么商王的日名就是死后得来的，而非出生时或者生前所得。若要证实存在这种可能，还需要确定在世商王没有使用自己日名的记录。</p>
-<p>　　此外，这种评价意义的祭祀名号必然对应商王在位时的作为，UP主在视频中用已知的历史记载对比，确实有很多相合之处，但也有一些不太契合，还需要继续考证。</p>
+    <title>【转】傅刚《先秦文学文献学刍议讲座纪要》</title>
+    <url>/2021/07/11/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%82%85%E5%88%9A%E3%80%8A%E5%85%88%E7%A7%A6%E6%96%87%E5%AD%A6%E6%96%87%E7%8C%AE%E5%AD%A6%E5%88%8D%E8%AE%AE%E8%AE%B2%E5%BA%A7%E7%BA%AA%E8%A6%81%E3%80%8B/</url>
+    <content><![CDATA[<p>　　关于先秦文学文献的研究方法，傅刚老师表示，文学文献的整理和研究方法，大体上与历史文献相同，即要明目录、版本、训诂、校勘、辨伪。对此，他整理出四个要点。</p>
+<p>　　第一、先秦文献由于去今时代辽远，语词音韵皆有专门学问，故亦须明小学，识字明音，这些都是必备的知识。因此，先秦文学文献应该包括传、记、说、解等训诂材料。</p>
+<p>　　第二、学习先秦文学文献，必须具有正确的学术态度，要遵从古代文献整理的基本法则，重视第一手材料的搜集、整理、考辨，不要断章取义，不能掩盖不利于自己的材料，亦不能盲目追新务奇，要明白古代学术研究本没有跃进式发展，尤其是古代学科。傅刚老师表示，有一些其它学科批评古代研究，认为古代研究多少年都没有大的发明和创造。他认为，这是因为他们不明白古代研究本没有跃进式发展，学术研究都是一点一点向前进的。不可能在古人研究基础之外得出迥异于前人的结论，学术事业的发展是一步步在前人的基础之上点滴积累而成的。</p>
+<p>　　第三、先秦文学文献牵涉的知识层面甚广，所有与文献的形成相关的知识都应该具备。第四、文学文献的研究和理解，还要关注目录、版本等内容，此外还有如文本的写作方式、文献的体例、文本载体的构成和书写工具的变化等等，这在先秦阶段尤其重要。对此，傅刚老师以甲骨ト辞的内容为例，他认为我们不仅要看ト辞写的是什么，还要考虑甲骨这种载体对写作的限制，从而讨论出殷商时期社会上实际存在的文体状况。</p>
 ]]></content>
       <categories>
         <category>寸进</category>
         <category>学术</category>
       </categories>
       <tags>
-        <tag>商代</tag>
-        <tag>甲骨</tag>
-        <tag>日名</tag>
-        <tag>学术争议</tag>
+        <tag>转载</tag>
+        <tag>文献学</tag>
       </tags>
   </entry>
   <entry>
@@ -2393,6 +2365,34 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【学术】商王日名</title>
+    <url>/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%95%86%E7%8E%8B%E6%97%A5%E5%90%8D/</url>
+    <content><![CDATA[<h1 id="一-商王得日名之生前死后"><a href="#一-商王得日名之生前死后" class="headerlink" title="一 商王得日名之生前死后"></a>一 商王得日名之生前死后</h1><h2 id="生前说"><a href="#生前说" class="headerlink" title="生前说"></a>生前说</h2><p>　　一、东汉《白虎通义•姓名》：“殷家质，故直以生日名子也。”</p>
+<h2 id="死后说"><a href="#死后说" class="headerlink" title="死后说"></a>死后说</h2><p>　　一、三国谯周“庙主说”，《古史考》：“夏、殷之礼，生称王，死称庙主”。</p>
+<p>　　二、王国维提出“祭名说”，“盖专为祭而设”，“以甲日生者祭以甲日”，“以乙日生者祭以乙日”。</p>
+<p>　　三、董作宾“忌日说”。</p>
+<p>　　四、陈梦家“长幼先后说”，主张卜辞中的庙号都是按世次、长幼、即位先后排定的致祭次序。</p>
+<p>　　五、李学勤：“殷人日名乃是死后选定的”。</p>
+<h2 id="宗族婚姻"><a href="#宗族婚姻" class="headerlink" title="宗族婚姻"></a>宗族婚姻</h2><p>　　一、张光直《商王庙号新考》，商王室实行内婚范畴的父方交表婚制，王室权力由政治势力最大的两大亲群轮流执掌，表现在日名系统上即分为两组或三组，且王位由舅传甥，而不是由父传子。</p>
+<p>　　二、张富祥《商王名号与日名制》，把“十日名看成是古代贵族集团用以表示内婚制的符号”。</p>
+<p>[1] <a href="https://mp.weixin.qq.com/s/rDCbbXsTvMRF_nM1GTPE4g">张富祥.商王名号与日名制[J].文史知识,2006(05):4-13.</a></p>
+<h1 id="二-商王日名的内涵"><a href="#二-商王日名的内涵" class="headerlink" title="二 商王日名的内涵"></a>二 商王日名的内涵</h1><p>　　根据已有研究，学界有族名、内婚制下生母的区别名、谥号意义等说法，<a href="https://www.bilibili.com/video/BV19t4y1n76v/?spm_id_from=333.788&vd_source=7e60d6022d93d56b7a5c7ebc637e7178">B站UP小森森2：祖甲改制 15:36</a> 暂时采取了谥号一说，认为十天干有着不同的意义，给予商王日名是后世谥号制度的雏形。</p>
+<p><img src="https://s2.loli.net/2022/07/20/rIGhvpDeCZXKjU6.png"></p>
+<p>　　如果从这个角度出发，那么商王的日名就是死后得来的，而非出生时或者生前所得。若要证实存在这种可能，还需要确定在世商王没有使用自己日名的记录。</p>
+<p>　　此外，这种评价意义的祭祀名号必然对应商王在位时的作为，UP主在视频中用已知的历史记载对比，确实有很多相合之处，但也有一些不太契合，还需要继续考证。</p>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>学术</category>
+      </categories>
+      <tags>
+        <tag>商代</tag>
+        <tag>甲骨</tag>
+        <tag>日名</tag>
+        <tag>学术争议</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【转】学术本身成为目的才会有真学术</title>
     <url>/2022/10/06/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%AD%A6%E6%9C%AF%E6%9C%AC%E8%BA%AB%E6%88%90%E4%B8%BA%E7%9B%AE%E7%9A%84%E6%89%8D%E4%BC%9A%E6%9C%89%E7%9C%9F%E5%AD%A6%E6%9C%AF/</url>
     <content><![CDATA[<p>　　就在前几年，大学期间和年轻时代的记忆越来越多地被唤醒，经常想起给我们上过课或有过学术及其他交往的学术前辈。他们教书的样子，他们学术研究的事件，激起我们重读他们留给后人的那些沉甸甸的文字的热情。上大学的时候虽然就知道这些前辈都是非常了不起的学者，他们不仅是树在我们心中的一面面的旗帜，而且在全国乃至国际同行中享有盛誉。在重读这些前辈著作的时候，还是遭遇到了一种陌生和惊奇，不由得怀疑自己，怀疑我们这些后学的治学道路来。基于此，就想把前辈的学术选集起来重新与读者见面，以便更有效地释放榜样的力量。当时我作为学科带头人和院长，责无旁贷，便开始准备条件，与大家一起策划和推进这套书的出版事宜。现在，《东北师范大学文学院学术史文库》（以下简称《文库》）即将在中华书局陆续问世了，这意味着我们这些后学在实现着一种夙愿。</p>
@@ -2421,6 +2421,186 @@ tags:
       </categories>
       <tags>
         <tag>转载</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【学术】干支与历法</title>
+    <url>/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%B9%B2%E6%94%AF%E4%B8%8E%E5%8E%86%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="干支解释"><a href="#干支解释" class="headerlink" title="干支解释"></a>干支解释</h1><table>
+<thead>
+<tr>
+<th>天干</th>
+<th>说文解字</th>
+<th>解释一<sup>[1]</sup></th>
+<th>解释二<sup>[2]</sup></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>甲</td>
+<td>位東方之孟，陽气萌動。從木載孚甲之象也。《大一經》曰：「頭玄為甲，甲為人頭。」（小徐本）</td>
+<td>种子初发将要破壳而出，象征事物刚开始发展前景却不明朗。</td>
+<td>古押字</td>
+</tr>
+<tr>
+<td>乙</td>
+<td>象春艸木冤曲而出，陰气尙彊，其出乙乙也。與丨同意。乙承甲，象人頸。</td>
+<td>草木发芽枝叶弯曲柔软，象征事物发展初露生机。</td>
+<td>存疑</td>
+</tr>
+<tr>
+<td>丙</td>
+<td>位南方，萬物成，炳然。陰气初起，陽气將虧。从一入冂。一者，陽也。丙承乙，象人肩。</td>
+<td>日光照耀草木生长，象征事物发展的前景充满希望。</td>
+<td>象物之底座</td>
+</tr>
+<tr>
+<td>丁</td>
+<td>時萬物皆丁實。象形。丁承丙，象人心。</td>
+<td>夏天草木结籽，象征事物已经发展到成熟。</td>
+<td>象钉之形</td>
+</tr>
+<tr>
+<td>戊</td>
+<td>中宮也。象六甲五龍相拘絞也。戊承丁，象人脅。</td>
+<td>各种草木动物互相缠绕，象征事物熙攘繁盛。</td>
+<td>象斧钺之形</td>
+</tr>
+<tr>
+<td>己</td>
+<td>中宮也。象萬物辟藏詘形也。己承戊，象人腹。</td>
+<td>秋天草木定型不再生长，象征事物已经发展到停滞状态。</td>
+<td>象繳之形</td>
+</tr>
+<tr>
+<td>庚</td>
+<td>位西方，象秋時萬物庚庚有實也。庚承己，象人𪗇。</td>
+<td>秋天草木果实饱满，象征事物的发展有了可喜的成果。</td>
+<td>象鉦鐃</td>
+</tr>
+<tr>
+<td>辛</td>
+<td>秋時萬物成而孰；金剛，味辛，辛痛卽泣出。从一从䇂。䇂，辠也。辛承庚，象人股。</td>
+<td>草木干枯有苦涩辛辣的味道，象征事物已经衰败没有了希望。</td>
+<td>剞劂之形</td>
+</tr>
+<tr>
+<td>壬</td>
+<td>位北方也。陰極陽生，故《易》曰：「龍戰于野。」戰者，接也。象人褢妊之形。承亥壬以子，生之敘也。與巫同意。壬承辛，象人脛。脛，任體也。</td>
+<td>生物孕育着新生命，象征新事物可能出现的希望。</td>
+<td>纴之初文</td>
+</tr>
+<tr>
+<td>癸</td>
+<td>冬時，水土平，可揆度也。象水從四方流入地中之形。癸承壬，象人足。</td>
+<td>冬天土地或者冰面平整，象征事物发展周期结束。</td>
+<td>象戣形</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th>地支</th>
+<th>说文解字</th>
+<th>解释一<sup>[2]</sup></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>子</td>
+<td>十一月，陽气動，萬物滋，人以爲偁。象形。</td>
+<td>象小兒之形</td>
+</tr>
+<tr>
+<td>丑</td>
+<td>紐也。十二月，萬物動，用事。象手之形。時加丑，亦舉手時也。</td>
+<td>象手甲之形，叉之初文</td>
+</tr>
+<tr>
+<td>寅</td>
+<td>髕也。正月，陽气動，去黃泉，欲上出，陰尙彊，象宀不達，髕寅於下也。</td>
+<td>象箭形</td>
+</tr>
+<tr>
+<td>卯</td>
+<td>冒也。二月，萬物冒地而出。象開門之形。故二月爲天門。</td>
+<td>劉之初文</td>
+</tr>
+<tr>
+<td>辰</td>
+<td>震也。三月，陽气動，靁電振，民農時也。物皆生，从乙、𠤎，象芒達；厂，聲也。辰，房星，天時也。从𠄞，𠄞，古文上字。</td>
+<td>古之耕器</td>
+</tr>
+<tr>
+<td>巳</td>
+<td>巳也。四月，陽气巳出，陰气巳藏，萬物見，成文章，故巳爲蛇，象形。</td>
+<td>象孩子之形</td>
+</tr>
+<tr>
+<td>午</td>
+<td>啎也。五月，陰气午逆陽。冒地而出。此與矢同意。</td>
+<td>杵之初文</td>
+</tr>
+<tr>
+<td>未</td>
+<td>味也。六月，滋味也。五行，木老於未。象木重枝葉也。</td>
+<td>象木重枝葉，枚之古文</td>
+</tr>
+<tr>
+<td>申</td>
+<td>神也。七月，陰气成，體自申束。从𦥑，自持也。吏臣餔時聽事，申旦政也。</td>
+<td>雷電的“電”之初文</td>
+</tr>
+<tr>
+<td>酉</td>
+<td>就也。八月黍成，可爲酎酒。象古文酉之形。</td>
+<td>酒之初文</td>
+</tr>
+<tr>
+<td>戌</td>
+<td>滅也。九月，陽气微，萬物畢成，陽下入地也。五行，土生於戊，盛於戌。从戊含一。</td>
+<td>象斧鉞類之兵器</td>
+</tr>
+<tr>
+<td>亥</td>
+<td>荄也。十月，微陽起，接盛陰。从𠄞，𠄞，古文上字。一人男，一人女也。从乙，象褢子咳咳之形。《春秋傳》曰：「亥有二首六身。」凡亥之屬皆从亥。亥而生子，復從一起。</td>
+<td>荄也</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>[1] <a href="https://www.bilibili.com/video/BV19t4y1n76v/?spm_id_from=333.788&vd_source=7e60d6022d93d56b7a5c7ebc637e7178">B站UP小森森2：祖甲改制 15:36</a> </p>
+<p><img src="https://s2.loli.net/2022/07/20/rIGhvpDeCZXKjU6.png"></p>
+<p>[2] <a href="https://mp.weixin.qq.com/s/EHw_Snpr4qz4SNY_-GjuGw">講座丨葉玉英：從甲骨文看殷商人的世界觀</a> </p>
+</blockquote>
+<h1 id="干支历法的不确"><a href="#干支历法的不确" class="headerlink" title="干支历法的不确"></a>干支历法的不确</h1><p>　　使用干支纪日成为古人以及现代学者研究古史的习以为常，然而，就秦汉以后的两千余年来讲尚且准确，上溯到共和乃至夏商就很难肯定是否依旧。<strong>张富祥《古史年代学研究的误区——夏商周断代工程金文历谱问题分析》</strong>中说：</p>
+<blockquote>
+<p>郭沫若先生还在1945年就说过：“彝铭中多年月日的记载，学者们爱用后来的历法所制的长历以事套合，那等于是用着另一种尺度任意地作机械的剪裁。在二三十年以前的旧人仅仅就一二例以作尝试，其结果倒也无足重轻，近一二十年来的新人们更扩大规模作整套的安排，大表长编，相沿成为风习。作俑者自信甚强，门外者徒惊其浩瀚，其实那完全是徒劳之举。周室帝王在位年代每无定说，当时所用历法至今尚待考明，断无理由可以随便套合。”又说：“像这样的年代考定实在比原来没有经过考定的更加浑沌。没有经过考定，我们仅是不知道年代而已，而经过所谓考定，我们所得到的是错误的年代。故尔用错误的方法从事考定，愈考定，愈增加问题的浑沌。”<sub>郭沫若：《中国古代社会研究·青铜时代》，石家庄：河北教育出版社，2000年，第581、583页。</sub>差不多在同时，陈梦家先生也指出：“西周之历法，今尚不能推求其详。用后世某一种历法根据某虚拟之起点试谱西周年历，更取某组史料之历日谱入之，其事非不可能，而不可据此认为推定正确。”<sub>陈梦家：《西周铜器断代》，北京：中华书局，2004年，第500页。</sub>后来又说：“这种推算，首先要以为（一）西周各王年数是可以拟定的，（二）西周历法是可以知道的，（三）西周金文中的月象的解释是正确的。对于上三事，到现在为止，都不能确定。在年代学、古历学未能明确以前，安排的年谱一定是有问题的。”<sub>陈梦家：《西周年代考重编前言》，《尚书通论·外二种》，石家庄：河北教育出版社，2000年，第408页。</sub>岑仲勉先生也曾谈到：“<strong>无论何家，于现时而欲安排一周初历谱，纵非绝不可能，要属来得太早</strong>，此则鲁实先氏所谓共和前年数，史记未明，古历疏阔，难以逆推，……<strong>今不必侈言上古，试就唐观之，则天光宅元强进正月癸未为甲申，圣历元强易甲午朔为甲子，永昌元仅十一月，久视元乃十五月，其他与推步相差之处，更仆难数。</strong>……中古如此，上古可知，试问吾人有何术以推求其如何疏误耶？”<sub>岑仲勉：《两周文史论丛》，北京：中华书局，2004年，第131页。</sub></p>
+<p>这里不厌其烦地引录前辈大家之言，只是想表明，<strong>现时金文资料之丰虽非昔比，而仅就金文历日试谱西周年历也还不具备充足的条件。</strong></p>
+</blockquote>
+<blockquote>
+<p>研究中国古史年代的学者向来有一个自觉不自觉的假设，就是不管古人用什么样的历法，也不管历法怎么变化，纪日干支都是一例连续排比下来的，从上古到今天既无调整也无间断。李学勤先生说：“如果离开这一假设，也无法谈中国的天文历法推算了。如……甲骨文日月食的惟一解，尽管不是这一假设的充足证明，仍能使我们相信纪日干支的连续能够上溯到武丁这样早的时期。”<sub>李学勤：《夏商周年代学札记》，第268页。</sub>可是成家彻郎先生却不承认这一“所有的中国人都将之作为不言自明的事实”，认为“在充分的可能性上周族使用的是独自的干支”<sub>《古史考》第九卷，第98页。</sub>。</p>
+</blockquote>
+<blockquote>
+<p>蒋祖棣先生还有更深刻的提问：古代历法研究和天文研究应该以“科学”为目的，还是以“历史”为目的？“<strong>如果以‘科学’为目的，张培瑜先生的成果（《中国先秦史历表》）可以成为定论</strong>。可是周代历法的实际情况仍然不清楚。<strong>如果以‘历史’为目的，就应该对周代畴人（准确地说是周代不同集团的畴人）的纪日规则加以研究。</strong>如果对当时的纪日规则没有全面和深入的了解，用‘科学’的历表代替周代畴人的规则，或用一种规则去概括当时并行的不同规则，就会曲解周代天文和纪日行为的实际情况，并且增添在周代纪日资料认识上的混乱。”所以，对纪日金文也不能仅用一种历法作规范，<strong>“由于青铜器在来源上多元化，纪日金文所代表的地域性十分明显，纪日金文背后的历法制度更有可能不一致”，这就需要“对纪日金文历法背景进行逐一的和通盘的整理”</strong><sub>蒋祖棣：《西周年代研究之疑问——对“夏商周断代”工程方法论的批评》，《古史考》第九卷，第80、82页。</sub>。仅靠少量铜器的铭文制定历谱，显然无法用以推求古代王年，要使此种方法成立，还有数不清的繁重工作要做。</p>
+</blockquote>
+<p>  　　张富祥也提到“一甲十癸”<sub>刘朝阳《再谈殷历》中提出</sub>，并且根据《甲骨文合集》第24440版所刻干支表证明其相吻合，推断“月一正曰食麦”中的“月一正”是夏历正月一日，当日为甲子日。他认为：“大概在春秋战国以前，此甲子之日本为夏历的正月初一还是人人皆知的事。”但胡厚宣《“一甲十癸”辨》和常玉芝《殷商历法研究》也同样举出了卜辞中事实相左的例证。</p>
+<p>　　退而求其次，中和来讲，也许存在历法改制。如张富祥特别考证的商末征伐夷方的卜辞。</p>
+<blockquote>
+<p>然而商末连续八九个月的征夷方历日，甲骨文的记载历历可见，仅按现有的认识，实际上非用“一甲十癸”之说便不能排顺。肖良琼先生曾将“宾组互相衔接的卜旬卜辞加以排比，发现殷历可以连续10个月以上每月都是30天”，并说“这种记时制度相当古老”<sub>肖良琼：《刘朝阳与殷商历法研究》，《纪念殷墟甲骨文发现一百周年国际学术研讨会论文集》，北京：社会科学文献出版社，2003年，第66页。</sub>。李学勤先生也怀疑：“是否商代在一定情况下，真的实行过‘一甲十癸’的‘历法’？特别是在像征夷方的战争中，为了便易，暂时用了这种简单的‘历法’？”<sub>李学勤：《夏商周年代学札记》，第249页。</sub>其实这种“历法”未必简单。商代历法应该前后有变动，例如武丁卜辞中多有“十三月”的记录，祖庚、祖甲以后却不见再有“十三月”<sub>陈梦家：《殷虚卜辞综述》，北京：中华书局，1988年，第220页。</sub>，可能即与历法体制的变动有关，不一定是由年中置闰所致；或者如刘朝阳先生所说，商代干支纪日与实用的四季记时原是两个系统，二者之间有一个磨合的过程。这些都涉及祀历与农历的统一问题。以此推测，周初纪时法可能仍承商人旧制，是以祀历与农历混用的，而在历法上亦大致采取平均每月30日之制。周初铜器铭文，如著名的利簋、天亡簋、何尊等，均不见有月相纪时词语，或由此故。</p>
+</blockquote>
+<blockquote>
+<p>商末征夷方，卜辞记录最详细的一次，在十祀九月甲午至十一祀五月癸丑之间，有关材料约八十条（见陈梦家《殷虚卜辞综述》，第301～304页）。假定所记日干支都是连续不断且不重复的，那么这次征伐前后共历260日。据此可以推定十祀九月至十一祀五月的月历如下：十祀九月，甲午～癸亥，30日；十月，［甲子］～甲午，31日；十一月，［乙未］～癸亥，29日；十二月，［甲子］～甲午，31日；十一祀正月，［乙未］～癸亥，29日；二月，［甲子］～甲午，31日；三月，［乙未］～癸亥，29日；四月，［甲子］～［甲午］，31日；五月，［乙未］～［癸亥］，29日（带中括号的日干支未见于卜辞，据干支表补）。按此种编排，除十祀九月为30日外，其余8个月都是31日与29日相间的，可见祀历（一甲十癸体制）与农历（十二月份体制）尚不完全统一。假如全年12个月都是31日与29日相间的，那么平均每月30日，一年即为360日。陈梦家先生认为，殷历年可能在360～370之间（见《殷虚卜辞综述》，第223页）；许进雄、常玉芝先生也认为，商末周祭有三十六旬型周期和三十七旬型周期，且两种类型的周期基本上是交替安排的（见常玉芝：《百年来的商殷历法研究》，《纪念殷墟甲骨文发现一百周年国际学术研讨会论文集》，第50页）。如此，则商代历法有短年，有长年，短年为360日，长年为370日，平均每年为365日。从中可以非常明显地看出以祀历与农历、阳历与殷历相调停的倾向。这种混合型的历法可能就是中国传统阴阳历的源头：它在初还是非常粗略的，或者即以“朏”为月首，并采取大月31日、小月29日的体制，又每隔一年而加10日；后来随着天文观测的进步，才逐渐发展为较为细密的朔望月体制，以“朔”为月首，凡大月30日、小月29日，又每遇当闰之年而加一闰月。</p>
+</blockquote>
+<hr>
+<p>2022.7.26 补充：干支历法</p>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>学术</category>
+      </categories>
+      <tags>
+        <tag>学术争议</tag>
+        <tag>天干地支</tag>
+        <tag>历法</tag>
+        <tag>殷商</tag>
       </tags>
   </entry>
   <entry>
@@ -2624,238 +2804,9 @@ tags:
       </categories>
       <tags>
         <tag>学术争议</tag>
+        <tag>历法</tag>
         <tag>三代</tag>
         <tag>天文</tag>
-        <tag>历法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【学术】干支与历法</title>
-    <url>/2022/07/20/%E3%80%90%E5%AD%A6%E6%9C%AF%E3%80%91%E5%B9%B2%E6%94%AF%E4%B8%8E%E5%8E%86%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="干支解释"><a href="#干支解释" class="headerlink" title="干支解释"></a>干支解释</h1><table>
-<thead>
-<tr>
-<th>天干</th>
-<th>说文解字</th>
-<th>解释一<sup>[1]</sup></th>
-<th>解释二<sup>[2]</sup></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>甲</td>
-<td>位東方之孟，陽气萌動。從木載孚甲之象也。《大一經》曰：「頭玄為甲，甲為人頭。」（小徐本）</td>
-<td>种子初发将要破壳而出，象征事物刚开始发展前景却不明朗。</td>
-<td>古押字</td>
-</tr>
-<tr>
-<td>乙</td>
-<td>象春艸木冤曲而出，陰气尙彊，其出乙乙也。與丨同意。乙承甲，象人頸。</td>
-<td>草木发芽枝叶弯曲柔软，象征事物发展初露生机。</td>
-<td>存疑</td>
-</tr>
-<tr>
-<td>丙</td>
-<td>位南方，萬物成，炳然。陰气初起，陽气將虧。从一入冂。一者，陽也。丙承乙，象人肩。</td>
-<td>日光照耀草木生长，象征事物发展的前景充满希望。</td>
-<td>象物之底座</td>
-</tr>
-<tr>
-<td>丁</td>
-<td>時萬物皆丁實。象形。丁承丙，象人心。</td>
-<td>夏天草木结籽，象征事物已经发展到成熟。</td>
-<td>象钉之形</td>
-</tr>
-<tr>
-<td>戊</td>
-<td>中宮也。象六甲五龍相拘絞也。戊承丁，象人脅。</td>
-<td>各种草木动物互相缠绕，象征事物熙攘繁盛。</td>
-<td>象斧钺之形</td>
-</tr>
-<tr>
-<td>己</td>
-<td>中宮也。象萬物辟藏詘形也。己承戊，象人腹。</td>
-<td>秋天草木定型不再生长，象征事物已经发展到停滞状态。</td>
-<td>象繳之形</td>
-</tr>
-<tr>
-<td>庚</td>
-<td>位西方，象秋時萬物庚庚有實也。庚承己，象人𪗇。</td>
-<td>秋天草木果实饱满，象征事物的发展有了可喜的成果。</td>
-<td>象鉦鐃</td>
-</tr>
-<tr>
-<td>辛</td>
-<td>秋時萬物成而孰；金剛，味辛，辛痛卽泣出。从一从䇂。䇂，辠也。辛承庚，象人股。</td>
-<td>草木干枯有苦涩辛辣的味道，象征事物已经衰败没有了希望。</td>
-<td>剞劂之形</td>
-</tr>
-<tr>
-<td>壬</td>
-<td>位北方也。陰極陽生，故《易》曰：「龍戰于野。」戰者，接也。象人褢妊之形。承亥壬以子，生之敘也。與巫同意。壬承辛，象人脛。脛，任體也。</td>
-<td>生物孕育着新生命，象征新事物可能出现的希望。</td>
-<td>纴之初文</td>
-</tr>
-<tr>
-<td>癸</td>
-<td>冬時，水土平，可揆度也。象水從四方流入地中之形。癸承壬，象人足。</td>
-<td>冬天土地或者冰面平整，象征事物发展周期结束。</td>
-<td>象戣形</td>
-</tr>
-</tbody></table>
-<table>
-<thead>
-<tr>
-<th>地支</th>
-<th>说文解字</th>
-<th>解释一<sup>[2]</sup></th>
-</tr>
-</thead>
-<tbody><tr>
-<td>子</td>
-<td>十一月，陽气動，萬物滋，人以爲偁。象形。</td>
-<td>象小兒之形</td>
-</tr>
-<tr>
-<td>丑</td>
-<td>紐也。十二月，萬物動，用事。象手之形。時加丑，亦舉手時也。</td>
-<td>象手甲之形，叉之初文</td>
-</tr>
-<tr>
-<td>寅</td>
-<td>髕也。正月，陽气動，去黃泉，欲上出，陰尙彊，象宀不達，髕寅於下也。</td>
-<td>象箭形</td>
-</tr>
-<tr>
-<td>卯</td>
-<td>冒也。二月，萬物冒地而出。象開門之形。故二月爲天門。</td>
-<td>劉之初文</td>
-</tr>
-<tr>
-<td>辰</td>
-<td>震也。三月，陽气動，靁電振，民農時也。物皆生，从乙、𠤎，象芒達；厂，聲也。辰，房星，天時也。从𠄞，𠄞，古文上字。</td>
-<td>古之耕器</td>
-</tr>
-<tr>
-<td>巳</td>
-<td>巳也。四月，陽气巳出，陰气巳藏，萬物見，成文章，故巳爲蛇，象形。</td>
-<td>象孩子之形</td>
-</tr>
-<tr>
-<td>午</td>
-<td>啎也。五月，陰气午逆陽。冒地而出。此與矢同意。</td>
-<td>杵之初文</td>
-</tr>
-<tr>
-<td>未</td>
-<td>味也。六月，滋味也。五行，木老於未。象木重枝葉也。</td>
-<td>象木重枝葉，枚之古文</td>
-</tr>
-<tr>
-<td>申</td>
-<td>神也。七月，陰气成，體自申束。从𦥑，自持也。吏臣餔時聽事，申旦政也。</td>
-<td>雷電的“電”之初文</td>
-</tr>
-<tr>
-<td>酉</td>
-<td>就也。八月黍成，可爲酎酒。象古文酉之形。</td>
-<td>酒之初文</td>
-</tr>
-<tr>
-<td>戌</td>
-<td>滅也。九月，陽气微，萬物畢成，陽下入地也。五行，土生於戊，盛於戌。从戊含一。</td>
-<td>象斧鉞類之兵器</td>
-</tr>
-<tr>
-<td>亥</td>
-<td>荄也。十月，微陽起，接盛陰。从𠄞，𠄞，古文上字。一人男，一人女也。从乙，象褢子咳咳之形。《春秋傳》曰：「亥有二首六身。」凡亥之屬皆从亥。亥而生子，復從一起。</td>
-<td>荄也</td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>[1] <a href="https://www.bilibili.com/video/BV19t4y1n76v/?spm_id_from=333.788&vd_source=7e60d6022d93d56b7a5c7ebc637e7178">B站UP小森森2：祖甲改制 15:36</a> </p>
-<p><img src="https://s2.loli.net/2022/07/20/rIGhvpDeCZXKjU6.png"></p>
-<p>[2] <a href="https://mp.weixin.qq.com/s/EHw_Snpr4qz4SNY_-GjuGw">講座丨葉玉英：從甲骨文看殷商人的世界觀</a> </p>
-</blockquote>
-<h1 id="干支历法的不确"><a href="#干支历法的不确" class="headerlink" title="干支历法的不确"></a>干支历法的不确</h1><p>　　使用干支纪日成为古人以及现代学者研究古史的习以为常，然而，就秦汉以后的两千余年来讲尚且准确，上溯到共和乃至夏商就很难肯定是否依旧。<strong>张富祥《古史年代学研究的误区——夏商周断代工程金文历谱问题分析》</strong>中说：</p>
-<blockquote>
-<p>郭沫若先生还在1945年就说过：“彝铭中多年月日的记载，学者们爱用后来的历法所制的长历以事套合，那等于是用着另一种尺度任意地作机械的剪裁。在二三十年以前的旧人仅仅就一二例以作尝试，其结果倒也无足重轻，近一二十年来的新人们更扩大规模作整套的安排，大表长编，相沿成为风习。作俑者自信甚强，门外者徒惊其浩瀚，其实那完全是徒劳之举。周室帝王在位年代每无定说，当时所用历法至今尚待考明，断无理由可以随便套合。”又说：“像这样的年代考定实在比原来没有经过考定的更加浑沌。没有经过考定，我们仅是不知道年代而已，而经过所谓考定，我们所得到的是错误的年代。故尔用错误的方法从事考定，愈考定，愈增加问题的浑沌。”<sub>郭沫若：《中国古代社会研究·青铜时代》，石家庄：河北教育出版社，2000年，第581、583页。</sub>差不多在同时，陈梦家先生也指出：“西周之历法，今尚不能推求其详。用后世某一种历法根据某虚拟之起点试谱西周年历，更取某组史料之历日谱入之，其事非不可能，而不可据此认为推定正确。”<sub>陈梦家：《西周铜器断代》，北京：中华书局，2004年，第500页。</sub>后来又说：“这种推算，首先要以为（一）西周各王年数是可以拟定的，（二）西周历法是可以知道的，（三）西周金文中的月象的解释是正确的。对于上三事，到现在为止，都不能确定。在年代学、古历学未能明确以前，安排的年谱一定是有问题的。”<sub>陈梦家：《西周年代考重编前言》，《尚书通论·外二种》，石家庄：河北教育出版社，2000年，第408页。</sub>岑仲勉先生也曾谈到：“<strong>无论何家，于现时而欲安排一周初历谱，纵非绝不可能，要属来得太早</strong>，此则鲁实先氏所谓共和前年数，史记未明，古历疏阔，难以逆推，……<strong>今不必侈言上古，试就唐观之，则天光宅元强进正月癸未为甲申，圣历元强易甲午朔为甲子，永昌元仅十一月，久视元乃十五月，其他与推步相差之处，更仆难数。</strong>……中古如此，上古可知，试问吾人有何术以推求其如何疏误耶？”<sub>岑仲勉：《两周文史论丛》，北京：中华书局，2004年，第131页。</sub></p>
-<p>这里不厌其烦地引录前辈大家之言，只是想表明，<strong>现时金文资料之丰虽非昔比，而仅就金文历日试谱西周年历也还不具备充足的条件。</strong></p>
-</blockquote>
-<blockquote>
-<p>研究中国古史年代的学者向来有一个自觉不自觉的假设，就是不管古人用什么样的历法，也不管历法怎么变化，纪日干支都是一例连续排比下来的，从上古到今天既无调整也无间断。李学勤先生说：“如果离开这一假设，也无法谈中国的天文历法推算了。如……甲骨文日月食的惟一解，尽管不是这一假设的充足证明，仍能使我们相信纪日干支的连续能够上溯到武丁这样早的时期。”<sub>李学勤：《夏商周年代学札记》，第268页。</sub>可是成家彻郎先生却不承认这一“所有的中国人都将之作为不言自明的事实”，认为“在充分的可能性上周族使用的是独自的干支”<sub>《古史考》第九卷，第98页。</sub>。</p>
-</blockquote>
-<blockquote>
-<p>蒋祖棣先生还有更深刻的提问：古代历法研究和天文研究应该以“科学”为目的，还是以“历史”为目的？“<strong>如果以‘科学’为目的，张培瑜先生的成果（《中国先秦史历表》）可以成为定论</strong>。可是周代历法的实际情况仍然不清楚。<strong>如果以‘历史’为目的，就应该对周代畴人（准确地说是周代不同集团的畴人）的纪日规则加以研究。</strong>如果对当时的纪日规则没有全面和深入的了解，用‘科学’的历表代替周代畴人的规则，或用一种规则去概括当时并行的不同规则，就会曲解周代天文和纪日行为的实际情况，并且增添在周代纪日资料认识上的混乱。”所以，对纪日金文也不能仅用一种历法作规范，<strong>“由于青铜器在来源上多元化，纪日金文所代表的地域性十分明显，纪日金文背后的历法制度更有可能不一致”，这就需要“对纪日金文历法背景进行逐一的和通盘的整理”</strong><sub>蒋祖棣：《西周年代研究之疑问——对“夏商周断代”工程方法论的批评》，《古史考》第九卷，第80、82页。</sub>。仅靠少量铜器的铭文制定历谱，显然无法用以推求古代王年，要使此种方法成立，还有数不清的繁重工作要做。</p>
-</blockquote>
-<p>  　　张富祥也提到“一甲十癸”<sub>刘朝阳《再谈殷历》中提出</sub>，并且根据《甲骨文合集》第24440版所刻干支表证明其相吻合，推断“月一正曰食麦”中的“月一正”是夏历正月一日，当日为甲子日。他认为：“大概在春秋战国以前，此甲子之日本为夏历的正月初一还是人人皆知的事。”但胡厚宣《“一甲十癸”辨》和常玉芝《殷商历法研究》也同样举出了卜辞中事实相左的例证。</p>
-<p>　　退而求其次，中和来讲，也许存在历法改制。如张富祥特别考证的商末征伐夷方的卜辞。</p>
-<blockquote>
-<p>然而商末连续八九个月的征夷方历日，甲骨文的记载历历可见，仅按现有的认识，实际上非用“一甲十癸”之说便不能排顺。肖良琼先生曾将“宾组互相衔接的卜旬卜辞加以排比，发现殷历可以连续10个月以上每月都是30天”，并说“这种记时制度相当古老”<sub>肖良琼：《刘朝阳与殷商历法研究》，《纪念殷墟甲骨文发现一百周年国际学术研讨会论文集》，北京：社会科学文献出版社，2003年，第66页。</sub>。李学勤先生也怀疑：“是否商代在一定情况下，真的实行过‘一甲十癸’的‘历法’？特别是在像征夷方的战争中，为了便易，暂时用了这种简单的‘历法’？”<sub>李学勤：《夏商周年代学札记》，第249页。</sub>其实这种“历法”未必简单。商代历法应该前后有变动，例如武丁卜辞中多有“十三月”的记录，祖庚、祖甲以后却不见再有“十三月”<sub>陈梦家：《殷虚卜辞综述》，北京：中华书局，1988年，第220页。</sub>，可能即与历法体制的变动有关，不一定是由年中置闰所致；或者如刘朝阳先生所说，商代干支纪日与实用的四季记时原是两个系统，二者之间有一个磨合的过程。这些都涉及祀历与农历的统一问题。以此推测，周初纪时法可能仍承商人旧制，是以祀历与农历混用的，而在历法上亦大致采取平均每月30日之制。周初铜器铭文，如著名的利簋、天亡簋、何尊等，均不见有月相纪时词语，或由此故。</p>
-</blockquote>
-<blockquote>
-<p>商末征夷方，卜辞记录最详细的一次，在十祀九月甲午至十一祀五月癸丑之间，有关材料约八十条（见陈梦家《殷虚卜辞综述》，第301～304页）。假定所记日干支都是连续不断且不重复的，那么这次征伐前后共历260日。据此可以推定十祀九月至十一祀五月的月历如下：十祀九月，甲午～癸亥，30日；十月，［甲子］～甲午，31日；十一月，［乙未］～癸亥，29日；十二月，［甲子］～甲午，31日；十一祀正月，［乙未］～癸亥，29日；二月，［甲子］～甲午，31日；三月，［乙未］～癸亥，29日；四月，［甲子］～［甲午］，31日；五月，［乙未］～［癸亥］，29日（带中括号的日干支未见于卜辞，据干支表补）。按此种编排，除十祀九月为30日外，其余8个月都是31日与29日相间的，可见祀历（一甲十癸体制）与农历（十二月份体制）尚不完全统一。假如全年12个月都是31日与29日相间的，那么平均每月30日，一年即为360日。陈梦家先生认为，殷历年可能在360～370之间（见《殷虚卜辞综述》，第223页）；许进雄、常玉芝先生也认为，商末周祭有三十六旬型周期和三十七旬型周期，且两种类型的周期基本上是交替安排的（见常玉芝：《百年来的商殷历法研究》，《纪念殷墟甲骨文发现一百周年国际学术研讨会论文集》，第50页）。如此，则商代历法有短年，有长年，短年为360日，长年为370日，平均每年为365日。从中可以非常明显地看出以祀历与农历、阳历与殷历相调停的倾向。这种混合型的历法可能就是中国传统阴阳历的源头：它在初还是非常粗略的，或者即以“朏”为月首，并采取大月31日、小月29日的体制，又每隔一年而加10日；后来随着天文观测的进步，才逐渐发展为较为细密的朔望月体制，以“朔”为月首，凡大月30日、小月29日，又每遇当闰之年而加一闰月。</p>
-</blockquote>
-<hr>
-<p>2022.7.26 补充：干支历法</p>
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>学术</category>
-      </categories>
-      <tags>
-        <tag>学术争议</tag>
-        <tag>历法</tag>
-        <tag>天干地支</tag>
-        <tag>殷商</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【工具】PDF制作、修改与格式转换工具</title>
-    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91PDF%E5%88%B6%E4%BD%9C%E3%80%81%E4%BF%AE%E6%94%B9%E4%B8%8E%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</url>
-    <content><![CDATA[<p>经常有PDF阅读的需求，并且越来越忍受不了低质量的图像，所以逐渐学会了自己动手丰衣足食。Windows PDG阅读器，推荐<a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a>。</p>
-<h1 id="先利其器——软件集合"><a href="#先利其器——软件集合" class="headerlink" title="先利其器——软件集合"></a>先利其器——软件集合</h1><h2 id="PDF补丁丁"><a href="#PDF补丁丁" class="headerlink" title="PDF补丁丁"></a><a href="https://www.cnblogs.com/pdfpatcher/">PDF补丁丁</a></h2><blockquote>
-<p>PDF补丁丁是一个用于修改PDF文件信息的工具。它具有以下功能：</p>
-<ul>
-<li>修改PDF信息：修改文档属性、页码编号、页面链接、页面尺寸；删除自动打开网页等动作，去除复制及打印限制；设置阅读器初始模式。</li>
-<li>贴心PDF书签编辑器：带有阅读界面（具有便于阅读竖排文档的从右到左阅读方式），可批量修改PDF书签属性（颜色、样式、目标页码、缩放比例等），在书签中执行查找替换（支持正则表达式及XPath匹配、可快速选择篇、章、节书签），<a href="https://www.cnblogs.com/pdfpatcher/p/8452025.html">自动快速生成文档书签</a>。</li>
-<li>生成PDF书签：无需手工输入，自动识别正文标题或目录，为PDF文档生成书签。</li>
-<li>制作PDF文件：合并已有PDF文件或图片，生成新的PDF文件。合并后的PDF文档带有原文档的书签，还可挂上新书签（或根据文件名生成），新书签文本和样式可自定义。</li>
-<li>拆分或合并PDF文件，并保留原文件的书签或挂上新的书签。</li>
-<li>高速无损导出PDF文档的图片。</li>
-<li>提取或删除PDF文档中指定的页面，调整PDF文档的页面顺序。</li>
-<li>根据PDF文档元数据重命名PDF文件名。</li>
-<li>调用微软 Office 的图像识别引擎分析PDF文档图片中的文字；将图片PDF的目录页转换为PDF书签。识别结果可写入PDF文件。</li>
-<li>替换字库：替换文档中使用的字体库；嵌入字库到PDF文档，消除复制文本时的乱码，使之可在没有字库的设备（如Kindle等电子书阅读器）上阅读。</li>
-<li>分析文档结构：以树视图显示PDF文档结构，可编辑修改PDF文档节点，或将PDF文档导出成XML文件，供PDF爱好者分析、调试之用。</li>
-<li>永久免费，绝不过期，无广告，无弹出废话对话框。</li>
-</ul>
-</blockquote>
-<p>评价：神！无敌！就PDF合成、拆分、书签目录制作、导出等功能来说，薄纱一众付费大牌软件。</p>
-<p>小缺憾，工作中发现对于JPEG2000合成的PDF支持不甚好，会闪退，可能是渲染压力太大。</p>
-<h2 id="ComicEnhancerPro"><a href="#ComicEnhancerPro" class="headerlink" title="ComicEnhancerPro"></a><a href="https://yanhainav.lanzoul.com/imKjF0tg8i3a">ComicEnhancerPro</a></h2><p>老马出品，必属精品！</p>
-<p>使用前阅读 ComicEnhancerPro.htm 帮助文件</p>
-<p>功能不懂的欢迎交流讨论。</p>
-<h2 id="Tilt-correction1-v1-0中文绿色版-图片批量倾斜校正工具"><a href="#Tilt-correction1-v1-0中文绿色版-图片批量倾斜校正工具" class="headerlink" title="Tilt correction1 v1.0中文绿色版(图片批量倾斜校正工具)"></a>Tilt correction1 v1.0中文绿色版(图片批量倾斜校正工具)</h2><p><a href="https://yanhainav.lanzoul.com/iQ88F0tg7i0b">Tilt correction1 v1.0</a><br>密码:cra8</p>
-<h2 id="PDF-Password-Remover"><a href="#PDF-Password-Remover" class="headerlink" title="PDF Password Remover"></a><a href="https://yanhainav.lanzoul.com/iHqVS0tfxqcb">PDF Password Remover</a></h2><p>PDF文件被加密、权限被限制？拖进去，打一顿，放出来就好了。</p>
-<h2 id="专门转换各种牛鬼蛇神"><a href="#专门转换各种牛鬼蛇神" class="headerlink" title="专门转换各种牛鬼蛇神"></a>专门转换各种牛鬼蛇神</h2><ul>
-<li><a href="https://yanhainav.lanzoul.com/iPOXe0tfxrdi">转换caj</a>（会有个别CAJ文件无法转换）</li>
-<li><a href="https://yanhainav.lanzoul.com/i30FM0tfxqfe">Pdg2Pic</a>，PDG转换为PDF格式（UVZ文件是PDG经过压缩，只需要把.uvz后缀改为.zip解压，就能得到PDG）</li>
-<li><a href="https://yanhainav.lanzoul.com/iIUZv0tfxq9i">DjVuToy</a> 密码:fxzj，DjVu转换为PDF格式</li>
-<li><a href="https://www.neat-reader.cn/downloads/converter">Neat Converter - 免费电子文档转码器，支持ePub，Azw3，Mobi，PDF，Docx，TXT文件的相互转换</a></li>
-</ul>
-<h1 id="案例阅读"><a href="#案例阅读" class="headerlink" title="案例阅读"></a>案例阅读</h1><p>王森老师的制作案例：</p>
-<p><a href="https://mp.weixin.qq.com/s/yLBlLkpMFkOfjBNzzUlR8Q">重制《甲骨文字字释综览》的过程 (qq.com)</a></p>
-<p><a href="https://mp.weixin.qq.com/s/vlCjCfD_lgmIl9XGrz9b2w">重制《殷墟甲骨刻辞类纂》的过程 (qq.com)</a></p>
-<p>从PDF提取图片的环节，可以使用PDF补丁丁代替。</p>
-<p>图片纠偏也可以使用Tilt correction1。</p>
-]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>工具</category>
-      </categories>
-      <tags>
-        <tag>数据处理</tag>
-        <tag>制作电子书</tag>
       </tags>
   </entry>
   <entry>
@@ -2933,6 +2884,55 @@ tags:
       <tags>
         <tag>软件推荐</tag>
         <tag>epub</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【工具】PDF制作、修改与格式转换工具</title>
+    <url>/2023/04/19/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91PDF%E5%88%B6%E4%BD%9C%E3%80%81%E4%BF%AE%E6%94%B9%E4%B8%8E%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E5%B7%A5%E5%85%B7/</url>
+    <content><![CDATA[<p>经常有PDF阅读的需求，并且越来越忍受不了低质量的图像，所以逐渐学会了自己动手丰衣足食。Windows PDG阅读器，推荐<a href="https://www.sumatrapdfreader.org/download-free-pdf-viewer">SumatraPDF</a>。</p>
+<h1 id="先利其器——软件集合"><a href="#先利其器——软件集合" class="headerlink" title="先利其器——软件集合"></a>先利其器——软件集合</h1><h2 id="PDF补丁丁"><a href="#PDF补丁丁" class="headerlink" title="PDF补丁丁"></a><a href="https://www.cnblogs.com/pdfpatcher/">PDF补丁丁</a></h2><blockquote>
+<p>PDF补丁丁是一个用于修改PDF文件信息的工具。它具有以下功能：</p>
+<ul>
+<li>修改PDF信息：修改文档属性、页码编号、页面链接、页面尺寸；删除自动打开网页等动作，去除复制及打印限制；设置阅读器初始模式。</li>
+<li>贴心PDF书签编辑器：带有阅读界面（具有便于阅读竖排文档的从右到左阅读方式），可批量修改PDF书签属性（颜色、样式、目标页码、缩放比例等），在书签中执行查找替换（支持正则表达式及XPath匹配、可快速选择篇、章、节书签），<a href="https://www.cnblogs.com/pdfpatcher/p/8452025.html">自动快速生成文档书签</a>。</li>
+<li>生成PDF书签：无需手工输入，自动识别正文标题或目录，为PDF文档生成书签。</li>
+<li>制作PDF文件：合并已有PDF文件或图片，生成新的PDF文件。合并后的PDF文档带有原文档的书签，还可挂上新书签（或根据文件名生成），新书签文本和样式可自定义。</li>
+<li>拆分或合并PDF文件，并保留原文件的书签或挂上新的书签。</li>
+<li>高速无损导出PDF文档的图片。</li>
+<li>提取或删除PDF文档中指定的页面，调整PDF文档的页面顺序。</li>
+<li>根据PDF文档元数据重命名PDF文件名。</li>
+<li>调用微软 Office 的图像识别引擎分析PDF文档图片中的文字；将图片PDF的目录页转换为PDF书签。识别结果可写入PDF文件。</li>
+<li>替换字库：替换文档中使用的字体库；嵌入字库到PDF文档，消除复制文本时的乱码，使之可在没有字库的设备（如Kindle等电子书阅读器）上阅读。</li>
+<li>分析文档结构：以树视图显示PDF文档结构，可编辑修改PDF文档节点，或将PDF文档导出成XML文件，供PDF爱好者分析、调试之用。</li>
+<li>永久免费，绝不过期，无广告，无弹出废话对话框。</li>
+</ul>
+</blockquote>
+<p>评价：神！无敌！就PDF合成、拆分、书签目录制作、导出等功能来说，薄纱一众付费大牌软件。</p>
+<p>小缺憾，工作中发现对于JPEG2000合成的PDF支持不甚好，会闪退，可能是渲染压力太大。</p>
+<h2 id="ComicEnhancerPro"><a href="#ComicEnhancerPro" class="headerlink" title="ComicEnhancerPro"></a><a href="https://yanhainav.lanzoul.com/imKjF0tg8i3a">ComicEnhancerPro</a></h2><p>老马出品，必属精品！</p>
+<p>使用前阅读 ComicEnhancerPro.htm 帮助文件</p>
+<p>功能不懂的欢迎交流讨论。</p>
+<h2 id="Tilt-correction1-v1-0中文绿色版-图片批量倾斜校正工具"><a href="#Tilt-correction1-v1-0中文绿色版-图片批量倾斜校正工具" class="headerlink" title="Tilt correction1 v1.0中文绿色版(图片批量倾斜校正工具)"></a>Tilt correction1 v1.0中文绿色版(图片批量倾斜校正工具)</h2><p><a href="https://yanhainav.lanzoul.com/iQ88F0tg7i0b">Tilt correction1 v1.0</a><br>密码:cra8</p>
+<h2 id="PDF-Password-Remover"><a href="#PDF-Password-Remover" class="headerlink" title="PDF Password Remover"></a><a href="https://yanhainav.lanzoul.com/iHqVS0tfxqcb">PDF Password Remover</a></h2><p>PDF文件被加密、权限被限制？拖进去，打一顿，放出来就好了。</p>
+<h2 id="专门转换各种牛鬼蛇神"><a href="#专门转换各种牛鬼蛇神" class="headerlink" title="专门转换各种牛鬼蛇神"></a>专门转换各种牛鬼蛇神</h2><ul>
+<li><a href="https://yanhainav.lanzoul.com/iPOXe0tfxrdi">转换caj</a>（会有个别CAJ文件无法转换）</li>
+<li><a href="https://yanhainav.lanzoul.com/i30FM0tfxqfe">Pdg2Pic</a>，PDG转换为PDF格式（UVZ文件是PDG经过压缩，只需要把.uvz后缀改为.zip解压，就能得到PDG）</li>
+<li><a href="https://yanhainav.lanzoul.com/iIUZv0tfxq9i">DjVuToy</a> 密码:fxzj，DjVu转换为PDF格式</li>
+<li><a href="https://www.neat-reader.cn/downloads/converter">Neat Converter - 免费电子文档转码器，支持ePub，Azw3，Mobi，PDF，Docx，TXT文件的相互转换</a></li>
+</ul>
+<h1 id="案例阅读"><a href="#案例阅读" class="headerlink" title="案例阅读"></a>案例阅读</h1><p>王森老师的制作案例：</p>
+<p><a href="https://mp.weixin.qq.com/s/yLBlLkpMFkOfjBNzzUlR8Q">重制《甲骨文字字释综览》的过程 (qq.com)</a></p>
+<p><a href="https://mp.weixin.qq.com/s/vlCjCfD_lgmIl9XGrz9b2w">重制《殷墟甲骨刻辞类纂》的过程 (qq.com)</a></p>
+<p>从PDF提取图片的环节，可以使用PDF补丁丁代替。</p>
+<p>图片纠偏也可以使用Tilt correction1。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>数据处理</tag>
+        <tag>制作电子书</tag>
       </tags>
   </entry>
   <entry>
@@ -3187,6 +3187,34 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【工具】数字化文献管理与学术研究</title>
+    <url>/2022/08/20/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E6%95%B0%E5%AD%97%E5%8C%96%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</url>
+    <content><![CDATA[<p>　　（本来是一篇作业）</p>
+<p>　　互联网时代，数字化变革已经影响到各个行业领域，中文、历史等学科，有着长期扎在故纸堆里的研究传统，古籍数字化与文献数据库的建立很大程度上方便了了行业的研究，但对于个人学术管理和研究行为的改变还处于初期阶段。个人的学术研究，很重要的一点就在于长期的积累，并且在积累过程中不断生产个人的独特认知。在学术研究中，我整理出以下环节：<br>　　发现选题——文献搜集——文献整理——文献阅读——思考笔记——研究输出<br>　　特别是从文献到笔记，在长期沉淀过程中，还需要管理不断壮大的个人文献库以及阅读过程中生产出的读书笔记和研究灵感。汉代目录学思想的萌芽或许也跟秦火之后，当时人们征集各方文献所面临的现实有关。面对数量庞大、学说关系复杂零散的典籍，急需一个行之有效整理思路，于是产生了不同的分类法。然而古时实体文献的制作、流通都比较不易，好学之人想要获得想要的典籍需要付出很多，在管理和保存上也需要下很大功夫，《庄子·天下》云：“惠施多方，其书五车”，就反映了惠施的博学和收书之多。但是由于古籍文献的物质存在形态，使得博学者要么是有一定的机缘，比如刚好是国家藏书机构的管理员，要么就是有一定的社会财富，家境殷实，比如明代著名藏书家项元卞，才可以支撑起来浩如烟海的古籍收集和管理，才能够在学术路上有所成就。<br>　　生活在现代的我们在书籍文献获取上则方便了很多，并且有大量的数字化资源可以从各种渠道获取，收集一套《四库全书》更不必要专门建立一座藏书室，但是这也仅仅是省下了整个研究过程中的初始阶段。如何安全的管理自己的文献库，如何便捷的访问自己的文献库，如何清晰的分类，以及如何整理产出的笔记和学术成果，则是我们如今要解决的重点。<br>　　我的方案是这样：<br>　　一，	以云盘为中心，配合本地磁盘备份的存储方案。<br>　　二，	结合图书分类法，定制适合个人研究领域的整理方案。<br>　　三，	基于多端同步功能的的文献阅读和笔记管理方案。</p>
+<h1 id="一、以云盘为中心，配合本地磁盘备份的存储方案"><a href="#一、以云盘为中心，配合本地磁盘备份的存储方案" class="headerlink" title="一、以云盘为中心，配合本地磁盘备份的存储方案"></a>一、以云盘为中心，配合本地磁盘备份的存储方案</h1><p>　　为什么要依靠云盘作为存储管理的中心？<br>　　如今互联网行业云服务竞争激烈，各大巨头都在推出云服务、云应用，大型企业和公司都在数据上云，因为在未来数据上云是一种趋势。从普通消费端看，我国的互联网基础设施建设愈发完善，越来越多的家用宽带逐步从百兆升到千兆，手机 5G 更是发展迅速，网络成为我们生活的一部分，只要网络够好，云盘与本地的区别并不是很大，但是云盘的便利和安全是本地单一存储不能比拟的。下面就以我使用的 OneDrive 为例谈一谈文献存储。<br>　　OneDrive 是微软公司的云盘产品，免费用户有 5G 的云空间，Microsoft 365 订阅用户有 1T 的云空间，Microsoft 365 基于云平台提供多种服务，通过将 Word，PowerPoint，Excel 和 Outlook，OneNote 等应用与 OneDrive 和 Microsoft Teams 等强大的云服务相结合，让任何人使用任何设备随时随地创建和共享内容。对于大部分个人用户来讲，主要是使用 OneDrive 提供的云服务。由于是微软自家的产品，在 Windows10&#x2F;11 系统中有很好的支持，直接整合在了文件资源管理器中，并且右下角工具栏也会实时显示同步状态。</p>
+<p><img src="https://s2.loli.net/2022/08/20/QozFCfKXvaMBjbw.png"></p>
+<p>　　如图，以我的 OneDrive 云盘为例，在文件资源管理器中，储存在 OneDrive 上的文件共有四种状态，它们分别对应：在云端（如 ArrowBackup 文件夹）、全部本地可用（如 Design 文件夹）、部分本地可用（如 Office 文件夹）、正在同步（如 Software 文件夹）<br>　　在云端（如 ArrowBackup 文件夹）：该文件夹所有文件储存在云端，需要下载后再使用。<br>　　全部本地可用（如 Design 文件夹）：该文件夹所有文件已经下载到本地，可直接使用。<br>　　部分本地可用（如 Office 文件夹）：该文件夹部分文件已经下载到本地，可直接使用。<br>　　正在同步（如 Software 文件夹）：该文件夹有文件正在同步到云端。<br>　　OneDrive 的好处在于，作为微软自家产品，与 Windows 生态无缝融合，可以很方便的在文件资源管理器中进行管理，并且编辑云盘内的 Word，PPT，Excel 文件都可以实时同步，在其他设备可以继续编辑或者查看。同时，可以设置把文件“始终保留在此设备上”，即使网络中断也不影响文件离线使用，待网络恢复后就可以继续同步。这样也就相当于云端与本地的双备份，只要储存在 OneDrive 上的文件，都可以在有网络的情况下随时获取，PC、手机都可以访问，即使没有网络，PC 离线使用也不影响。我想过能让这个使用模式崩溃的可能情况，无外乎这么几种：不能使用任何 PC 或者智能手机、微软倒闭、一直停电、一直断网、世界末日。<br>　　云盘服务器的安全性方面也是一大考虑，微软长期服务于重要企业和政府部门，有着良好的信用记录，个人用户是微软云业务中的一小部分，不会对用户存储内容随意修改、审查、锁定，这一点是很多国际互联网公司的优点。所以不担心出现像百度网盘、WPS 的一些产品出现的恶性事件，万一有重大事故出现，也可以离线打开电脑，将个人文件安全转移。<br>　　但 OneDrive 并不是毫无缺点，最大的缺点就是在国内很多地方下载速度不稳定，慢的时候几百 K&#x2F;s，通常在几兆每秒。不过由于上传满速、不限流量、可以始终保留在本地，正常使用对于下载的问题可以接受，一般提前挂上同步，基本不会影响使用。这也仅仅是国内网络环境的问题，期待未来改善。<br>　　依据这种模式，国内其实还有类似的替代产品，例如坚果云。坚果云的使用逻辑与 OneDrive 类似，并且是国内公司，不会存在下载速度问题，但让我放弃主力使用坚果云的原因是其专业版太贵，而且云空间太小，只适合轻度文件同步，其他的使用体验挺好。<br>　　如果是苹果用户，iCloud+MAC&#x2F;iPad&#x2F;iPhone 的组合是最佳搭配，但是 iCloud 的资费也不便宜。不过 OneDrive 在 MAC 也能用，生态体验会差一些。<br>　　如果对云盘服务不放心，可以尝试家庭 NAS，这是最理想的解决方案，但是搭建费用会很高。<br>　　另外，对于体积更大，数量更多的文件，OneDrive 商业版容量更大，基础 5T，最高可扩容到 25T 的解决方案。但是我会更偏向于另外的解决途径：如果使用频率较高，就为这类文件单独加装仓库硬盘；如果这类文件的使用频率不高，同时不是敏感文件，就放到阿里云盘或者百度云盘。</p>
+<h1 id="二、结合图书分类法，定制适合个人研究领域的整理方案"><a href="#二、结合图书分类法，定制适合个人研究领域的整理方案" class="headerlink" title="二、结合图书分类法，定制适合个人研究领域的整理方案"></a>二、结合图书分类法，定制适合个人研究领域的整理方案</h1><h2 id="（1）整理原则"><a href="#（1）整理原则" class="headerlink" title="（1）整理原则"></a>（1）整理原则</h2><p>　　解决了数字文献如何安放问题，下面谈一下数字文献的整理。整理的基本原则有这样几个：定期整理、格式统一、科学命名、避免重复。<br>　　有再好、再干净的房子长期不打扫也会变得脏乱差，所以每隔一两个月，或者有赶上大量的文献转入，就要进行文献的整理，这样可以方面文件查找。<br>　　整理的第一步，统一文件格式。我始终认为，一个标准化、统一化的协议是降低使用成本，提高使用效率的最佳方案。下面就是所以我会尽可能把所有诸如 PDG&#x2F;UVZ&#x2F;DJVU&#x2F;CAJ 格式文件转换为 PDF，这个步骤一定要在一开始存入文件时候就做，否则到积累数量太多的时候，就会十分麻烦。为什么转换为 PDF？因为可以方便其他设备阅读，PDF 是最广泛、支持最多的格式，尤其是扫描书籍，平板和手机无法支持 PDG&#x2F;UVZ&#x2F;DJVU&#x2F;CAJ。同时，因为各类笔记软件对 PDF 支持的最好，也可以为我们后面的文献管理、阅读、批注提供巨大便利。其他的 Word，PowerPoint，Excel，TXT，Markdown 等文本文件就不过多要求，而且这类文件一般体积不大。<br>　　整理的第二步，科学命名。文件命名有很多情况，每个人习惯不同。但是有几个方面我觉得可以通用。<br>　　1、排序。一方面是对文件夹依据重要程度或者类型给予阿拉伯数字或 ABC 排序分类。另一方面，要注意文件命名排序，例如一般操作系统都不支持中文一、二、三数字排序，尤其当收集到一些成套的丛书，所以最好将中文数字转换为阿拉伯数字，可以使用菲菲更名宝贝。<br>　　2、时间+内容。这是最通用的项目类文件命名方式，例如“20220808 读《中国目录学史》”。<br>　　3、避免文件名过长。文件名过长会遮挡一些信息，所以要么把作者、书名等内容提前，要么删去无意义内容。<br>　　4、同一级文件夹下文件名统一。出版时间、作者名字、书籍分类等，最好同一级文件夹下有一个统一的命名规则。<br>　　整理的第三步，避免重复。一开始面对大量的数字文献，很容易让人无所适从，并且很快发现，收录了许多重复的资源。这就需要我们从一开始就要尽可能避免重复收入，减小文献库空间压力。<br>　　以上三步中查特殊格式文档、查文件、查重复都可以借助 Everything 软件，总之，减轻后续工作麻烦的最佳原则是：一开始养成良好的使用习惯。</p>
+<h2 id="（2）分类原则"><a href="#（2）分类原则" class="headerlink" title="（2）分类原则"></a>（2）分类原则</h2><p>　　迄今，人类已经发明了许多种图书分类，针对中国古籍的有六分、四分，现代常用的有杜威法、美国国会图书分类法、中图法等等，但是，我们不是准备开公共图书馆，这些分类法对于个人来讲体系过于庞大，并不适用。尤其是对于专门化、模式化、单一学科背景的研究者来说，如果硬套中图法，很容易就会发现我们的文献库只能填进零散、割裂的几个小类当中，这样不连续、逻辑断裂的分类方式并不会有助于我们的学习研究。所以最好根据个人学科研究的实际情况，进行图书分类。可以借鉴这些图书分类法，总体的原则应当基本遵循经典分类体系：<br>　　1.在属种概念之间进行，每级划分只能有一个标准。<br>　　2.子项外延之和等于母项的外延，否则划分不全或多出子项。<br>　　3.划分出的概念不能为相容关系，属种概念不能并列。<br>　　当然实际操作过程会有很多不确定的情况，只能根据个人喜好，怎么方便怎么来。<br>　　例如我的常用文献库这样分类：<br>　　├── 1 版本目录文献 ├── 2 宗教文献 ├── 3 敦煌文献 ├── 4 十三经<br>　　├── 5 诸子 ├── 6 诗文集 ├── 7 史部文献 ├── 8 文字音韵<br>　　├── 9 三代研究 ├── 书画名物 ├── 地图表格 └── 大家全集<br>　　但是不常用文献库就这样分类：<br>　　├── 全集丛书├── 出土文献├── 史书古籍├── 报刊杂志└── 杂七杂八<br>　　诸如二十六史、四库全书、儒藏道藏之类的文献就会归入“史书古籍”中，这个不常用文献库接近 1T，另外还有一些资源放在云盘，只在用到的时候再检索下载。<br>　　又或者 epub 电子书我这样分类：</p>
+<p><img src="https://s2.loli.net/2022/08/20/Uv17f8l2yRgePah.png"></p>
+<p>　　总之，要根据个人需要制定自己的图书分类方案。</p>
+<h1 id="三、基于多端同步功能的文献阅读和笔记管理方案"><a href="#三、基于多端同步功能的文献阅读和笔记管理方案" class="headerlink" title="三、基于多端同步功能的文献阅读和笔记管理方案"></a>三、基于多端同步功能的文献阅读和笔记管理方案</h1><p>　　理清楚文献怎么整理，就进入文献阅读和笔记产出环节。子曰：“学而不思则罔，思而不学则殆”，古代夸人读书读得好往往会评价“博闻强识”，但是现在单靠脑子记是不行了，俗话说不动笔头不读书，但在文献数字化、管理云端化的现在，有着大量的软件工具选择，就可以减少手写笔记，既方便管理查阅，又不怕丢失，只需要我们输出笔记就好。</p>
+<h2 id="（1）阅读-PDF——BookxNote-Pro"><a href="#（1）阅读-PDF——BookxNote-Pro" class="headerlink" title="（1）	阅读 PDF——BookxNote Pro"></a>（1）	阅读 PDF——BookxNote Pro</h2><p>　　BookxNote 是一款国产软件，对 PDF 阅读支持很好，当然 Acrobat 和福昕对 PDF 的开发历史悠久、更专业，但是从用户角度来讲，我需要的是一款可以方便阅读、批注、笔记输入的工具，而不是天天制作 PDF。<br>　　BookxNote 优势在三方面：<br>　　一、笔记本的管理。建立自己的笔记分类，同时对多本书进行阅读做笔记。<br>　　二、阅读和笔记同步整理。边阅读，一边画重点，随时调整笔记脑图的逻辑结构，构建自己对书本的知识体系，做到把书本从厚读到薄。<br>　　三、笔记和其他软件协同。当把一本书读完后，就需要把所有的知识进行归类整理，软件提供导出笔记数据到各种格式（支持图片，ANKI,HTML,xmind,opml）,方便整理，复习，和知识的输出，实现把书本再从薄到厚的过程。</p>
+<p><img src="https://s2.loli.net/2022/08/20/CE5gFIxhWHiQPlr.png"></p>
+<p>　　这也是我为什么一开始就强调统一文献格式的另一个重要原因，基于 BookxNote，可以实现所有 PDF 数字文献的阅读、批注以及笔记输出，操作逻辑简单直接，十分符合国内操作习惯。同时，软件也支持笔记数据云端同步，使用了 OneDrive 或坚果云，就可以在另一台设备同步阅读进度和笔记批注（需要在书籍也同步的情况下）。<br>　　抛弃知网研学是其太臃肿复杂，不使用 zotero 则是因为其逻辑更适合理工医学学生，BookxNote 兼容性更强，适用范围也广，并且有着安全可控的数据同步方案。</p>
+<h2 id="（2）摘录与笔记——OneNote"><a href="#（2）摘录与笔记——OneNote" class="headerlink" title="（2）摘录与笔记——OneNote"></a>（2）摘录与笔记——OneNote</h2><p>　　我把日常摘录和常用笔记放在 OneNote 上。<br>　　经常看到比较好的公众号文章或者网页文章，想要保存下来，OneNote 就很方便。只需要公众号关注“微软云笔记”，绑定微软账号，看到好的公众号文章，只需要复制链接给公众号就可以了。保存网页，只需要 chrome 或者 edge 浏览器安装 onenote web clipper 插件，绑定账号，看到喜欢的网页文章只需要点击插件，选择剪辑“文章”即可。印象笔记也有这样的功能，但是印象笔记不免费啊。而且因为前面也都使用微软的产品，选择 OneNote 理所当然。<br>　　记笔记也是一样，OneNote 的笔记功能也十分强大，并且移动端集成了便签功能，可以同时同步 OneNote 和微软便签。根据网络环境不同，不同端同步时间可能比较长，甚至需要手动刷新。</p>
+<h1 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a>四、总结</h1><p>　　以上就是我日常学习中，对于数字文献管理、阅读和笔记的基本流程，这一套流程实际上都是依赖微软 OneDrive 的云同步作为底层支撑，由于很多人都长期使用微软的产品（windows&#x2F;office），所以不会影响使用习惯，也可以在确保了数据安全的同时，方便在手机端查看、检索、编辑、搜集。<br>　　我相信在互联网的时代，每个行业领域都会在数字化浪潮中逐渐发生变革，适应变革，学习新工具为我所用，提升生产学习效率，是对于个人尤其是计算机领域之外的人，值得付出一些努力去学习尝试的。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>OneDrive</tag>
+        <tag>数据管理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于Henu</title>
     <url>/2021/06/06/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E5%85%B3%E4%BA%8EHenu/</url>
     <content><![CDATA[<center> 纪念——在铁塔湖畔的四年
@@ -3234,6 +3262,28 @@ tags:
       </categories>
       <tags>
         <tag>拍视频</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>又一个春天</title>
+    <url>/2022/04/26/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E5%8F%88%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E6%98%A5%E5%A4%A9/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/04/26/Rcse86CxdOH4vPk.jpg"></p>
+<p><img src="https://s2.loli.net/2022/04/26/PaGcLgImDqKCE6Q.jpg"></p>
+<hr>
+<p>　　又一个春天，走到了它的尽头。</p>
+<p><img src="https://s2.loli.net/2022/04/26/geQt9XvGmryB3RO.jpg" alt="Flowers"></p>
+<p>　　阳光灿烂的日子，有很多温柔美好。</p>
+<p><img src="https://s2.loli.net/2022/04/26/AbGPpBOzFDovCgr.jpg" alt="读书"></p>
+<p>　　但是沉默的呵，沉默的没有。</p>
+<p><img src="https://s2.loli.net/2022/04/26/O3N4vBdoPIhsFH9.jpg" alt="blossom"></p>
+<h2 id="春天……共和……"><a href="#春天……共和……" class="headerlink" title="　　春天……共和……"></a>　　春天……共和……</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">由于使用SM.MS图床，国内访问较慢，推荐开启VPN加速访问</span><br><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">点击图片底部显示图片名称😉</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>摄影</category>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>SCU</tag>
       </tags>
   </entry>
   <entry>
@@ -3288,28 +3338,6 @@ tags:
       </categories>
       <tags>
         <tag>摄影比赛</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>又一个春天</title>
-    <url>/2022/04/26/%E3%80%90%E6%91%84%E5%BD%B1%E3%80%91%E5%8F%88%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E6%98%A5%E5%A4%A9/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/04/26/Rcse86CxdOH4vPk.jpg"></p>
-<p><img src="https://s2.loli.net/2022/04/26/PaGcLgImDqKCE6Q.jpg"></p>
-<hr>
-<p>　　又一个春天，走到了它的尽头。</p>
-<p><img src="https://s2.loli.net/2022/04/26/geQt9XvGmryB3RO.jpg" alt="Flowers"></p>
-<p>　　阳光灿烂的日子，有很多温柔美好。</p>
-<p><img src="https://s2.loli.net/2022/04/26/AbGPpBOzFDovCgr.jpg" alt="读书"></p>
-<p>　　但是沉默的呵，沉默的没有。</p>
-<p><img src="https://s2.loli.net/2022/04/26/O3N4vBdoPIhsFH9.jpg" alt="blossom"></p>
-<h2 id="春天……共和……"><a href="#春天……共和……" class="headerlink" title="　　春天……共和……"></a>　　春天……共和……</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">由于使用SM.MS图床，国内访问较慢，推荐开启VPN加速访问</span><br><span class="line">初次进入请耐心等待图片加载↑（数个1、2、3、4、5……）</span><br><span class="line">点击图片底部显示图片名称😉</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>摄影</category>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>SCU</tag>
       </tags>
   </entry>
   <entry>
@@ -3475,32 +3503,55 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【工具】数字化文献管理与学术研究</title>
-    <url>/2022/08/20/%E3%80%90%E5%B7%A5%E5%85%B7%E3%80%91%E6%95%B0%E5%AD%97%E5%8C%96%E6%96%87%E7%8C%AE%E7%AE%A1%E7%90%86%E4%B8%8E%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</url>
-    <content><![CDATA[<p>　　（本来是一篇作业）</p>
-<p>　　互联网时代，数字化变革已经影响到各个行业领域，中文、历史等学科，有着长期扎在故纸堆里的研究传统，古籍数字化与文献数据库的建立很大程度上方便了了行业的研究，但对于个人学术管理和研究行为的改变还处于初期阶段。个人的学术研究，很重要的一点就在于长期的积累，并且在积累过程中不断生产个人的独特认知。在学术研究中，我整理出以下环节：<br>　　发现选题——文献搜集——文献整理——文献阅读——思考笔记——研究输出<br>　　特别是从文献到笔记，在长期沉淀过程中，还需要管理不断壮大的个人文献库以及阅读过程中生产出的读书笔记和研究灵感。汉代目录学思想的萌芽或许也跟秦火之后，当时人们征集各方文献所面临的现实有关。面对数量庞大、学说关系复杂零散的典籍，急需一个行之有效整理思路，于是产生了不同的分类法。然而古时实体文献的制作、流通都比较不易，好学之人想要获得想要的典籍需要付出很多，在管理和保存上也需要下很大功夫，《庄子·天下》云：“惠施多方，其书五车”，就反映了惠施的博学和收书之多。但是由于古籍文献的物质存在形态，使得博学者要么是有一定的机缘，比如刚好是国家藏书机构的管理员，要么就是有一定的社会财富，家境殷实，比如明代著名藏书家项元卞，才可以支撑起来浩如烟海的古籍收集和管理，才能够在学术路上有所成就。<br>　　生活在现代的我们在书籍文献获取上则方便了很多，并且有大量的数字化资源可以从各种渠道获取，收集一套《四库全书》更不必要专门建立一座藏书室，但是这也仅仅是省下了整个研究过程中的初始阶段。如何安全的管理自己的文献库，如何便捷的访问自己的文献库，如何清晰的分类，以及如何整理产出的笔记和学术成果，则是我们如今要解决的重点。<br>　　我的方案是这样：<br>　　一，	以云盘为中心，配合本地磁盘备份的存储方案。<br>　　二，	结合图书分类法，定制适合个人研究领域的整理方案。<br>　　三，	基于多端同步功能的的文献阅读和笔记管理方案。</p>
-<h1 id="一、以云盘为中心，配合本地磁盘备份的存储方案"><a href="#一、以云盘为中心，配合本地磁盘备份的存储方案" class="headerlink" title="一、以云盘为中心，配合本地磁盘备份的存储方案"></a>一、以云盘为中心，配合本地磁盘备份的存储方案</h1><p>　　为什么要依靠云盘作为存储管理的中心？<br>　　如今互联网行业云服务竞争激烈，各大巨头都在推出云服务、云应用，大型企业和公司都在数据上云，因为在未来数据上云是一种趋势。从普通消费端看，我国的互联网基础设施建设愈发完善，越来越多的家用宽带逐步从百兆升到千兆，手机 5G 更是发展迅速，网络成为我们生活的一部分，只要网络够好，云盘与本地的区别并不是很大，但是云盘的便利和安全是本地单一存储不能比拟的。下面就以我使用的 OneDrive 为例谈一谈文献存储。<br>　　OneDrive 是微软公司的云盘产品，免费用户有 5G 的云空间，Microsoft 365 订阅用户有 1T 的云空间，Microsoft 365 基于云平台提供多种服务，通过将 Word，PowerPoint，Excel 和 Outlook，OneNote 等应用与 OneDrive 和 Microsoft Teams 等强大的云服务相结合，让任何人使用任何设备随时随地创建和共享内容。对于大部分个人用户来讲，主要是使用 OneDrive 提供的云服务。由于是微软自家的产品，在 Windows10&#x2F;11 系统中有很好的支持，直接整合在了文件资源管理器中，并且右下角工具栏也会实时显示同步状态。</p>
-<p><img src="https://s2.loli.net/2022/08/20/QozFCfKXvaMBjbw.png"></p>
-<p>　　如图，以我的 OneDrive 云盘为例，在文件资源管理器中，储存在 OneDrive 上的文件共有四种状态，它们分别对应：在云端（如 ArrowBackup 文件夹）、全部本地可用（如 Design 文件夹）、部分本地可用（如 Office 文件夹）、正在同步（如 Software 文件夹）<br>　　在云端（如 ArrowBackup 文件夹）：该文件夹所有文件储存在云端，需要下载后再使用。<br>　　全部本地可用（如 Design 文件夹）：该文件夹所有文件已经下载到本地，可直接使用。<br>　　部分本地可用（如 Office 文件夹）：该文件夹部分文件已经下载到本地，可直接使用。<br>　　正在同步（如 Software 文件夹）：该文件夹有文件正在同步到云端。<br>　　OneDrive 的好处在于，作为微软自家产品，与 Windows 生态无缝融合，可以很方便的在文件资源管理器中进行管理，并且编辑云盘内的 Word，PPT，Excel 文件都可以实时同步，在其他设备可以继续编辑或者查看。同时，可以设置把文件“始终保留在此设备上”，即使网络中断也不影响文件离线使用，待网络恢复后就可以继续同步。这样也就相当于云端与本地的双备份，只要储存在 OneDrive 上的文件，都可以在有网络的情况下随时获取，PC、手机都可以访问，即使没有网络，PC 离线使用也不影响。我想过能让这个使用模式崩溃的可能情况，无外乎这么几种：不能使用任何 PC 或者智能手机、微软倒闭、一直停电、一直断网、世界末日。<br>　　云盘服务器的安全性方面也是一大考虑，微软长期服务于重要企业和政府部门，有着良好的信用记录，个人用户是微软云业务中的一小部分，不会对用户存储内容随意修改、审查、锁定，这一点是很多国际互联网公司的优点。所以不担心出现像百度网盘、WPS 的一些产品出现的恶性事件，万一有重大事故出现，也可以离线打开电脑，将个人文件安全转移。<br>　　但 OneDrive 并不是毫无缺点，最大的缺点就是在国内很多地方下载速度不稳定，慢的时候几百 K&#x2F;s，通常在几兆每秒。不过由于上传满速、不限流量、可以始终保留在本地，正常使用对于下载的问题可以接受，一般提前挂上同步，基本不会影响使用。这也仅仅是国内网络环境的问题，期待未来改善。<br>　　依据这种模式，国内其实还有类似的替代产品，例如坚果云。坚果云的使用逻辑与 OneDrive 类似，并且是国内公司，不会存在下载速度问题，但让我放弃主力使用坚果云的原因是其专业版太贵，而且云空间太小，只适合轻度文件同步，其他的使用体验挺好。<br>　　如果是苹果用户，iCloud+MAC&#x2F;iPad&#x2F;iPhone 的组合是最佳搭配，但是 iCloud 的资费也不便宜。不过 OneDrive 在 MAC 也能用，生态体验会差一些。<br>　　如果对云盘服务不放心，可以尝试家庭 NAS，这是最理想的解决方案，但是搭建费用会很高。<br>　　另外，对于体积更大，数量更多的文件，OneDrive 商业版容量更大，基础 5T，最高可扩容到 25T 的解决方案。但是我会更偏向于另外的解决途径：如果使用频率较高，就为这类文件单独加装仓库硬盘；如果这类文件的使用频率不高，同时不是敏感文件，就放到阿里云盘或者百度云盘。</p>
-<h1 id="二、结合图书分类法，定制适合个人研究领域的整理方案"><a href="#二、结合图书分类法，定制适合个人研究领域的整理方案" class="headerlink" title="二、结合图书分类法，定制适合个人研究领域的整理方案"></a>二、结合图书分类法，定制适合个人研究领域的整理方案</h1><h2 id="（1）整理原则"><a href="#（1）整理原则" class="headerlink" title="（1）整理原则"></a>（1）整理原则</h2><p>　　解决了数字文献如何安放问题，下面谈一下数字文献的整理。整理的基本原则有这样几个：定期整理、格式统一、科学命名、避免重复。<br>　　有再好、再干净的房子长期不打扫也会变得脏乱差，所以每隔一两个月，或者有赶上大量的文献转入，就要进行文献的整理，这样可以方面文件查找。<br>　　整理的第一步，统一文件格式。我始终认为，一个标准化、统一化的协议是降低使用成本，提高使用效率的最佳方案。下面就是所以我会尽可能把所有诸如 PDG&#x2F;UVZ&#x2F;DJVU&#x2F;CAJ 格式文件转换为 PDF，这个步骤一定要在一开始存入文件时候就做，否则到积累数量太多的时候，就会十分麻烦。为什么转换为 PDF？因为可以方便其他设备阅读，PDF 是最广泛、支持最多的格式，尤其是扫描书籍，平板和手机无法支持 PDG&#x2F;UVZ&#x2F;DJVU&#x2F;CAJ。同时，因为各类笔记软件对 PDF 支持的最好，也可以为我们后面的文献管理、阅读、批注提供巨大便利。其他的 Word，PowerPoint，Excel，TXT，Markdown 等文本文件就不过多要求，而且这类文件一般体积不大。<br>　　整理的第二步，科学命名。文件命名有很多情况，每个人习惯不同。但是有几个方面我觉得可以通用。<br>　　1、排序。一方面是对文件夹依据重要程度或者类型给予阿拉伯数字或 ABC 排序分类。另一方面，要注意文件命名排序，例如一般操作系统都不支持中文一、二、三数字排序，尤其当收集到一些成套的丛书，所以最好将中文数字转换为阿拉伯数字，可以使用菲菲更名宝贝。<br>　　2、时间+内容。这是最通用的项目类文件命名方式，例如“20220808 读《中国目录学史》”。<br>　　3、避免文件名过长。文件名过长会遮挡一些信息，所以要么把作者、书名等内容提前，要么删去无意义内容。<br>　　4、同一级文件夹下文件名统一。出版时间、作者名字、书籍分类等，最好同一级文件夹下有一个统一的命名规则。<br>　　整理的第三步，避免重复。一开始面对大量的数字文献，很容易让人无所适从，并且很快发现，收录了许多重复的资源。这就需要我们从一开始就要尽可能避免重复收入，减小文献库空间压力。<br>　　以上三步中查特殊格式文档、查文件、查重复都可以借助 Everything 软件，总之，减轻后续工作麻烦的最佳原则是：一开始养成良好的使用习惯。</p>
-<h2 id="（2）分类原则"><a href="#（2）分类原则" class="headerlink" title="（2）分类原则"></a>（2）分类原则</h2><p>　　迄今，人类已经发明了许多种图书分类，针对中国古籍的有六分、四分，现代常用的有杜威法、美国国会图书分类法、中图法等等，但是，我们不是准备开公共图书馆，这些分类法对于个人来讲体系过于庞大，并不适用。尤其是对于专门化、模式化、单一学科背景的研究者来说，如果硬套中图法，很容易就会发现我们的文献库只能填进零散、割裂的几个小类当中，这样不连续、逻辑断裂的分类方式并不会有助于我们的学习研究。所以最好根据个人学科研究的实际情况，进行图书分类。可以借鉴这些图书分类法，总体的原则应当基本遵循经典分类体系：<br>　　1.在属种概念之间进行，每级划分只能有一个标准。<br>　　2.子项外延之和等于母项的外延，否则划分不全或多出子项。<br>　　3.划分出的概念不能为相容关系，属种概念不能并列。<br>　　当然实际操作过程会有很多不确定的情况，只能根据个人喜好，怎么方便怎么来。<br>　　例如我的常用文献库这样分类：<br>　　├── 1 版本目录文献 ├── 2 宗教文献 ├── 3 敦煌文献 ├── 4 十三经<br>　　├── 5 诸子 ├── 6 诗文集 ├── 7 史部文献 ├── 8 文字音韵<br>　　├── 9 三代研究 ├── 书画名物 ├── 地图表格 └── 大家全集<br>　　但是不常用文献库就这样分类：<br>　　├── 全集丛书├── 出土文献├── 史书古籍├── 报刊杂志└── 杂七杂八<br>　　诸如二十六史、四库全书、儒藏道藏之类的文献就会归入“史书古籍”中，这个不常用文献库接近 1T，另外还有一些资源放在云盘，只在用到的时候再检索下载。<br>　　又或者 epub 电子书我这样分类：</p>
-<p><img src="https://s2.loli.net/2022/08/20/Uv17f8l2yRgePah.png"></p>
-<p>　　总之，要根据个人需要制定自己的图书分类方案。</p>
-<h1 id="三、基于多端同步功能的文献阅读和笔记管理方案"><a href="#三、基于多端同步功能的文献阅读和笔记管理方案" class="headerlink" title="三、基于多端同步功能的文献阅读和笔记管理方案"></a>三、基于多端同步功能的文献阅读和笔记管理方案</h1><p>　　理清楚文献怎么整理，就进入文献阅读和笔记产出环节。子曰：“学而不思则罔，思而不学则殆”，古代夸人读书读得好往往会评价“博闻强识”，但是现在单靠脑子记是不行了，俗话说不动笔头不读书，但在文献数字化、管理云端化的现在，有着大量的软件工具选择，就可以减少手写笔记，既方便管理查阅，又不怕丢失，只需要我们输出笔记就好。</p>
-<h2 id="（1）阅读-PDF——BookxNote-Pro"><a href="#（1）阅读-PDF——BookxNote-Pro" class="headerlink" title="（1）	阅读 PDF——BookxNote Pro"></a>（1）	阅读 PDF——BookxNote Pro</h2><p>　　BookxNote 是一款国产软件，对 PDF 阅读支持很好，当然 Acrobat 和福昕对 PDF 的开发历史悠久、更专业，但是从用户角度来讲，我需要的是一款可以方便阅读、批注、笔记输入的工具，而不是天天制作 PDF。<br>　　BookxNote 优势在三方面：<br>　　一、笔记本的管理。建立自己的笔记分类，同时对多本书进行阅读做笔记。<br>　　二、阅读和笔记同步整理。边阅读，一边画重点，随时调整笔记脑图的逻辑结构，构建自己对书本的知识体系，做到把书本从厚读到薄。<br>　　三、笔记和其他软件协同。当把一本书读完后，就需要把所有的知识进行归类整理，软件提供导出笔记数据到各种格式（支持图片，ANKI,HTML,xmind,opml）,方便整理，复习，和知识的输出，实现把书本再从薄到厚的过程。</p>
-<p><img src="https://s2.loli.net/2022/08/20/CE5gFIxhWHiQPlr.png"></p>
-<p>　　这也是我为什么一开始就强调统一文献格式的另一个重要原因，基于 BookxNote，可以实现所有 PDF 数字文献的阅读、批注以及笔记输出，操作逻辑简单直接，十分符合国内操作习惯。同时，软件也支持笔记数据云端同步，使用了 OneDrive 或坚果云，就可以在另一台设备同步阅读进度和笔记批注（需要在书籍也同步的情况下）。<br>　　抛弃知网研学是其太臃肿复杂，不使用 zotero 则是因为其逻辑更适合理工医学学生，BookxNote 兼容性更强，适用范围也广，并且有着安全可控的数据同步方案。</p>
-<h2 id="（2）摘录与笔记——OneNote"><a href="#（2）摘录与笔记——OneNote" class="headerlink" title="（2）摘录与笔记——OneNote"></a>（2）摘录与笔记——OneNote</h2><p>　　我把日常摘录和常用笔记放在 OneNote 上。<br>　　经常看到比较好的公众号文章或者网页文章，想要保存下来，OneNote 就很方便。只需要公众号关注“微软云笔记”，绑定微软账号，看到好的公众号文章，只需要复制链接给公众号就可以了。保存网页，只需要 chrome 或者 edge 浏览器安装 onenote web clipper 插件，绑定账号，看到喜欢的网页文章只需要点击插件，选择剪辑“文章”即可。印象笔记也有这样的功能，但是印象笔记不免费啊。而且因为前面也都使用微软的产品，选择 OneNote 理所当然。<br>　　记笔记也是一样，OneNote 的笔记功能也十分强大，并且移动端集成了便签功能，可以同时同步 OneNote 和微软便签。根据网络环境不同，不同端同步时间可能比较长，甚至需要手动刷新。</p>
-<h1 id="四、总结"><a href="#四、总结" class="headerlink" title="四、总结"></a>四、总结</h1><p>　　以上就是我日常学习中，对于数字文献管理、阅读和笔记的基本流程，这一套流程实际上都是依赖微软 OneDrive 的云同步作为底层支撑，由于很多人都长期使用微软的产品（windows&#x2F;office），所以不会影响使用习惯，也可以在确保了数据安全的同时，方便在手机端查看、检索、编辑、搜集。<br>　　我相信在互联网的时代，每个行业领域都会在数字化浪潮中逐渐发生变革，适应变革，学习新工具为我所用，提升生产学习效率，是对于个人尤其是计算机领域之外的人，值得付出一些努力去学习尝试的。</p>
+    <title>【最近】十月小结——工作与考研之间</title>
+    <url>/2020/11/01/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%8D%81%E6%9C%88%E5%B0%8F%E7%BB%93%E2%80%94%E2%80%94%E5%B7%A5%E4%BD%9C%E4%B8%8E%E8%80%83%E7%A0%94%E4%B9%8B%E9%97%B4/</url>
+    <content><![CDATA[<p>　　①十月有点颓废且浮躁，参加了两个工作面试，明白了考研人不能奢望考研与工作（保底的退路）兼得，不过也算是提前看明白了。工作并不算难找，只是好坏选择罢了。</p>
+<p>　　②傍晚去吃饭时听到沈以诚的《椿》，莫名有点感伤，好久没“网抑云”了，但也好像没啥抑郁的。</p>
+<p>　　③最喜欢的还是朴树、三亩地、草东了吧，《猎户星座》yyds！今年又爱上新裤子，沉迷周杰伦，退烧了李志和 LinkenPark。音乐喜好上我不得不承认自己是个渣男流氓。</p>
+<p>　　④昨晚梦：绚烂的流星雨划过视野里略有些逼仄的昏黑天空，我激动地用设备拍摄，得到只是一张噪点铺满，又有抖动的“废片”，似乎昭示了我理想与现实的巨大落差。</p>
+<p>　　结局失望很大程度上是我自己的问题，因为远不够努力，很多时候又眼高手低。不过自怨自艾不是我的作风。</p>
+<p>　　但尽人事，随缘南北，皆要灿烂。</p>
 ]]></content>
       <categories>
-        <category>杂趣</category>
-        <category>工具</category>
+        <category>人生忽然</category>
+        <category>最近</category>
       </categories>
       <tags>
-        <tag>OneDrive</tag>
-        <tag>数据管理</tag>
+        <tag>Henu</tag>
+        <tag>记梦</tag>
+        <tag>考研</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>【最近】又是一年桂飘香</title>
+    <url>/2022/09/10/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E6%A1%82%E9%A3%98%E9%A6%99/</url>
+    <content><![CDATA[<p>　　转眼中秋，意识到秋天已经不折不扣地到来，是每天去西园做核酸的路上，闻到一天比一天浓郁的桂花香。</p>
+<p>　　“山寺月中寻桂子，郡亭枕上看潮头。何日更重游！”</p>
+<p>　　去年九月入学，也是这样的馥郁芬芳，欢迎新生的到来，然而今年的新生还没有来。</p>
+<blockquote>
+<p>“好不甘心啊，整个夏天都快过完了，好像什么事都没有做。”</p>
+<p>“对啊，我们就只是跑来跑去，什么事都没有做。”</p>
+<p>“看！没有赢过一场比赛，真的什么事都没有做。”</p>
+<p>“想到什么？”</p>
+<p>“那你想到什么？”</p>
+<p>“但总是会留下一些什么吧，留下什么，我们就变成什么样的大人。”</p>
+<p>“你这句话从哪里偷来的？”</p>
+</blockquote>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=86105254&bvid=BV1g7411x7iU&cid=147179154&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
+
+
+
+
+
+
+<p>　　夏天已经过完了，好像什么都没有做，如何面对已经到来的秋天呢？</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>最近</category>
+      </categories>
   </entry>
   <entry>
     <title>【最近】坐上火车轨道的年轻人</title>
@@ -3540,75 +3591,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【最近】十月小结——工作与考研之间</title>
-    <url>/2020/11/01/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%8D%81%E6%9C%88%E5%B0%8F%E7%BB%93%E2%80%94%E2%80%94%E5%B7%A5%E4%BD%9C%E4%B8%8E%E8%80%83%E7%A0%94%E4%B9%8B%E9%97%B4/</url>
-    <content><![CDATA[<p>　　①十月有点颓废且浮躁，参加了两个工作面试，明白了考研人不能奢望考研与工作（保底的退路）兼得，不过也算是提前看明白了。工作并不算难找，只是好坏选择罢了。</p>
-<p>　　②傍晚去吃饭时听到沈以诚的《椿》，莫名有点感伤，好久没“网抑云”了，但也好像没啥抑郁的。</p>
-<p>　　③最喜欢的还是朴树、三亩地、草东了吧，《猎户星座》yyds！今年又爱上新裤子，沉迷周杰伦，退烧了李志和 LinkenPark。音乐喜好上我不得不承认自己是个渣男流氓。</p>
-<p>　　④昨晚梦：绚烂的流星雨划过视野里略有些逼仄的昏黑天空，我激动地用设备拍摄，得到只是一张噪点铺满，又有抖动的“废片”，似乎昭示了我理想与现实的巨大落差。</p>
-<p>　　结局失望很大程度上是我自己的问题，因为远不够努力，很多时候又眼高手低。不过自怨自艾不是我的作风。</p>
-<p>　　但尽人事，随缘南北，皆要灿烂。</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>最近</category>
-      </categories>
-      <tags>
-        <tag>Henu</tag>
-        <tag>记梦</tag>
-        <tag>考研</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【最近】实习阶段总结</title>
-    <url>/2021/08/04/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%AE%9E%E4%B9%A0%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/</url>
-    <content><![CDATA[<p>【从实习开始做了哪些工作】：我自六月十三号入职，参加了16-17号中招会，当时跟着兰翎在温江二中。之后有了帮带师傅石攀，六月剩下的日子就是跟着师傅去成都市的各类商超、中学进行地面推广。之后参加了成都外国语实验中学的中招咨询会。暑期的线下点位一开始跟随石攀分配到国色天香，后来调整到府青路家乐福，师傅也换成了肖鹏飞，日常在点位轮值推广。此外，自己找到一些渠道，辅助推广。最近推广业务和点位经过调整，目前分在了大世界店家乐福。</p>
-<p>【帮带师傅给予了哪些支持】：帮带师傅带着我积累了很多地推经验，在跟着石攀的大半月中，去了市内很多地方，接触目标用户群体，期间不断学习，锻炼自己的地推话术和沟通技巧。</p>
-<p>【帮带师傅有哪些不足的地方】：无</p>
-<p>【日常与帮带师傅是如何配合的】：师傅去哪儿我去哪儿，不懂的地方就及时问。</p>
-<p>【公司有哪些待改进的地方】：就市场推广业务来讲，应该让我们推广更多一些的课程类型。目前我们在线下只推单一的课程，就不得不找对应的目标群体，而像高三的艺考生，这样的群体并不多，获客难度也大，我们线下的点位就不一定可以得到足够回报。</p>
-<p>【个人有哪些收获】：熟悉了成都，锻炼了自己的沟通能力，认识了很多不同类型的人，对生活、对工作、对社会有了更多的了解。</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>最近</category>
-      </categories>
-      <tags>
-        <tag>实习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【最近】又是一年桂飘香</title>
-    <url>/2022/09/10/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E6%A1%82%E9%A3%98%E9%A6%99/</url>
-    <content><![CDATA[<p>　　转眼中秋，意识到秋天已经不折不扣地到来，是每天去西园做核酸的路上，闻到一天比一天浓郁的桂花香。</p>
-<p>　　“山寺月中寻桂子，郡亭枕上看潮头。何日更重游！”</p>
-<p>　　去年九月入学，也是这样的馥郁芬芳，欢迎新生的到来，然而今年的新生还没有来。</p>
-<blockquote>
-<p>“好不甘心啊，整个夏天都快过完了，好像什么事都没有做。”</p>
-<p>“对啊，我们就只是跑来跑去，什么事都没有做。”</p>
-<p>“看！没有赢过一场比赛，真的什么事都没有做。”</p>
-<p>“想到什么？”</p>
-<p>“那你想到什么？”</p>
-<p>“但总是会留下一些什么吧，留下什么，我们就变成什么样的大人。”</p>
-<p>“你这句话从哪里偷来的？”</p>
-</blockquote>
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=86105254&bvid=BV1g7411x7iU&cid=147179154&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
-
-
-
-
-
-
-<p>　　夏天已经过完了，好像什么都没有做，如何面对已经到来的秋天呢？</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>最近</category>
-      </categories>
-  </entry>
-  <entry>
     <title>【最近】好人吗？</title>
     <url>/2021/06/11/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%A5%BD%E4%BA%BA%E5%90%97%EF%BC%9F/</url>
     <content><![CDATA[<p>　　7号晚上到成都，不算那晚，今天是第四天了。</p>
@@ -3629,6 +3611,24 @@ tags:
       </categories>
       <tags>
         <tag>成都</tag>
+        <tag>实习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【最近】实习阶段总结</title>
+    <url>/2021/08/04/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E5%AE%9E%E4%B9%A0%E9%98%B6%E6%AE%B5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<p>【从实习开始做了哪些工作】：我自六月十三号入职，参加了16-17号中招会，当时跟着兰翎在温江二中。之后有了帮带师傅石攀，六月剩下的日子就是跟着师傅去成都市的各类商超、中学进行地面推广。之后参加了成都外国语实验中学的中招咨询会。暑期的线下点位一开始跟随石攀分配到国色天香，后来调整到府青路家乐福，师傅也换成了肖鹏飞，日常在点位轮值推广。此外，自己找到一些渠道，辅助推广。最近推广业务和点位经过调整，目前分在了大世界店家乐福。</p>
+<p>【帮带师傅给予了哪些支持】：帮带师傅带着我积累了很多地推经验，在跟着石攀的大半月中，去了市内很多地方，接触目标用户群体，期间不断学习，锻炼自己的地推话术和沟通技巧。</p>
+<p>【帮带师傅有哪些不足的地方】：无</p>
+<p>【日常与帮带师傅是如何配合的】：师傅去哪儿我去哪儿，不懂的地方就及时问。</p>
+<p>【公司有哪些待改进的地方】：就市场推广业务来讲，应该让我们推广更多一些的课程类型。目前我们在线下只推单一的课程，就不得不找对应的目标群体，而像高三的艺考生，这样的群体并不多，获客难度也大，我们线下的点位就不一定可以得到足够回报。</p>
+<p>【个人有哪些收获】：熟悉了成都，锻炼了自己的沟通能力，认识了很多不同类型的人，对生活、对工作、对社会有了更多的了解。</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>最近</category>
+      </categories>
+      <tags>
         <tag>实习</tag>
       </tags>
   </entry>
@@ -3720,6 +3720,29 @@ tags:
       </categories>
   </entry>
   <entry>
+    <title>【最近】翻车、作死、一事无成</title>
+    <url>/2022/01/30/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E7%BF%BB%E8%BD%A6%E3%80%81%E4%BD%9C%E6%AD%BB%E3%80%81%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90/</url>
+    <content><![CDATA[<p>统计一下最近的翻车，从便携屏开始的水逆之旅。</p>
+<h3 id="🐟-x2F-tb"><a href="#🐟-x2F-tb" class="headerlink" title="🐟&#x2F;tb"></a>🐟&#x2F;tb</h3><p>　　1月17下单便携屏，到手拖影、断层严重，与js沟通，因老板回复慢，上头就给了差评，没了后续，给我拉黑了。</p>
+<p>　　1月17下单折叠桌，结果快递发串货，尺寸小一圈。	后续：卖家退差价了事。</p>
+<p>　　1月21下单U型夹+延长板+云台，做工粗糙，螺丝孔都打歪了。	后续：承诺节后补发。</p>
+<h3 id="🐕二手东"><a href="#🐕二手东" class="headerlink" title="🐕二手东"></a>🐕二手东</h3><p>　　1月9离校前下单平板夹，到货发现是二手坏的。	后续：退货。</p>
+<p>　　1月21下单矮轴键盘，包装疑似开封，内里塑料膜有些脏，产品没问题。	后续：凑合用。</p>
+<p>　　1月28下单R5 220，到手包装简陋，因主板失事，想直接退货，结果因春节，退不了，跑到快递点都不收，艹。	后续：只能等年后再退。</p>
+<h3 id="作死"><a href="#作死" class="headerlink" title="作死"></a>作死</h3><p>　　1月29拆机清灰换硅脂，重装后点不亮，检查后可能是主板坏了。	后续：节后才能返修www~</p>
+<p>　　1月30祸不单行，便携屏接了快充，烧了驱动板www~	后续：🐟上又找了一个js花了90大洋买驱动板。</p>
+<h3 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h3><p>　　课业1：等老师给题目</p>
+<p>　　课业2：“开端”。</p>
+<p>　　课业3：“开端”。</p>
+<p>　　课业4：无。</p>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>　　过年像个🦈✏</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>最近</category>
+      </categories>
+  </entry>
+  <entry>
     <title>【最近】荒废与快乐</title>
     <url>/2022/07/09/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E8%8D%92%E5%BA%9F%E4%B8%8E%E5%BF%AB%E4%B9%90/</url>
     <content><![CDATA[<p>　　七月，处理完学期助教工作的尾巴，这个上旬就基本都在电影、游戏中度过。</p>
@@ -3745,29 +3768,6 @@ tags:
         <tag>电影</tag>
         <tag>游戏</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>【最近】翻车、作死、一事无成</title>
-    <url>/2022/01/30/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E7%BF%BB%E8%BD%A6%E3%80%81%E4%BD%9C%E6%AD%BB%E3%80%81%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90/</url>
-    <content><![CDATA[<p>统计一下最近的翻车，从便携屏开始的水逆之旅。</p>
-<h3 id="🐟-x2F-tb"><a href="#🐟-x2F-tb" class="headerlink" title="🐟&#x2F;tb"></a>🐟&#x2F;tb</h3><p>　　1月17下单便携屏，到手拖影、断层严重，与js沟通，因老板回复慢，上头就给了差评，没了后续，给我拉黑了。</p>
-<p>　　1月17下单折叠桌，结果快递发串货，尺寸小一圈。	后续：卖家退差价了事。</p>
-<p>　　1月21下单U型夹+延长板+云台，做工粗糙，螺丝孔都打歪了。	后续：承诺节后补发。</p>
-<h3 id="🐕二手东"><a href="#🐕二手东" class="headerlink" title="🐕二手东"></a>🐕二手东</h3><p>　　1月9离校前下单平板夹，到货发现是二手坏的。	后续：退货。</p>
-<p>　　1月21下单矮轴键盘，包装疑似开封，内里塑料膜有些脏，产品没问题。	后续：凑合用。</p>
-<p>　　1月28下单R5 220，到手包装简陋，因主板失事，想直接退货，结果因春节，退不了，跑到快递点都不收，艹。	后续：只能等年后再退。</p>
-<h3 id="作死"><a href="#作死" class="headerlink" title="作死"></a>作死</h3><p>　　1月29拆机清灰换硅脂，重装后点不亮，检查后可能是主板坏了。	后续：节后才能返修www~</p>
-<p>　　1月30祸不单行，便携屏接了快充，烧了驱动板www~	后续：🐟上又找了一个js花了90大洋买驱动板。</p>
-<h3 id="作业"><a href="#作业" class="headerlink" title="作业"></a>作业</h3><p>　　课业1：等老师给题目</p>
-<p>　　课业2：“开端”。</p>
-<p>　　课业3：“开端”。</p>
-<p>　　课业4：无。</p>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>　　过年像个🦈✏</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>最近</category>
-      </categories>
   </entry>
   <entry>
     <title>【最近】薄荷糖</title>
@@ -3857,103 +3857,6 @@ tags:
       <tags>
         <tag>键政</tag>
         <tag>微博</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【狂想不达米亚】阿青</title>
-    <url>/2022/09/02/%E3%80%90%E7%8B%82%E6%83%B3%E4%B8%8D%E8%BE%BE%E7%B1%B3%E4%BA%9A%E3%80%91%E9%98%BF%E9%9D%92/</url>
-    <content><![CDATA[<p>“常队，目前还是没有找到什么线索！”</p>
-<p>常海看着被汗水浸透浑身的下属，转头凝重地看向茫茫夜色遮蔽的大山，点点灯光如飞虫般舞动。</p>
-<p>……</p>
-<p>大王村的村民三天前报警，讲起一个月前，他们村附近的山里突然冒出了一个很古怪的男人。村民一开始发现到他，是在北山上，留着很长的头发，穿着麻衣草鞋，总是离人远远地。过了几天，男人下山来找村里的人讨饭吃，一张嘴说话就嘟嘟啦啦的，村里人都听不明白，感觉像是南方某个地方的方言。</p>
-<p>村民一开始还以为是山那边某个庄子里跑出来的疯子，但是这人要饭讨水客客气气的，还会作揖拱手，倒是不怎么傻。</p>
-<p>村长王老汉看他打扮说话很奇怪，想留他一下，看能不能帮他联系家人，但是这人哇哇呜呜地谢绝了村长的挽留，又跑山上去了。他看村里人和事物的眼神很莫名其妙，好奇又警惕。</p>
-<p>后来一段时间，那个人都没有再来。</p>
-<p>直到三天前的深夜，村民们突然听到一声轰天巨响，随即地动山摇，好似山崩。被惊醒的村民打着灯前往后山，却发现山坡地面塌陷一大块。天稍稍亮后，才看清楚，山坡的塌陷面积约一里长，好像山底下被掏空了。</p>
-<p>前来的民警进行了初步勘察，却只发现遗留在陷坑西侧边缘的一双草鞋，鞋底已经磨烂，村民们都认出正是那名奇怪男子的。</p>
-<p>当天下午，村里的一名中年妇女焦急地找到常海，说她公公王长贵昨天晚上去过后山，却一直没回来，早饭午饭都不见人影，一家人很担心。</p>
-<p>常队长便立即带人出发，并且让王老汉发动村里有空闲的成年男性，再次前往北边的后山。</p>
-<p>众人最终在山谷里的草甸子中发现了昏迷的老长贵，浑身赤裸，连内裤都没剩下。好在人只是昏迷，没有什么外伤。</p>
-<p>醒来的老长贵什么也不记得了，只知道昨晚随众人去查看情况，发觉山谷里有动静，就往下走了一段路，突然就没了意识。</p>
-<p>常海觉得蹊跷，经过问询，警方认为这名男子有重大嫌疑，展开了进一步调查。</p>
-<p>第二天下午，县里的派来一支勘探队伍协助调查山坡的陷坑。</p>
-<p>勘探队员对这一片的地质情况早就有过了解，此地地质条件十分稳定，地震的可能性很小，而且那夜并未监测到任何地震波，只可能是山体内部有问题。</p>
-<p>由于塌陷面积实在太大，各区域的塌陷深度也不一，深的可达4米，浅的地方只有几十公分，给勘探带来不小麻烦。但是在多处地方发现了封土和裸漏的青砖，众人意识到，这片地方有可能是一座古墓！</p>
-<p>常海立即让警方建立起临时警戒保护区，县里也赶紧上报，请求派遣专业考古队做进一步调查。</p>
-<p>常海意识到那名奇怪的男子可能是个盗墓贼，但是孤身作案的盗墓贼属实少见，而且事发前还在村里如此引人注意。</p>
-<p>常海让人特意带回了那人遗留的衣服鞋子，这些东西也很奇怪，究竟什么样的人现在还会穿这些东西？</p>
-<p>其中可能会有有用信息，只能暂时保管起来。</p>
-<p>目前尚不知是否已经有文物失窃，常海立即组织了人员封山搜查。</p>
-<p>已经凌晨2点了，大家都已经筋疲力竭，常海只得让大家收队。</p>
-<p>“小吴，通知各小队，暂停搜寻，一天了大家都很辛苦，明天再说吧。“</p>
-<p>”是，常队！“</p>
-<p>常海没有离开的意思，他马上四十五了，在县公安局这些年经手的案子也不少，能力不错，但是现在的考核晋升也变得越来越困难，自己也不会巴结人，想要更进一步只能等待合适的机会。</p>
-<p>这是不是一个机会呢？常海没有把握。</p>
-<p>想到这里，他对此案的热情就消退了大半。</p>
-<p>……</p>
-<p>大山深处（待续）</p>
-]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>狂想</category>
-      </categories>
-      <tags>
-        <tag>短篇小说</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【电影】DARK</title>
-    <url>/2022/08/24/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91DARK/</url>
-    <content><![CDATA[<center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27998807&auto=0&height=66"></iframe> </center>
-
-<p>　　第一次看完一部德语剧，中文译名《暗黑》，我觉得不那么恰当，有些奇幻或者谍战剧的味道。</p>
-<p>　　三季，看了三天。</p>
-<p>　　有段 坦豪斯 H.G. Tannhaus 的台词不忍就此忘记。</p>
-<blockquote>
-<p>我一生都梦想着 能够穿梭时空<br>Mein Leben lang habe ich geträumt, durch die Zeit zu reisen,</p>
-<p>我想去看看过去或者任何时刻是什么样子<br>zu sehen, was war und was irgendwann sein wird.</p>
-<p>(乔纳斯 Jonas) 你现在不想这么做了吗<br>Tun Sie das nicht mehr?</p>
-<p>梦想是会改变的 其他的事情会变的重要<br>Die Träume verändern sich. Andere Dinge werden wichtig.</p>
-<p>我不在昨天 不在明天<br>Mein Platz ist nicht im Gestern und nicht im Morgen.</p>
-<p>而是在这儿<br>Sondern hier.</p>
-<p>是现在<br>Und jetzt.</p>
-</blockquote>
-<p>　　以及发现一个很好看的小演员，Regian小时候的扮演者——<a href="https://movie.douban.com/celebrity/1419123/">莉迪亚·马基德斯 Lydia Makrides</a></p>
-<p><img src="https://s2.loli.net/2022/08/24/yqSdaEgeV1voGsC.webp"></p>
-<p>　　以及，发现剧终片尾曲 <em>Irgendwie, irgendwo, irgendwann</em> 的翻唱版<a href="https://music.163.com/#/song?id=1824300787">Anytime - Phil The Beat&#x2F;ILIRA</a>很好听，由于歌曲付费没办法插入外链播放器，比较可惜。</p>
-]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>电影</category>
-      </categories>
-      <tags>
-        <tag>科幻</tag>
-        <tag>德语</tag>
-        <tag>时空穿越</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【电影】Love, Death &amp; Robots (2022)</title>
-    <url>/2022/05/20/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91Love,%20Death%20&amp;%20Robots%20(2022)/</url>
-    <content><![CDATA[<img src="https://s2.loli.net/2022/05/20/JKDiTXtNgUVw1cs.jpg" alt="Love, Death & Robots (2022)" style="zoom:50%;" />
-
-<p>　　期待的爱死机第三季终于来了！昨天看了尝鲜版首集放映，对于本季质量就有了一些些放心，今天看完，总体质量有所回归，但还无法超越第一季。</p>
-<p>　　不变的幻想，期待未来，思考人类的结局。</p>
-<p>　　期待同时又担忧乌托邦的未来，对人性的讽刺，对资本的批判……</p>
-<p>　　然而血腥重口、🤖、☠、👽等惯用题材却已经让人逐渐有些乏味，本季没有什么❤的元素，缺乏一些激情、浪漫和憧憬，不知道是不是因为这魔幻的两年，让制作者也感到绝望。</p>
-<p><img src="https://s2.loli.net/2022/05/20/V8EqoeS79gpDHPl.png" alt="E01 地球毁灭，只有🐱去了火星"></p>
-<p><img src="https://s2.loli.net/2022/05/20/fSb6vRMkdsBtCJZ.jpg" alt="E06 虫群预言人类命运"></p>
-<p>　　绝圣弃智，返璞归真，方有大同。很多时候真的会感到滑稽和讽刺，所谓追求知识，宣扬科学，最终都不外乎让看清事实真相的人为了独立和自由逃离和平稳定的社会运行轨道，特权和牺牲永远对立，如果谁都没有错，错的是谁？</p>
-<p>　　物质条件下的人类命运，最终很可能自我毁灭，也许消灭肉体、灵魂飞升真的是一种理想的归宿。</p>
-<p><img src="https://s2.loli.net/2022/05/20/Z7t6kC9EnSmwbcM.png" alt="E03 永远孤独的灵魂永恒"></p>
-<p>　　最后一集一开始没看太懂，只以为是批评人性的贪婪，原来也在反思殖民历史。“现代文明”，虽然没有了赤裸裸的贩卖剥削，但何尝停止了“殖民”？</p>
-]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>电影</category>
-      </categories>
-      <tags>
-        <tag>爱死机</tag>
       </tags>
   </entry>
   <entry>
@@ -4276,6 +4179,103 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【电影】DARK</title>
+    <url>/2022/08/24/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91DARK/</url>
+    <content><![CDATA[<center> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27998807&auto=0&height=66"></iframe> </center>
+
+<p>　　第一次看完一部德语剧，中文译名《暗黑》，我觉得不那么恰当，有些奇幻或者谍战剧的味道。</p>
+<p>　　三季，看了三天。</p>
+<p>　　有段 坦豪斯 H.G. Tannhaus 的台词不忍就此忘记。</p>
+<blockquote>
+<p>我一生都梦想着 能够穿梭时空<br>Mein Leben lang habe ich geträumt, durch die Zeit zu reisen,</p>
+<p>我想去看看过去或者任何时刻是什么样子<br>zu sehen, was war und was irgendwann sein wird.</p>
+<p>(乔纳斯 Jonas) 你现在不想这么做了吗<br>Tun Sie das nicht mehr?</p>
+<p>梦想是会改变的 其他的事情会变的重要<br>Die Träume verändern sich. Andere Dinge werden wichtig.</p>
+<p>我不在昨天 不在明天<br>Mein Platz ist nicht im Gestern und nicht im Morgen.</p>
+<p>而是在这儿<br>Sondern hier.</p>
+<p>是现在<br>Und jetzt.</p>
+</blockquote>
+<p>　　以及发现一个很好看的小演员，Regian小时候的扮演者——<a href="https://movie.douban.com/celebrity/1419123/">莉迪亚·马基德斯 Lydia Makrides</a></p>
+<p><img src="https://s2.loli.net/2022/08/24/yqSdaEgeV1voGsC.webp"></p>
+<p>　　以及，发现剧终片尾曲 <em>Irgendwie, irgendwo, irgendwann</em> 的翻唱版<a href="https://music.163.com/#/song?id=1824300787">Anytime - Phil The Beat&#x2F;ILIRA</a>很好听，由于歌曲付费没办法插入外链播放器，比较可惜。</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>电影</category>
+      </categories>
+      <tags>
+        <tag>科幻</tag>
+        <tag>德语</tag>
+        <tag>时空穿越</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【狂想不达米亚】阿青</title>
+    <url>/2022/09/02/%E3%80%90%E7%8B%82%E6%83%B3%E4%B8%8D%E8%BE%BE%E7%B1%B3%E4%BA%9A%E3%80%91%E9%98%BF%E9%9D%92/</url>
+    <content><![CDATA[<p>“常队，目前还是没有找到什么线索！”</p>
+<p>常海看着被汗水浸透浑身的下属，转头凝重地看向茫茫夜色遮蔽的大山，点点灯光如飞虫般舞动。</p>
+<p>……</p>
+<p>大王村的村民三天前报警，讲起一个月前，他们村附近的山里突然冒出了一个很古怪的男人。村民一开始发现到他，是在北山上，留着很长的头发，穿着麻衣草鞋，总是离人远远地。过了几天，男人下山来找村里的人讨饭吃，一张嘴说话就嘟嘟啦啦的，村里人都听不明白，感觉像是南方某个地方的方言。</p>
+<p>村民一开始还以为是山那边某个庄子里跑出来的疯子，但是这人要饭讨水客客气气的，还会作揖拱手，倒是不怎么傻。</p>
+<p>村长王老汉看他打扮说话很奇怪，想留他一下，看能不能帮他联系家人，但是这人哇哇呜呜地谢绝了村长的挽留，又跑山上去了。他看村里人和事物的眼神很莫名其妙，好奇又警惕。</p>
+<p>后来一段时间，那个人都没有再来。</p>
+<p>直到三天前的深夜，村民们突然听到一声轰天巨响，随即地动山摇，好似山崩。被惊醒的村民打着灯前往后山，却发现山坡地面塌陷一大块。天稍稍亮后，才看清楚，山坡的塌陷面积约一里长，好像山底下被掏空了。</p>
+<p>前来的民警进行了初步勘察，却只发现遗留在陷坑西侧边缘的一双草鞋，鞋底已经磨烂，村民们都认出正是那名奇怪男子的。</p>
+<p>当天下午，村里的一名中年妇女焦急地找到常海，说她公公王长贵昨天晚上去过后山，却一直没回来，早饭午饭都不见人影，一家人很担心。</p>
+<p>常队长便立即带人出发，并且让王老汉发动村里有空闲的成年男性，再次前往北边的后山。</p>
+<p>众人最终在山谷里的草甸子中发现了昏迷的老长贵，浑身赤裸，连内裤都没剩下。好在人只是昏迷，没有什么外伤。</p>
+<p>醒来的老长贵什么也不记得了，只知道昨晚随众人去查看情况，发觉山谷里有动静，就往下走了一段路，突然就没了意识。</p>
+<p>常海觉得蹊跷，经过问询，警方认为这名男子有重大嫌疑，展开了进一步调查。</p>
+<p>第二天下午，县里的派来一支勘探队伍协助调查山坡的陷坑。</p>
+<p>勘探队员对这一片的地质情况早就有过了解，此地地质条件十分稳定，地震的可能性很小，而且那夜并未监测到任何地震波，只可能是山体内部有问题。</p>
+<p>由于塌陷面积实在太大，各区域的塌陷深度也不一，深的可达4米，浅的地方只有几十公分，给勘探带来不小麻烦。但是在多处地方发现了封土和裸漏的青砖，众人意识到，这片地方有可能是一座古墓！</p>
+<p>常海立即让警方建立起临时警戒保护区，县里也赶紧上报，请求派遣专业考古队做进一步调查。</p>
+<p>常海意识到那名奇怪的男子可能是个盗墓贼，但是孤身作案的盗墓贼属实少见，而且事发前还在村里如此引人注意。</p>
+<p>常海让人特意带回了那人遗留的衣服鞋子，这些东西也很奇怪，究竟什么样的人现在还会穿这些东西？</p>
+<p>其中可能会有有用信息，只能暂时保管起来。</p>
+<p>目前尚不知是否已经有文物失窃，常海立即组织了人员封山搜查。</p>
+<p>已经凌晨2点了，大家都已经筋疲力竭，常海只得让大家收队。</p>
+<p>“小吴，通知各小队，暂停搜寻，一天了大家都很辛苦，明天再说吧。“</p>
+<p>”是，常队！“</p>
+<p>常海没有离开的意思，他马上四十五了，在县公安局这些年经手的案子也不少，能力不错，但是现在的考核晋升也变得越来越困难，自己也不会巴结人，想要更进一步只能等待合适的机会。</p>
+<p>这是不是一个机会呢？常海没有把握。</p>
+<p>想到这里，他对此案的热情就消退了大半。</p>
+<p>……</p>
+<p>大山深处（待续）</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>狂想</category>
+      </categories>
+      <tags>
+        <tag>短篇小说</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【电影】Love, Death &amp; Robots (2022)</title>
+    <url>/2022/05/20/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91Love,%20Death%20&amp;%20Robots%20(2022)/</url>
+    <content><![CDATA[<img src="https://s2.loli.net/2022/05/20/JKDiTXtNgUVw1cs.jpg" alt="Love, Death & Robots (2022)" style="zoom:50%;" />
+
+<p>　　期待的爱死机第三季终于来了！昨天看了尝鲜版首集放映，对于本季质量就有了一些些放心，今天看完，总体质量有所回归，但还无法超越第一季。</p>
+<p>　　不变的幻想，期待未来，思考人类的结局。</p>
+<p>　　期待同时又担忧乌托邦的未来，对人性的讽刺，对资本的批判……</p>
+<p>　　然而血腥重口、🤖、☠、👽等惯用题材却已经让人逐渐有些乏味，本季没有什么❤的元素，缺乏一些激情、浪漫和憧憬，不知道是不是因为这魔幻的两年，让制作者也感到绝望。</p>
+<p><img src="https://s2.loli.net/2022/05/20/V8EqoeS79gpDHPl.png" alt="E01 地球毁灭，只有🐱去了火星"></p>
+<p><img src="https://s2.loli.net/2022/05/20/fSb6vRMkdsBtCJZ.jpg" alt="E06 虫群预言人类命运"></p>
+<p>　　绝圣弃智，返璞归真，方有大同。很多时候真的会感到滑稽和讽刺，所谓追求知识，宣扬科学，最终都不外乎让看清事实真相的人为了独立和自由逃离和平稳定的社会运行轨道，特权和牺牲永远对立，如果谁都没有错，错的是谁？</p>
+<p>　　物质条件下的人类命运，最终很可能自我毁灭，也许消灭肉体、灵魂飞升真的是一种理想的归宿。</p>
+<p><img src="https://s2.loli.net/2022/05/20/Z7t6kC9EnSmwbcM.png" alt="E03 永远孤独的灵魂永恒"></p>
+<p>　　最后一集一开始没看太懂，只以为是批评人性的贪婪，原来也在反思殖民历史。“现代文明”，虽然没有了赤裸裸的贩卖剥削，但何尝停止了“殖民”？</p>
+]]></content>
+      <categories>
+        <category>杂趣</category>
+        <category>电影</category>
+      </categories>
+      <tags>
+        <tag>爱死机</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【电影】《月光骑士》的印欧人种与亚非文化</title>
     <url>/2022/05/06/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%9C%88%E5%85%89%E9%AA%91%E5%A3%AB%E3%80%8B%E7%9A%84%E5%8D%B0%E6%AC%A7%E4%BA%BA%E7%A7%8D%E4%B8%8E%E4%BA%9A%E9%9D%9E%E6%96%87%E5%8C%96/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/05/06/rW1XFwmpT8Dq4dB.jpg" alt="moonknight"></p>
@@ -4330,56 +4330,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【电影】突然发现1994</title>
-    <url>/2022/06/02/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B01994/</url>
-    <content><![CDATA[<p>　　准备看《梁祝》（1994）的时候，注意到《东邪西毒》也是1994年的，再搜一下自己的库，原来那一年还有好多经典。</p>
-<h3 id="活着"><a href="#活着" class="headerlink" title="活着"></a>活着</h3><p><img src="https://s2.loli.net/2022/06/02/xG96r2moCtMPkdF.jpg" alt="1994-06-30(中国香港) / 1994-05-17(戛纳电影节)"></p>
-<h3 id="重庆森林"><a href="#重庆森林" class="headerlink" title="重庆森林"></a>重庆森林</h3><p><img src="https://s2.loli.net/2022/06/02/HJF8DoqbBzECLvy.jpg" alt="1994-07-14(中国香港)"></p>
-<h3 id="梁祝"><a href="#梁祝" class="headerlink" title="梁祝"></a>梁祝</h3><p><img src="https://s2.loli.net/2022/06/02/aGZstjAcPNST7XF.jpg" alt="1994-08-13(中国香港)"></p>
-<h3 id="阳光灿烂的日子"><a href="#阳光灿烂的日子" class="headerlink" title="阳光灿烂的日子"></a>阳光灿烂的日子</h3><p><img src="https://s2.loli.net/2022/06/02/1EneUJtCjzXw3GQ.jpg" alt="1995-08-21(中国大陆) / 1995-06-28(中国香港) / 1994-09-09(威尼斯电影节)"></p>
-<h3 id="东邪西毒"><a href="#东邪西毒" class="headerlink" title="东邪西毒"></a>东邪西毒</h3><p><img src="https://s2.loli.net/2022/06/02/Y8IX3Ro9OUuz2WA.jpg" alt="1994-09-17(中国大陆) / 1994-09-12(威尼斯电影节)"></p>
-<h3 id="肖申克的救赎"><a href="#肖申克的救赎" class="headerlink" title="肖申克的救赎"></a>肖申克的救赎</h3><p><img src="https://s2.loli.net/2022/06/02/g2J41ktHmAcWpNV.jpg" alt="1994-09-10(多伦多电影节) / 1994-10-14(美国)"></p>
-<h3 id="阿甘正传"><a href="#阿甘正传" class="headerlink" title="阿甘正传"></a>阿甘正传</h3><p><img src="https://s2.loli.net/2022/06/02/1CrYb6e5SaJl74X.jpg" alt="1994-06-23(洛杉矶首映) / 1994-07-06(美国)"></p>
-<h3 id="这个杀手不太冷"><a href="#这个杀手不太冷" class="headerlink" title="这个杀手不太冷"></a>这个杀手不太冷</h3><p><img src="https://s2.loli.net/2022/06/02/8vxb9piFYLnea3G.jpg" alt="1994-09-14(法国)"></p>
-]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>电影</category>
-      </categories>
-      <tags>
-        <tag>难忘的经典</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【电影】《沙丘》</title>
-    <url>/2022/01/08/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B2%99%E4%B8%98%E3%80%8B/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/05/18/E2wCmqSk8dZhoAU.jpg" alt="沙丘"></p>
-<p>　　看完了，并不怎么难懂，我想观众评价的“看不懂”，并不是说真看不懂剧情，我看下来已经基本理出了大概的世界观和背景，而是“看不懂”拍这个有何意义。一如我看《异形》系列，或许对于那个时代来讲很超前，画面很震撼。然而，于今而言，只觉得莫名其妙。</p>
-<p>　　戏剧化程式的演出在反映到电影上，也就是如此，很无聊。</p>
-<p>　　如果在一万年后，人类社会重回封建制度，那真应该彻底灭亡了。如果救世主，可以通过临危摆烂过危局，我想我会选择立马自杀，赶紧见到上帝或者撒旦，跟这个虚假的尘世游戏说拜拜。如果预言者存在，那天选之人确实真应该摆烂，反正都将注定，何必徒增奈何。</p>
-<p>　　理性、逻辑，已经成为我观赏科幻、现实、剧情等题材评判的第一标准，如果都有偶然，不如去看爽文改编，真是过瘾刺激，或者看好莱坞，不带脑子都行，小孩子都直呼看懂了！过瘾！</p>
-<p>　　如果想思考哲学、宗教问题，不如看一看哲学史，其中选几个符合自己追求的人物流派，好好看一看其著作。想就通过这样一部电影这个上升到哲学高度，幻想人类的未来，真是太可笑了，不过是陈米翻炒，就端上桌当炒饭了？不用说原著深刻影响了后来的诸多经典作品，我就是喜欢后来的青出于蓝，就是不喜欢这个最早结出的酸涩果子。现在让我评价《异形》系列，我依然只有一个字：“烂！”</p>
-<p>　　2022年，这样一部以西方人味道独特的中世纪口水的蘸出来的偏狭、离谱、故作深度的影片，被一些的原著粉吹捧，实在感叹人的复杂。作为一部面向大众而不是粉丝专享的电影，激起如此大的评价分化，就已经是失败了。</p>
-<p>　　不过想到现在的疫情，也好无所谓了，现实离谱一点，其实比电影很多时候故作自然的多此一举套路自然多了，还好笑。</p>
-<p>　　截取一些比较有趣的评论：</p>
-<blockquote>
-<p>　　“要我说沙丘是一个已经‘过时’的科幻叙事，就像中国学院派的电影，有一种一看你就能感觉出来的那个味儿，它曾经辉煌过，但是你不可否认这已经不是主流的了。”</p>
-<p>　　“我个人不太喜欢一些太空歌剧片，尤其是那种在太空未来背景上演封建迂腐老套内容的故事，而且后面去查了沙丘原小说内容，虽然小说一直很受捧在当时也非常新颖，但有些情节确实有局限甚至看得不适。”</p>
-<p>　　“恕我直言，沙丘系列和星球大战这种著名的太空歌剧其实没有什么看头，就是批了一层科幻皮的古典戏剧罢了，就像是哈姆雷特的太空版，所以才被称为太空歌剧，这种小说的科幻元素实在是泛善可陈，反而到处充斥着帝国，家族，皇帝这些封建元素，戏剧冲突对中国人也不新鲜，同样是古典小说，四大名著不更有戏剧张力?拍成电影也就是看看特效罢了，看睡着了也完全不用羞愧，本来太空歌剧就几乎是已经被淘汰的科幻小说类型，真想写有幻想元素的古代争霸，你为什么不写奇幻?比如冰与火之歌就很好看。觉得漫威电影不是科幻片没问题，本来就是披着科幻皮的动作片英雄片，但也不必觉得沙丘这种片子高人一等，要鄙视，你也得拿黑客帝国，银翼杀手，太空漫游，这些真正的经典科幻作品来。太空歌剧的片子在中国都票房欠佳，比如星球大战，原因上面已经说过了，而不是什么观众水平太低。”</p>
-<p>　　“时代性不能是剧情垃圾过头的借口，老书新拍就要考虑老套幼稚的剧情能不能被接受。”</p>
-<p>　　“虽然说这是各位科普的什么科幻鼻祖，但是这些设定在现在的眼光看来就是过时了。这么星际穿越的科技搞不来凯夫拉纤维？最后这就是把欧洲中世纪贵族权利争斗搬到了太空中。再怎么尬吹，这部也不是神作。”</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>杂趣</category>
-        <category>电影</category>
-      </categories>
-      <tags>
-        <tag>科幻</tag>
-        <tag>😐一般</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【电影】《浊水漂流》</title>
     <url>/2022/02/26/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B5%8A%E6%B0%B4%E6%BC%82%E6%B5%81%E3%80%8B/</url>
     <content><![CDATA[<p><img src="https://s2.loli.net/2022/05/18/ansp38uoAemQvcq.png" alt="浊水漂流"></p>
@@ -4414,50 +4364,53 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【讀經札記】周易</title>
-    <url>/2022/07/17/%E3%80%90%E8%AE%80%E7%B6%93%E6%9C%AD%E8%A8%98%E3%80%91%E5%91%A8%E6%98%93/</url>
-    <content><![CDATA[<p>《漢書·藝文志》班固：</p>
+    <title>【电影】《沙丘》</title>
+    <url>/2022/01/08/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E3%80%8A%E6%B2%99%E4%B8%98%E3%80%8B/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/05/18/E2wCmqSk8dZhoAU.jpg" alt="沙丘"></p>
+<p>　　看完了，并不怎么难懂，我想观众评价的“看不懂”，并不是说真看不懂剧情，我看下来已经基本理出了大概的世界观和背景，而是“看不懂”拍这个有何意义。一如我看《异形》系列，或许对于那个时代来讲很超前，画面很震撼。然而，于今而言，只觉得莫名其妙。</p>
+<p>　　戏剧化程式的演出在反映到电影上，也就是如此，很无聊。</p>
+<p>　　如果在一万年后，人类社会重回封建制度，那真应该彻底灭亡了。如果救世主，可以通过临危摆烂过危局，我想我会选择立马自杀，赶紧见到上帝或者撒旦，跟这个虚假的尘世游戏说拜拜。如果预言者存在，那天选之人确实真应该摆烂，反正都将注定，何必徒增奈何。</p>
+<p>　　理性、逻辑，已经成为我观赏科幻、现实、剧情等题材评判的第一标准，如果都有偶然，不如去看爽文改编，真是过瘾刺激，或者看好莱坞，不带脑子都行，小孩子都直呼看懂了！过瘾！</p>
+<p>　　如果想思考哲学、宗教问题，不如看一看哲学史，其中选几个符合自己追求的人物流派，好好看一看其著作。想就通过这样一部电影这个上升到哲学高度，幻想人类的未来，真是太可笑了，不过是陈米翻炒，就端上桌当炒饭了？不用说原著深刻影响了后来的诸多经典作品，我就是喜欢后来的青出于蓝，就是不喜欢这个最早结出的酸涩果子。现在让我评价《异形》系列，我依然只有一个字：“烂！”</p>
+<p>　　2022年，这样一部以西方人味道独特的中世纪口水的蘸出来的偏狭、离谱、故作深度的影片，被一些的原著粉吹捧，实在感叹人的复杂。作为一部面向大众而不是粉丝专享的电影，激起如此大的评价分化，就已经是失败了。</p>
+<p>　　不过想到现在的疫情，也好无所谓了，现实离谱一点，其实比电影很多时候故作自然的多此一举套路自然多了，还好笑。</p>
+<p>　　截取一些比较有趣的评论：</p>
 <blockquote>
-<p>易曰：「宓戲氏仰觀象於天，俯觀法於地，觀鳥獸之文，與地之宜，近取諸身，遠取諸物，於是始作八卦，以通神明之德，以類萬物之情。」至于殷、周之際，紂在上位，逆天暴物，文王以諸侯順命而行道，天人之占可得而效，於是重易六爻，作上下篇。孔氏為之彖、象、繫辭、文言、序卦之屬十篇。故曰易道深矣，人更三聖，世歷三古。</p>
-</blockquote>
-<p>《周易正義卷第一·第四論卦辭、爻辭誰作》孔穎達：</p>
-<blockquote>
-<p>其周易繫辭凡有二說。</p>
-<p>一說所以卦辭爻辭並是文王所作。知者案：《繫辭》云：「易之興也，其於中古乎！作易者，其有憂患乎！」又曰：「易之興也，其當殷之末世，周之盛德邪！當文王與紂之事邪！」又《乾鑿度》云：「垂皇策者犧，卦道演德者文，成命者孔。」《通卦驗》又云：「蒼牙通靈，昌之成，孔演命，明道經。」準此諸文，伏犧制卦，文王繫辭，孔子作十翼，易歷三聖，只謂此也。故史遷云「文王囚而演易」，卽是「作易者其有憂患乎」。鄭學之徒並依此說也。</p>
-<p>二以為驗爻辭多是文王後事。案：升卦六四「王用亨于岐山」，武王克殷之後始追號文王為王，若爻辭是文王所制，不應云「王用亨于岐山」。又明夷六五「箕子之明夷」，武王觀兵之後，箕子始被囚奴，文王不宜豫言箕子之明夷。又既濟九五「東鄰殺牛，不如西鄰之禴祭」。說者皆云西鄰謂文王，東鄰謂紂。文王之時紂尚南面，豈容自言已德受福勝殷，又欲抗君之國，遂言東西相鄰而已。又《左傳》：「韓宣子適魯，見易象云：吾乃知周公之德」，周公被流言之謗，亦得為憂患也。</p>
-<p>驗此諸說，以為卦辭文王，爻辭周公。馬融、陸績等並同此說，今依而用之，所以只言三聖，不數周公者，以父統子業故也。</p>
-<p>案《禮稽命徵》曰：「文王見禮壞樂崩，道孤無主，故設禮經三百，威儀三千。」其三百三千卽周公所制周官儀禮，明文王本有此意，周公述而成之，故繫之文王。然則易之爻辭，蓋亦是文王本意，故易緯但言文王也。</p>
+<p>　　“要我说沙丘是一个已经‘过时’的科幻叙事，就像中国学院派的电影，有一种一看你就能感觉出来的那个味儿，它曾经辉煌过，但是你不可否认这已经不是主流的了。”</p>
+<p>　　“我个人不太喜欢一些太空歌剧片，尤其是那种在太空未来背景上演封建迂腐老套内容的故事，而且后面去查了沙丘原小说内容，虽然小说一直很受捧在当时也非常新颖，但有些情节确实有局限甚至看得不适。”</p>
+<p>　　“恕我直言，沙丘系列和星球大战这种著名的太空歌剧其实没有什么看头，就是批了一层科幻皮的古典戏剧罢了，就像是哈姆雷特的太空版，所以才被称为太空歌剧，这种小说的科幻元素实在是泛善可陈，反而到处充斥着帝国，家族，皇帝这些封建元素，戏剧冲突对中国人也不新鲜，同样是古典小说，四大名著不更有戏剧张力?拍成电影也就是看看特效罢了，看睡着了也完全不用羞愧，本来太空歌剧就几乎是已经被淘汰的科幻小说类型，真想写有幻想元素的古代争霸，你为什么不写奇幻?比如冰与火之歌就很好看。觉得漫威电影不是科幻片没问题，本来就是披着科幻皮的动作片英雄片，但也不必觉得沙丘这种片子高人一等，要鄙视，你也得拿黑客帝国，银翼杀手，太空漫游，这些真正的经典科幻作品来。太空歌剧的片子在中国都票房欠佳，比如星球大战，原因上面已经说过了，而不是什么观众水平太低。”</p>
+<p>　　“时代性不能是剧情垃圾过头的借口，老书新拍就要考虑老套幼稚的剧情能不能被接受。”</p>
+<p>　　“虽然说这是各位科普的什么科幻鼻祖，但是这些设定在现在的眼光看来就是过时了。这么星际穿越的科技搞不来凯夫拉纤维？最后这就是把欧洲中世纪贵族权利争斗搬到了太空中。再怎么尬吹，这部也不是神作。”</p>
 </blockquote>
 ]]></content>
       <categories>
-        <category>寸进</category>
-        <category>读书</category>
-        <category>讀經</category>
+        <category>杂趣</category>
+        <category>电影</category>
       </categories>
       <tags>
-        <tag>持续更新</tag>
-        <tag>十三经</tag>
-        <tag>周易</tag>
+        <tag>科幻</tag>
+        <tag>😐一般</tag>
       </tags>
   </entry>
   <entry>
-    <title>【讀經札記】尚書</title>
-    <url>/2022/02/25/%E3%80%90%E8%AE%80%E7%B6%93%E6%9C%AD%E8%A8%98%E3%80%91%E5%B0%9A%E6%9B%B8/</url>
-    <content><![CDATA[<p>《尚書正義·序》孔穎達：</p>
-<blockquote>
-<p>“竊以古人言語，惟在達情，雖複時或取象，不必辭皆有意。若其言必託數，經悉對文，斯乃鼓怒浪于平流，震驚飆於靜樹，使教者煩而多惑，學者勞而少功。過猶不及，良為此也。”</p>
-</blockquote>
-<p>　　治學一道，其猶難哉！</p>
+    <title>【电影】突然发现1994</title>
+    <url>/2022/06/02/%E3%80%90%E7%94%B5%E5%BD%B1%E3%80%91%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B01994/</url>
+    <content><![CDATA[<p>　　准备看《梁祝》（1994）的时候，注意到《东邪西毒》也是1994年的，再搜一下自己的库，原来那一年还有好多经典。</p>
+<h3 id="活着"><a href="#活着" class="headerlink" title="活着"></a>活着</h3><p><img src="https://s2.loli.net/2022/06/02/xG96r2moCtMPkdF.jpg" alt="1994-06-30(中国香港) / 1994-05-17(戛纳电影节)"></p>
+<h3 id="重庆森林"><a href="#重庆森林" class="headerlink" title="重庆森林"></a>重庆森林</h3><p><img src="https://s2.loli.net/2022/06/02/HJF8DoqbBzECLvy.jpg" alt="1994-07-14(中国香港)"></p>
+<h3 id="梁祝"><a href="#梁祝" class="headerlink" title="梁祝"></a>梁祝</h3><p><img src="https://s2.loli.net/2022/06/02/aGZstjAcPNST7XF.jpg" alt="1994-08-13(中国香港)"></p>
+<h3 id="阳光灿烂的日子"><a href="#阳光灿烂的日子" class="headerlink" title="阳光灿烂的日子"></a>阳光灿烂的日子</h3><p><img src="https://s2.loli.net/2022/06/02/1EneUJtCjzXw3GQ.jpg" alt="1995-08-21(中国大陆) / 1995-06-28(中国香港) / 1994-09-09(威尼斯电影节)"></p>
+<h3 id="东邪西毒"><a href="#东邪西毒" class="headerlink" title="东邪西毒"></a>东邪西毒</h3><p><img src="https://s2.loli.net/2022/06/02/Y8IX3Ro9OUuz2WA.jpg" alt="1994-09-17(中国大陆) / 1994-09-12(威尼斯电影节)"></p>
+<h3 id="肖申克的救赎"><a href="#肖申克的救赎" class="headerlink" title="肖申克的救赎"></a>肖申克的救赎</h3><p><img src="https://s2.loli.net/2022/06/02/g2J41ktHmAcWpNV.jpg" alt="1994-09-10(多伦多电影节) / 1994-10-14(美国)"></p>
+<h3 id="阿甘正传"><a href="#阿甘正传" class="headerlink" title="阿甘正传"></a>阿甘正传</h3><p><img src="https://s2.loli.net/2022/06/02/1CrYb6e5SaJl74X.jpg" alt="1994-06-23(洛杉矶首映) / 1994-07-06(美国)"></p>
+<h3 id="这个杀手不太冷"><a href="#这个杀手不太冷" class="headerlink" title="这个杀手不太冷"></a>这个杀手不太冷</h3><p><img src="https://s2.loli.net/2022/06/02/8vxb9piFYLnea3G.jpg" alt="1994-09-14(法国)"></p>
 ]]></content>
       <categories>
-        <category>寸进</category>
-        <category>读书</category>
-        <category>讀經</category>
+        <category>杂趣</category>
+        <category>电影</category>
       </categories>
       <tags>
-        <tag>持续更新</tag>
-        <tag>十三经</tag>
-        <tag>尚书</tag>
+        <tag>难忘的经典</tag>
       </tags>
   </entry>
   <entry>
@@ -4550,6 +4503,69 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【讀經札記】周易</title>
+    <url>/2022/07/17/%E3%80%90%E8%AE%80%E7%B6%93%E6%9C%AD%E8%A8%98%E3%80%91%E5%91%A8%E6%98%93/</url>
+    <content><![CDATA[<p>《漢書·藝文志》班固：</p>
+<blockquote>
+<p>易曰：「宓戲氏仰觀象於天，俯觀法於地，觀鳥獸之文，與地之宜，近取諸身，遠取諸物，於是始作八卦，以通神明之德，以類萬物之情。」至于殷、周之際，紂在上位，逆天暴物，文王以諸侯順命而行道，天人之占可得而效，於是重易六爻，作上下篇。孔氏為之彖、象、繫辭、文言、序卦之屬十篇。故曰易道深矣，人更三聖，世歷三古。</p>
+</blockquote>
+<p>《周易正義卷第一·第四論卦辭、爻辭誰作》孔穎達：</p>
+<blockquote>
+<p>其周易繫辭凡有二說。</p>
+<p>一說所以卦辭爻辭並是文王所作。知者案：《繫辭》云：「易之興也，其於中古乎！作易者，其有憂患乎！」又曰：「易之興也，其當殷之末世，周之盛德邪！當文王與紂之事邪！」又《乾鑿度》云：「垂皇策者犧，卦道演德者文，成命者孔。」《通卦驗》又云：「蒼牙通靈，昌之成，孔演命，明道經。」準此諸文，伏犧制卦，文王繫辭，孔子作十翼，易歷三聖，只謂此也。故史遷云「文王囚而演易」，卽是「作易者其有憂患乎」。鄭學之徒並依此說也。</p>
+<p>二以為驗爻辭多是文王後事。案：升卦六四「王用亨于岐山」，武王克殷之後始追號文王為王，若爻辭是文王所制，不應云「王用亨于岐山」。又明夷六五「箕子之明夷」，武王觀兵之後，箕子始被囚奴，文王不宜豫言箕子之明夷。又既濟九五「東鄰殺牛，不如西鄰之禴祭」。說者皆云西鄰謂文王，東鄰謂紂。文王之時紂尚南面，豈容自言已德受福勝殷，又欲抗君之國，遂言東西相鄰而已。又《左傳》：「韓宣子適魯，見易象云：吾乃知周公之德」，周公被流言之謗，亦得為憂患也。</p>
+<p>驗此諸說，以為卦辭文王，爻辭周公。馬融、陸績等並同此說，今依而用之，所以只言三聖，不數周公者，以父統子業故也。</p>
+<p>案《禮稽命徵》曰：「文王見禮壞樂崩，道孤無主，故設禮經三百，威儀三千。」其三百三千卽周公所制周官儀禮，明文王本有此意，周公述而成之，故繫之文王。然則易之爻辭，蓋亦是文王本意，故易緯但言文王也。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>读书</category>
+        <category>讀經</category>
+      </categories>
+      <tags>
+        <tag>持续更新</tag>
+        <tag>十三经</tag>
+        <tag>周易</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【讀經札記】尚書</title>
+    <url>/2022/02/25/%E3%80%90%E8%AE%80%E7%B6%93%E6%9C%AD%E8%A8%98%E3%80%91%E5%B0%9A%E6%9B%B8/</url>
+    <content><![CDATA[<p>《尚書正義·序》孔穎達：</p>
+<blockquote>
+<p>“竊以古人言語，惟在達情，雖複時或取象，不必辭皆有意。若其言必託數，經悉對文，斯乃鼓怒浪于平流，震驚飆於靜樹，使教者煩而多惑，學者勞而少功。過猶不及，良為此也。”</p>
+</blockquote>
+<p>　　治學一道，其猶難哉！</p>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>读书</category>
+        <category>讀經</category>
+      </categories>
+      <tags>
+        <tag>持续更新</tag>
+        <tag>十三经</tag>
+        <tag>尚书</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【记梦】二则</title>
+    <url>/2020/04/03/%E3%80%90%E8%AE%B0%E6%A2%A6%E3%80%91%E4%BA%8C%E5%88%99/</url>
+    <content><![CDATA[<h2 id="野猪"><a href="#野猪" class="headerlink" title="野猪"></a>野猪</h2><p>　　前天早上的一个梦：<br>　　一头硕大且精瘦的野猪翻过了我家院墙，我很惊慌，以为它将要袭击我们，但是并没有。野猪哼哼唧唧的撩动长牙，背靠在墙脚下，没有什么进一步动作。<br>　　这头野猪跟寻常的有很大不同。首先，体型很大，有一匹马高，但比马壮实多了，身上近乎没有赘肉，这一点单看它四条结实的长腿就能想象出来。其次，我家院子里种了很多菜，这头野猪翻进墙来却对这些新鲜的蔬菜不闻不问，只是呼哧呼哧的在原地喘气。如果总体概括起来，这头野猪看上去十分凶猛，但是却很丑（想象着以野猪的眼光来看），除了头部，其它地方都觉得很奇怪，在族群之中也许就是异类。<br>　　梦中的想象很离奇，我不知道它为什么而来，来了之后又没有任何举动。<br>　　之后，街坊邻居家的青壮年就来帮忙，大家在我家楼上策划着怎么把野猪捆起来杀掉……
+　　</p>
+<h2 id="高考"><a href="#高考" class="headerlink" title="高考"></a>高考</h2><p>　　今天早上的梦，是关于高三的。<br>　　现在的记忆已不怎么清晰了，虽然才只过了半天时间。有些梦就是这样容易遗忘。<br>　　梦中我回到了高三的学校，但是又不完全是高中的样子，掺杂了许多初中学校的事物。<br>　　应该是一个早上吧，我在一到六楼间没有缘由的上上下下，跑到了好几个教室中，有的空无一人，有的满满当当。我跑上来六楼最东端的那间教室，梦中没有想起来，现在才想起这就是高一未分班时候的教室，我在……9班？好像是吧。理论上是在逸夫楼（高一高二都在老校区，我们那届就在逸夫楼）。<br>　　教室里人很多，门也开着，大家在叽叽喳喳的闲聊玩闹。门口坐着几个人，背靠在墙上，一女生很惊讶的认出了我，而我一时间对她并没有什么印象，依稀中记得好像有这个人。她说：“呀呵，你是回来看看我们吗？”我没有回答，转过头来又是一个人认出了我，而我忘了谁是谁了。<br>　　辗辗转转，我下了楼，进了一间教室。<br>　　这间教室人都在嗷嗷叫的读书，这里的人就比较熟了，都是分班后的同学，文科🚀班。班主任坐在讲台上写着什么东西，我一直很疑惑为什么班主任喜欢在嗷嗷背书的教室里写东西，教案或者备课吧，真的能专注吗？<br>　　我意识到这时间应该是高三了，就轻车熟路的走向我的座位，路过几个熟悉的男生，他们一边假装背书一边提醒我：“赶紧赶紧，你咋又迟到了，小心老班怼你。”我心虚的赶紧到位置上坐下。那一瞬间，心里突然发虚：整天玩整天玩还考什么大学，肯定考不上了，他们都在用功背书，而我在瞎几把晃悠，没戏了。<br>　　额恩？清醒了一点，我应该，好像，该考研了吧？但是也在天天玩？不会真的考不上了吧？</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>记梦</category>
+      </categories>
+      <tags>
+        <tag>狂想不达米亚</tag>
+        <tag>记梦</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【记梦】太空坠落</title>
     <url>/2022/11/22/%E3%80%90%E8%AE%B0%E6%A2%A6%E3%80%91%E5%A4%AA%E7%A9%BA%E5%9D%A0%E8%90%BD/</url>
     <content><![CDATA[<p>旋转、漂流、坠落……</p>
@@ -4628,22 +4644,6 @@ tags:
       </categories>
       <tags>
         <tag>狂想不达米亚</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【记梦】二则</title>
-    <url>/2020/04/03/%E3%80%90%E8%AE%B0%E6%A2%A6%E3%80%91%E4%BA%8C%E5%88%99/</url>
-    <content><![CDATA[<h2 id="野猪"><a href="#野猪" class="headerlink" title="野猪"></a>野猪</h2><p>　　前天早上的一个梦：<br>　　一头硕大且精瘦的野猪翻过了我家院墙，我很惊慌，以为它将要袭击我们，但是并没有。野猪哼哼唧唧的撩动长牙，背靠在墙脚下，没有什么进一步动作。<br>　　这头野猪跟寻常的有很大不同。首先，体型很大，有一匹马高，但比马壮实多了，身上近乎没有赘肉，这一点单看它四条结实的长腿就能想象出来。其次，我家院子里种了很多菜，这头野猪翻进墙来却对这些新鲜的蔬菜不闻不问，只是呼哧呼哧的在原地喘气。如果总体概括起来，这头野猪看上去十分凶猛，但是却很丑（想象着以野猪的眼光来看），除了头部，其它地方都觉得很奇怪，在族群之中也许就是异类。<br>　　梦中的想象很离奇，我不知道它为什么而来，来了之后又没有任何举动。<br>　　之后，街坊邻居家的青壮年就来帮忙，大家在我家楼上策划着怎么把野猪捆起来杀掉……
-　　</p>
-<h2 id="高考"><a href="#高考" class="headerlink" title="高考"></a>高考</h2><p>　　今天早上的梦，是关于高三的。<br>　　现在的记忆已不怎么清晰了，虽然才只过了半天时间。有些梦就是这样容易遗忘。<br>　　梦中我回到了高三的学校，但是又不完全是高中的样子，掺杂了许多初中学校的事物。<br>　　应该是一个早上吧，我在一到六楼间没有缘由的上上下下，跑到了好几个教室中，有的空无一人，有的满满当当。我跑上来六楼最东端的那间教室，梦中没有想起来，现在才想起这就是高一未分班时候的教室，我在……9班？好像是吧。理论上是在逸夫楼（高一高二都在老校区，我们那届就在逸夫楼）。<br>　　教室里人很多，门也开着，大家在叽叽喳喳的闲聊玩闹。门口坐着几个人，背靠在墙上，一女生很惊讶的认出了我，而我一时间对她并没有什么印象，依稀中记得好像有这个人。她说：“呀呵，你是回来看看我们吗？”我没有回答，转过头来又是一个人认出了我，而我忘了谁是谁了。<br>　　辗辗转转，我下了楼，进了一间教室。<br>　　这间教室人都在嗷嗷叫的读书，这里的人就比较熟了，都是分班后的同学，文科🚀班。班主任坐在讲台上写着什么东西，我一直很疑惑为什么班主任喜欢在嗷嗷背书的教室里写东西，教案或者备课吧，真的能专注吗？<br>　　我意识到这时间应该是高三了，就轻车熟路的走向我的座位，路过几个熟悉的男生，他们一边假装背书一边提醒我：“赶紧赶紧，你咋又迟到了，小心老班怼你。”我心虚的赶紧到位置上坐下。那一瞬间，心里突然发虚：整天玩整天玩还考什么大学，肯定考不上了，他们都在用功背书，而我在瞎几把晃悠，没戏了。<br>　　额恩？清醒了一点，我应该，好像，该考研了吧？但是也在天天玩？不会真的考不上了吧？</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>记梦</category>
-      </categories>
-      <tags>
-        <tag>狂想不达米亚</tag>
-        <tag>记梦</tag>
       </tags>
   </entry>
   <entry>
@@ -4759,123 +4759,6 @@ tags:
       <tags>
         <tag>道教</tag>
         <tag>书法</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【读书】一些古代地理名词</title>
-    <url>/2022/02/25/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E4%B8%80%E4%BA%9B%E5%8F%A4%E4%BB%A3%E5%9C%B0%E7%90%86%E5%90%8D%E8%AF%8D/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/05/12/s83odaSyp7JjtYD.jpg" alt="古地理名词解"></p>
-<h1 id="一-山东、山西"><a href="#一-山东、山西" class="headerlink" title="一 山东、山西"></a>一 山东、山西</h1><p>　　山东、山西成为省名，是元朝以后的事。古史上的山东、山西和现代的位置大不相同。春秋战国时间，秦国和东方各国以崤山为界，东方六国统称“山东”（山左），崤山以西的秦国，称为“山西”（山右）。唐代以后，又以太行山以东（以平原为主）为山东，太行山以西（以山脉高原为主）为山西。</p>
-<h1 id="二-关内、关外、关中"><a href="#二-关内、关外、关中" class="headerlink" title="二 关内、关外、关中"></a>二 关内、关外、关中</h1><p>　　在春秋战国时期，秦国和东方各国以函谷关为界，函谷关是秦国东方的主要关口和门户，“关内”特指秦国，“关外”特指东方各国。此时的“关”，特指函谷关。到了近代，“关内”“关外”的词意发了变化，“关”特指山海关。“关内”指山海外以里的各省区。“关外”指山海关以外的东北三省。<br>　　历史上的“关中”，是指陕西处四关之中，东边有函谷关，南边有峣关、武关，西边有散关、庞关，北边有萧关、临晋关，是谓“关中”。现代所称“关中”，仅指陕西中部的秦川平原，范围已大为缩小。</p>
-<h1 id="三-河东、河西、河南、河北"><a href="#三-河东、河西、河南、河北" class="headerlink" title="三 河东、河西、河南、河北"></a>三 河东、河西、河南、河北</h1><p><img src="https://s2.loli.net/2022/05/12/A4Be8fRrjCkJsMI.jpg" alt="河内外1"></p>
-<p>　　“河”在古籍中专指黄河。陕西、山西交界处黄河呈北、南流向，秦汉以后将山西中南部地区称为“河东”（因在黄河以东）（唐末李克用被封为河东节度史，驻晋阳，今太原)，将处于黄河以西的陕西称为“河西”。唐朝时，“河西”则指黄河河套以西的甘肃、青海。“河西走廊”就因在黄河以西而得名。黄河进入华北平原后，基本上呈东西走向，所以将黄河以南地区称为“河南”，以北地区称为“河北”，后来逐渐演变为省级行政区名称。</p>
-<p><img src="https://s2.loli.net/2022/05/12/MgkQuSUjbD2E7Z4.jpg" alt="河内外2"></p>
-<h1 id="四-江东、江南"><a href="#四-江东、江南" class="headerlink" title="四 江东、江南"></a>四 江东、江南</h1><p>　　“江”在古籍中专指长江。指长江以东地区，古人以东为左，故又称“江左”、“江表”。长江在自金陵以上至九江一段为南北走向，古有中原进入南方吴地的主要渡口，江之东地区称为“江东”，因此地区在长江的东南方，故又称“江南”。后来江南的范围大大扩大，长江中下游的南部统称“江南”。</p>
-<h1 id="五-岭南"><a href="#五-岭南" class="headerlink" title="五 岭南"></a>五 岭南</h1><p>　　原是指中国南方的南岭山脉之南的地区。历史上，唐朝岭南道，也包括曾经属于中国皇朝统治的越南红河三角洲一带。在宋代以后，越南北部才分离出去。岭南之概念逐渐将越南排除在外。现在提及到岭南一词，特指广东、广西、海南、香港、澳门五省区区。</p>
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>读书</category>
-      </categories>
-      <tags>
-        <tag>文化常识</tag>
-        <tag>古代地理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【读书】五德终始</title>
-    <url>/2022/07/26/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E4%BA%94%E5%BE%B7%E7%BB%88%E5%A7%8B/</url>
-    <content><![CDATA[<p>　　五德终始的理论有相生说、相克说，秦汉即有争论，顾颉刚《五德终始说下的政治和历史》（收录入《古史辩自序》，对相关内容有极为详尽的讨论。本文内容参考张富祥《&lt;国语·周语下&gt;伶州鸠语中的天象资料辨伪》。</p>
-<h1 id="五行相生"><a href="#五行相生" class="headerlink" title="五行相生"></a>五行相生</h1><p>　　五行相生说在现存古籍中始见于董仲舒的《春秋繁露》。</p>
-<p>　　《世经》中所记载的“五德”体系：</p>
-<table>
-<thead>
-<tr>
-<th>帝王</th>
-<th>德</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>太昊帝（伏羲）</td>
-<td>德始于木，故为帝太昊。</td>
-</tr>
-<tr>
-<td>炎帝</td>
-<td>以火承木，故为炎帝。</td>
-</tr>
-<tr>
-<td>黄帝</td>
-<td>火生土，故为土德</td>
-</tr>
-<tr>
-<td>少昊帝</td>
-<td>土生金，故为金德</td>
-</tr>
-<tr>
-<td>颛顼帝</td>
-<td>金生水，故为水德</td>
-</tr>
-<tr>
-<td>帝喾</td>
-<td>水生木，故为木德</td>
-</tr>
-<tr>
-<td>唐帝（尧）</td>
-<td>木生火，故为火德</td>
-</tr>
-<tr>
-<td>虞帝（舜）</td>
-<td>火生土，故为土德</td>
-</tr>
-<tr>
-<td>伯禹（大禹）</td>
-<td>土生金，故为金德</td>
-</tr>
-<tr>
-<td>成汤</td>
-<td>金生水，故为水德</td>
-</tr>
-<tr>
-<td>周武王</td>
-<td>水生木，故为木德</td>
-</tr>
-</tbody></table>
-<p>　　西汉末，刘歆作《三统历》引《世经》，倡汉为火德说，其根据即《易·说卦传》中的“帝出乎《震》”一语（《震》卦属东、为木）。并认为共工在火木之间，秦王朝在木火之间，都当有水德，但皆因“伯而不王”、“任知刑以强”，非是正常的五行之序，所以在他们的系统中没有二者的地位，均被当作“闰位”处理。</p>
-<table>
-<thead>
-<tr>
-<th>五德</th>
-<th>元素</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>土德</td>
-<td>正朔未详，服色尚黄，数以五为纪，音律尚黄钟</td>
-</tr>
-<tr>
-<td>木德</td>
-<td>岁首建寅，服色尚青，数以八为纪，音律尚姑洗</td>
-</tr>
-<tr>
-<td>金德</td>
-<td>岁首建丑，服色尚白，数以九为纪，音律尚无射</td>
-</tr>
-<tr>
-<td>火德</td>
-<td>岁首建子，服色尚赤，数以七为纪，音律尚林钟</td>
-</tr>
-<tr>
-<td>水德</td>
-<td>正朔未详，服色尚黑，数以六为纪，音律尚大吕</td>
-</tr>
-</tbody></table>
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>读书</category>
-      </categories>
-      <tags>
-        <tag>阴阳五行</tag>
       </tags>
   </entry>
   <entry>
@@ -5300,6 +5183,123 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【读书】一些古代地理名词</title>
+    <url>/2022/02/25/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E4%B8%80%E4%BA%9B%E5%8F%A4%E4%BB%A3%E5%9C%B0%E7%90%86%E5%90%8D%E8%AF%8D/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/05/12/s83odaSyp7JjtYD.jpg" alt="古地理名词解"></p>
+<h1 id="一-山东、山西"><a href="#一-山东、山西" class="headerlink" title="一 山东、山西"></a>一 山东、山西</h1><p>　　山东、山西成为省名，是元朝以后的事。古史上的山东、山西和现代的位置大不相同。春秋战国时间，秦国和东方各国以崤山为界，东方六国统称“山东”（山左），崤山以西的秦国，称为“山西”（山右）。唐代以后，又以太行山以东（以平原为主）为山东，太行山以西（以山脉高原为主）为山西。</p>
+<h1 id="二-关内、关外、关中"><a href="#二-关内、关外、关中" class="headerlink" title="二 关内、关外、关中"></a>二 关内、关外、关中</h1><p>　　在春秋战国时期，秦国和东方各国以函谷关为界，函谷关是秦国东方的主要关口和门户，“关内”特指秦国，“关外”特指东方各国。此时的“关”，特指函谷关。到了近代，“关内”“关外”的词意发了变化，“关”特指山海关。“关内”指山海外以里的各省区。“关外”指山海关以外的东北三省。<br>　　历史上的“关中”，是指陕西处四关之中，东边有函谷关，南边有峣关、武关，西边有散关、庞关，北边有萧关、临晋关，是谓“关中”。现代所称“关中”，仅指陕西中部的秦川平原，范围已大为缩小。</p>
+<h1 id="三-河东、河西、河南、河北"><a href="#三-河东、河西、河南、河北" class="headerlink" title="三 河东、河西、河南、河北"></a>三 河东、河西、河南、河北</h1><p><img src="https://s2.loli.net/2022/05/12/A4Be8fRrjCkJsMI.jpg" alt="河内外1"></p>
+<p>　　“河”在古籍中专指黄河。陕西、山西交界处黄河呈北、南流向，秦汉以后将山西中南部地区称为“河东”（因在黄河以东）（唐末李克用被封为河东节度史，驻晋阳，今太原)，将处于黄河以西的陕西称为“河西”。唐朝时，“河西”则指黄河河套以西的甘肃、青海。“河西走廊”就因在黄河以西而得名。黄河进入华北平原后，基本上呈东西走向，所以将黄河以南地区称为“河南”，以北地区称为“河北”，后来逐渐演变为省级行政区名称。</p>
+<p><img src="https://s2.loli.net/2022/05/12/MgkQuSUjbD2E7Z4.jpg" alt="河内外2"></p>
+<h1 id="四-江东、江南"><a href="#四-江东、江南" class="headerlink" title="四 江东、江南"></a>四 江东、江南</h1><p>　　“江”在古籍中专指长江。指长江以东地区，古人以东为左，故又称“江左”、“江表”。长江在自金陵以上至九江一段为南北走向，古有中原进入南方吴地的主要渡口，江之东地区称为“江东”，因此地区在长江的东南方，故又称“江南”。后来江南的范围大大扩大，长江中下游的南部统称“江南”。</p>
+<h1 id="五-岭南"><a href="#五-岭南" class="headerlink" title="五 岭南"></a>五 岭南</h1><p>　　原是指中国南方的南岭山脉之南的地区。历史上，唐朝岭南道，也包括曾经属于中国皇朝统治的越南红河三角洲一带。在宋代以后，越南北部才分离出去。岭南之概念逐渐将越南排除在外。现在提及到岭南一词，特指广东、广西、海南、香港、澳门五省区区。</p>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>读书</category>
+      </categories>
+      <tags>
+        <tag>文化常识</tag>
+        <tag>古代地理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【读书】五德终始</title>
+    <url>/2022/07/26/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E4%BA%94%E5%BE%B7%E7%BB%88%E5%A7%8B/</url>
+    <content><![CDATA[<p>　　五德终始的理论有相生说、相克说，秦汉即有争论，顾颉刚《五德终始说下的政治和历史》（收录入《古史辩自序》，对相关内容有极为详尽的讨论。本文内容参考张富祥《&lt;国语·周语下&gt;伶州鸠语中的天象资料辨伪》。</p>
+<h1 id="五行相生"><a href="#五行相生" class="headerlink" title="五行相生"></a>五行相生</h1><p>　　五行相生说在现存古籍中始见于董仲舒的《春秋繁露》。</p>
+<p>　　《世经》中所记载的“五德”体系：</p>
+<table>
+<thead>
+<tr>
+<th>帝王</th>
+<th>德</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>太昊帝（伏羲）</td>
+<td>德始于木，故为帝太昊。</td>
+</tr>
+<tr>
+<td>炎帝</td>
+<td>以火承木，故为炎帝。</td>
+</tr>
+<tr>
+<td>黄帝</td>
+<td>火生土，故为土德</td>
+</tr>
+<tr>
+<td>少昊帝</td>
+<td>土生金，故为金德</td>
+</tr>
+<tr>
+<td>颛顼帝</td>
+<td>金生水，故为水德</td>
+</tr>
+<tr>
+<td>帝喾</td>
+<td>水生木，故为木德</td>
+</tr>
+<tr>
+<td>唐帝（尧）</td>
+<td>木生火，故为火德</td>
+</tr>
+<tr>
+<td>虞帝（舜）</td>
+<td>火生土，故为土德</td>
+</tr>
+<tr>
+<td>伯禹（大禹）</td>
+<td>土生金，故为金德</td>
+</tr>
+<tr>
+<td>成汤</td>
+<td>金生水，故为水德</td>
+</tr>
+<tr>
+<td>周武王</td>
+<td>水生木，故为木德</td>
+</tr>
+</tbody></table>
+<p>　　西汉末，刘歆作《三统历》引《世经》，倡汉为火德说，其根据即《易·说卦传》中的“帝出乎《震》”一语（《震》卦属东、为木）。并认为共工在火木之间，秦王朝在木火之间，都当有水德，但皆因“伯而不王”、“任知刑以强”，非是正常的五行之序，所以在他们的系统中没有二者的地位，均被当作“闰位”处理。</p>
+<table>
+<thead>
+<tr>
+<th>五德</th>
+<th>元素</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>土德</td>
+<td>正朔未详，服色尚黄，数以五为纪，音律尚黄钟</td>
+</tr>
+<tr>
+<td>木德</td>
+<td>岁首建寅，服色尚青，数以八为纪，音律尚姑洗</td>
+</tr>
+<tr>
+<td>金德</td>
+<td>岁首建丑，服色尚白，数以九为纪，音律尚无射</td>
+</tr>
+<tr>
+<td>火德</td>
+<td>岁首建子，服色尚赤，数以七为纪，音律尚林钟</td>
+</tr>
+<tr>
+<td>水德</td>
+<td>正朔未详，服色尚黑，数以六为纪，音律尚大吕</td>
+</tr>
+</tbody></table>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>读书</category>
+      </categories>
+      <tags>
+        <tag>阴阳五行</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【读书】六十四卦符号及大衍筮法首占</title>
     <url>/2022/05/22/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E5%85%AD%E5%8D%81%E5%9B%9B%E5%8D%A6%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%A4%A7%E8%A1%8D%E7%AD%AE%E6%B3%95%E9%A6%96%E5%8D%A0/</url>
     <content><![CDATA[<h1 id="六十四卦"><a href="#六十四卦" class="headerlink" title="六十四卦"></a>六十四卦</h1><center>乾三连，坤六断</center>
@@ -5492,52 +5492,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【读书】古代墓葬中死者头向的问题</title>
-    <url>/2022/11/11/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E5%8F%A4%E4%BB%A3%E5%A2%93%E8%91%AC%E4%B8%AD%E6%AD%BB%E8%80%85%E5%A4%B4%E5%90%91%E7%9A%84%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>中国先秦乃至史前墓葬中死者头向与墓葬方位的问题是否有迹可循，是否可以反映当时的社会习俗、宗教观念，是一个我在本科时期，有一次听冯时教授的讲座就产生的疑问。</p>
-<p><a href="https://lsxy.henu.edu.cn/info/1072/2550.htm">冯时教授应邀主讲《考古学前沿二——天文考古学与上古宇宙观》-历史文化学院 (henu.edu.cn)</a></p>
-<p>冯时教授莅临河大讲座的那天晚上，一时轰动，本来安排的教室都不够用，临时换到了综合楼的大教室，尽管如此也有好多人不得不坐在地上听讲。我早早占到了一个靠近前排的位置，在提问环节我请教冯教授关于濮阳西水坡遗址M45蚌塑龙虎墓的墓主头向方位问题，这个墓中有著名的“中华第一龙”。</p>
-<p><img src="https://s2.loli.net/2022/11/11/usmRNab98OIEzHf.jpg" alt="西水坡遗址M45"></p>
-<p>冯时教授的讲座内容在当年中国社会科学出版社出版的《文明以止：上古的天文、思想与制度》中都有提及，许多论述都令人耳目一新。</p>
-<p>我很疑惑墓主头向西南的问题，是否反映了古人的方位观？但古人不是以北为尊吗？</p>
-<p>冯老师当时给出的解答我当时未完全理解，也忘了大半。大概可能是，尊北尊南都存在，《西游记》中有著名的“南天门”，大概意指南方是亡者升天的入口，所以朝南。</p>
-<blockquote>
-<p>在神话传说中，南天门是人界和仙界的入口处，神话故事中因为发生的故事大多与人界有关系，所以南天门走的最多。<br>南天门，下面是南赡部洲，是东土大唐，中华大国的地界。<br>往西，是西天门，下面西海，属西牛贺洲。那里妖怪横行，地处荒芜，人人向佛。<br>往北，是北天门，下面北海，属北俱芦洲，那是不周山。当年共工怒触不周山，把天弄塌了，才引出女娲补天的那段神话故事。<br>往东，是东天门，下面东海，属东胜神洲，那是仙岛林立，其中有十洲三岛最为出名。那仙岛是散仙居住的洞府，据山海经说原来那些仙岛都是由大海龟驮着的，被某巨人国的钓了几个乌龟，于是沉了两座，还剩下那座叫蓬莱，而巨人国因为此事触犯了天帝，结果被罚身体缩小到常人大小。</p>
-</blockquote>
-<p>但后来我又常常思考，中国人的方位观到底是怎样的？几千年中发生了什么样的变迁？不同情况下的方位朝向是否可以对古人的世界观做出新的解读？</p>
-<p>在阅读《时惟礼崇》的过程中，徐坚老师举出了许多古代墓葬的平面图，我发现早商时期的盘龙城楼子湾M3的死者头向就朝北：</p>
-<p><img src="https://s2.loli.net/2022/11/11/Tn5fKDaerpqRF8j.png" alt="盘龙城楼子湾M3"></p>
-<p>后面还发现很多不同的葬式，如殷墟西区1713号墓墓主头向东南、殷墟花园庄东地M48墓墓主头向东北、张家坡M257西周墓墓主头向正北、洛阳东郊C5M1135西周墓墓主头向西北等等，显示出了葬式的不规律不定性，但是中国古人“视死如生”的生死观念往往对于墓葬极为重视，在各个方面都尽量规范以填满“礼”的存在感，显然不可能在最基本的下葬方位上随随便便。</p>
-<p>很多人都知道墓葬是个“风水”问题，但这个“风水”玄说定然晚出。相传晋代郭璞著《葬书》，解释阴宅的置办道理，全书都在详细讲解如何根据山水、阴阳、五行、八卦安置墓地，并且给“风水”最早下了定义：“葬者，乘生气也，气乘风则散，界水则止，古人聚之使不散，行之使有止，故谓之风水，风水之法，得水为上，藏风次之。”可见风水之术也即相地之术，核心即是人们对居住或者埋葬环境进行的选择和宇宙变化规律的处理，以达到趋吉避凶的目的。风水之术不仅可选阴宅，后来更广泛应用于各类阳宅。</p>
-<p>《四库总目提要》中对《葬书》有这样评价：</p>
-<blockquote>
-<p>旧本题晋郭璞撰。璞有《雅注》，已着录。葬地之说，莫知其所自来。<strong>周官冢人、墓大夫之职称皆以族葬，是三代以上葬不择地之明证。《汉书·艺文志·形法家》始以宫宅地形与相人、相物之书并列，则其术自汉始萌，然尚未专言葬法也。</strong>《后汉书·袁安传》，载安父没，访求葬地，道逢三书生，指一处，当世为上公，安从之，故累世贵盛。是其术盛传于东汉以后。其特以是擅名者，则璞为最着。考璞本传，<strong>载璞从河东郭公受《青囊中书》九卷，遂洞天文五行卜筮之术。璞门人赵载尝窃《青囊书》为火所焚，不言其尝着《葬书》。</strong>《唐志》有《葬书地脉经》一卷，《葬书五阴》一卷，又不言为璞所作。<strong>惟《宋志》载有璞《葬书》一卷，是其书自宋始出，其后方技之家，竞相粉饰，遂有二十篇之多。</strong>蔡元定病其芜杂，为删去十二篇，存其八篇。吴澄又病蔡氏未尽蕴奥，择至纯者为内篇，精粗纯驳相半者为外篇，粗驳当去而姑存者为杂篇。新喻刘则章亲受之吴氏，为之注释。今此本所分内篇、外篇、杂篇，盖犹吴氏之旧本。至注之出于刘氏与否，则不可考矣。书中词意简质，犹术士通文义者所作。必以为出自璞手，则无可征信。或世见璞葬母暨阳，卒远永患，故以是书归之欤。其中遗体受荫之说，使后世惑于祸福，或稽留而不葬，或迁徙而不恒，巳深为通儒所辟。然如乘生气一言，其义颇精。又所云葬者原其起，乘其止，乘风则散，界水则止诸条，亦多明白简当。王祎《青岩丛录》曰：<strong>择地以葬，其术本于晋郭璞</strong>。所著《葬书》二十篇，多后人增以谬妄之说。蔡元定尝去其十二而存其八。后世之为其术者分为二宗，一曰宗庙之法。始于闽中，其源甚远。至宋王伋乃大行。其为说主于星卦，阳山阳向，阴山阴向，不相乖错，纯取八卦五星以定生克之理。其学浙中传之，而用之者甚鲜。一曰江西之法。肇于赣人杨筠松，曾文迪及赖大有、谢子逸辈，尤精其学。其为说主于形势，原其所起，即其所止，以定位向，专指龙穴砂水之相配，而他拘泥在所不论。今大江以南无不遵之者。二宗之说虽不相同，然皆本于郭氏者也云云。是后世言地学者皆以璞为鼻祖。故书虽依托，终不得而废欤。据《宋志》本名《葬书》，后来术家尊其说者改名《葬经》。毛晋汲古阁刻本亦承其讹，殊为失考。今仍题旧名，以从其朔云。</p>
-</blockquote>
-<p>由此可知，择地以葬虽然自郭璞开始就广泛地在民间推广，但《葬书》的出现实为宋代，以郭璞为作者定是伪托。当然也不排除是郭璞的门人弟子代代流传整理，逐渐形成了《葬书》，但总之这门理论的成形时期也决不会早于唐代。以没来由的晚近之学上证三代的风俗，实在站不住脚。</p>
-<p>如今我们能得到的最早的古人丧葬礼仪，在《周礼·春官宗伯》中可见：</p>
-<blockquote>
-<p>冢人：掌公墓之地，辨其兆域而为之图。先王之葬居中，以昭穆为左右。凡诸侯居左右以前，卿、大夫、士居后，各以其族。凡死于兵者，不入兆域。凡有功者居前。以爵等为丘封之度与其树数。大丧既有日，请度甫竁，遂为之尸；及竁，以度为丘隧，共丧之窆器；及葬，言鸾车象人；及窆，执斧以莅；遂入，藏凶器。</p>
-<p>正墓位，跸墓域，守墓禁。凡祭墓，为尸。凡诸侯及诸臣葬于墓者，授之兆，为之跸，均其禁。</p>
-<p>墓大夫：掌凡邦墓之地域，为之图。令国民族葬，而掌其禁令；正其位，掌其度数，使皆有私地域。凡争墓地者，听其狱讼。帅其属而巡墓厉，居其中之室以守之。</p>
-<p>职丧：掌诸侯之丧及卿、大夫、士凡有爵者之丧，以国之丧礼莅其禁令，序其事。凡国有司以王命有事焉，则诏赞主人。凡其丧祭，诏其号，治其礼。凡公有司之所共，职丧令之，趣其事。</p>
-</blockquote>
-<p>正如《四库提要》中所言，三代以上葬不择地，皆以族葬。</p>
-<p>那么，可以想象一下，早期的墓葬都有聚集性，他们的埋葬方式当有尊卑里外之分，卑贱者也许不太讲究，但最尊贵的那些定然有经过仔细考量过的埋葬规范，所以是值得仔细研究的。</p>
-<p>商周时期，共主观念的进一步强化，王权阶级与诸侯大夫也会出现严谨的礼仪规范，在阳世的祭祀礼仪中，这是毫无疑问的，而阴宅的建构除了随葬物和规模大小，基本的方位建构是否也存在这种差别呢？或者有着统一的社会共识，不同的墓主头向有着不同的意义内涵？</p>
-<p>其他地方的古代文明是否存在这样的问题呢？</p>
-<p>这里面有着许多值得挖掘的问题，我还没有去查询是否已经有相关的研究存在，暂且记录下来，留待进一步的探索。</p>
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>读书</category>
-      </categories>
-      <tags>
-        <tag>考古</tag>
-        <tag>发现</tag>
-        <tag>积累</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【读书】工作、消费和贫穷</title>
     <url>/2022/11/19/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E5%B7%A5%E4%BD%9C%E3%80%81%E6%B6%88%E8%B4%B9%E5%92%8C%E8%B4%AB%E7%A9%B7/</url>
     <content><![CDATA[<p>最近在读的两本书给了我很大的冲击，许多内容都极大的更新了我的世界观，解答了个人以往对于人生与工作的一些疑问。</p>
@@ -5652,24 +5606,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【课堂】图书分类应该讲究实用</title>
-    <url>/2022/04/20/%E3%80%90%E8%AF%BE%E5%A0%82%E3%80%91%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB%E5%BA%94%E8%AF%A5%E8%AE%B2%E7%A9%B6%E5%AE%9E%E7%94%A8/</url>
-    <content><![CDATA[<p>　　分类应该讲究实用</p>
-<p>　　可以采用多级分类，最高级（第一级）分类不能超过十个，十是人类直观感受的上限，人的手指、脚趾，人类自幼接受的识字教育就是从认识十个数字开始。</p>
-<p>　　第一级的分类上限方便人类开始接触并且认识分类科学，在此基础上向下分支延申，可以拓宽限制。</p>
-<p>　　分类的结构应该是相对均衡优美的，如果一个分类或者分支只有极其少的类项，或者一个分类或者分支的类项是其他分类的数倍，那么就要考虑少则并，多则分。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">国威老师目录学课上，杜威分类法与国会图书分类法。</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>寸进</category>
-        <category>课堂</category>
-      </categories>
-      <tags>
-        <tag>文献学</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【读书】摘录《时惟礼崇：东周以前青铜兵器的物质文化研究》</title>
     <url>/2022/11/11/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E6%91%98%E5%BD%95%E3%80%8A%E6%97%B6%E6%83%9F%E7%A4%BC%E5%B4%87%EF%BC%9A%E4%B8%9C%E5%91%A8%E4%BB%A5%E5%89%8D%E9%9D%92%E9%93%9C%E5%85%B5%E5%99%A8%E7%9A%84%E7%89%A9%E8%B4%A8%E6%96%87%E5%8C%96%E7%A0%94%E7%A9%B6%E3%80%8B/</url>
     <content><![CDATA[<p><em>《时惟礼崇：东周以前青铜兵器的物质文化研究》&#x2F;徐坚著.——修订本.——上海：上海古籍出版社，2021.5</em></p>
@@ -5685,6 +5621,52 @@ tags:
         <tag>三代</tag>
         <tag>青铜器</tag>
         <tag>摘录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【读书】古代墓葬中死者头向的问题</title>
+    <url>/2022/11/11/%E3%80%90%E8%AF%BB%E4%B9%A6%E3%80%91%E5%8F%A4%E4%BB%A3%E5%A2%93%E8%91%AC%E4%B8%AD%E6%AD%BB%E8%80%85%E5%A4%B4%E5%90%91%E7%9A%84%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>中国先秦乃至史前墓葬中死者头向与墓葬方位的问题是否有迹可循，是否可以反映当时的社会习俗、宗教观念，是一个我在本科时期，有一次听冯时教授的讲座就产生的疑问。</p>
+<p><a href="https://lsxy.henu.edu.cn/info/1072/2550.htm">冯时教授应邀主讲《考古学前沿二——天文考古学与上古宇宙观》-历史文化学院 (henu.edu.cn)</a></p>
+<p>冯时教授莅临河大讲座的那天晚上，一时轰动，本来安排的教室都不够用，临时换到了综合楼的大教室，尽管如此也有好多人不得不坐在地上听讲。我早早占到了一个靠近前排的位置，在提问环节我请教冯教授关于濮阳西水坡遗址M45蚌塑龙虎墓的墓主头向方位问题，这个墓中有著名的“中华第一龙”。</p>
+<p><img src="https://s2.loli.net/2022/11/11/usmRNab98OIEzHf.jpg" alt="西水坡遗址M45"></p>
+<p>冯时教授的讲座内容在当年中国社会科学出版社出版的《文明以止：上古的天文、思想与制度》中都有提及，许多论述都令人耳目一新。</p>
+<p>我很疑惑墓主头向西南的问题，是否反映了古人的方位观？但古人不是以北为尊吗？</p>
+<p>冯老师当时给出的解答我当时未完全理解，也忘了大半。大概可能是，尊北尊南都存在，《西游记》中有著名的“南天门”，大概意指南方是亡者升天的入口，所以朝南。</p>
+<blockquote>
+<p>在神话传说中，南天门是人界和仙界的入口处，神话故事中因为发生的故事大多与人界有关系，所以南天门走的最多。<br>南天门，下面是南赡部洲，是东土大唐，中华大国的地界。<br>往西，是西天门，下面西海，属西牛贺洲。那里妖怪横行，地处荒芜，人人向佛。<br>往北，是北天门，下面北海，属北俱芦洲，那是不周山。当年共工怒触不周山，把天弄塌了，才引出女娲补天的那段神话故事。<br>往东，是东天门，下面东海，属东胜神洲，那是仙岛林立，其中有十洲三岛最为出名。那仙岛是散仙居住的洞府，据山海经说原来那些仙岛都是由大海龟驮着的，被某巨人国的钓了几个乌龟，于是沉了两座，还剩下那座叫蓬莱，而巨人国因为此事触犯了天帝，结果被罚身体缩小到常人大小。</p>
+</blockquote>
+<p>但后来我又常常思考，中国人的方位观到底是怎样的？几千年中发生了什么样的变迁？不同情况下的方位朝向是否可以对古人的世界观做出新的解读？</p>
+<p>在阅读《时惟礼崇》的过程中，徐坚老师举出了许多古代墓葬的平面图，我发现早商时期的盘龙城楼子湾M3的死者头向就朝北：</p>
+<p><img src="https://s2.loli.net/2022/11/11/Tn5fKDaerpqRF8j.png" alt="盘龙城楼子湾M3"></p>
+<p>后面还发现很多不同的葬式，如殷墟西区1713号墓墓主头向东南、殷墟花园庄东地M48墓墓主头向东北、张家坡M257西周墓墓主头向正北、洛阳东郊C5M1135西周墓墓主头向西北等等，显示出了葬式的不规律不定性，但是中国古人“视死如生”的生死观念往往对于墓葬极为重视，在各个方面都尽量规范以填满“礼”的存在感，显然不可能在最基本的下葬方位上随随便便。</p>
+<p>很多人都知道墓葬是个“风水”问题，但这个“风水”玄说定然晚出。相传晋代郭璞著《葬书》，解释阴宅的置办道理，全书都在详细讲解如何根据山水、阴阳、五行、八卦安置墓地，并且给“风水”最早下了定义：“葬者，乘生气也，气乘风则散，界水则止，古人聚之使不散，行之使有止，故谓之风水，风水之法，得水为上，藏风次之。”可见风水之术也即相地之术，核心即是人们对居住或者埋葬环境进行的选择和宇宙变化规律的处理，以达到趋吉避凶的目的。风水之术不仅可选阴宅，后来更广泛应用于各类阳宅。</p>
+<p>《四库总目提要》中对《葬书》有这样评价：</p>
+<blockquote>
+<p>旧本题晋郭璞撰。璞有《雅注》，已着录。葬地之说，莫知其所自来。<strong>周官冢人、墓大夫之职称皆以族葬，是三代以上葬不择地之明证。《汉书·艺文志·形法家》始以宫宅地形与相人、相物之书并列，则其术自汉始萌，然尚未专言葬法也。</strong>《后汉书·袁安传》，载安父没，访求葬地，道逢三书生，指一处，当世为上公，安从之，故累世贵盛。是其术盛传于东汉以后。其特以是擅名者，则璞为最着。考璞本传，<strong>载璞从河东郭公受《青囊中书》九卷，遂洞天文五行卜筮之术。璞门人赵载尝窃《青囊书》为火所焚，不言其尝着《葬书》。</strong>《唐志》有《葬书地脉经》一卷，《葬书五阴》一卷，又不言为璞所作。<strong>惟《宋志》载有璞《葬书》一卷，是其书自宋始出，其后方技之家，竞相粉饰，遂有二十篇之多。</strong>蔡元定病其芜杂，为删去十二篇，存其八篇。吴澄又病蔡氏未尽蕴奥，择至纯者为内篇，精粗纯驳相半者为外篇，粗驳当去而姑存者为杂篇。新喻刘则章亲受之吴氏，为之注释。今此本所分内篇、外篇、杂篇，盖犹吴氏之旧本。至注之出于刘氏与否，则不可考矣。书中词意简质，犹术士通文义者所作。必以为出自璞手，则无可征信。或世见璞葬母暨阳，卒远永患，故以是书归之欤。其中遗体受荫之说，使后世惑于祸福，或稽留而不葬，或迁徙而不恒，巳深为通儒所辟。然如乘生气一言，其义颇精。又所云葬者原其起，乘其止，乘风则散，界水则止诸条，亦多明白简当。王祎《青岩丛录》曰：<strong>择地以葬，其术本于晋郭璞</strong>。所著《葬书》二十篇，多后人增以谬妄之说。蔡元定尝去其十二而存其八。后世之为其术者分为二宗，一曰宗庙之法。始于闽中，其源甚远。至宋王伋乃大行。其为说主于星卦，阳山阳向，阴山阴向，不相乖错，纯取八卦五星以定生克之理。其学浙中传之，而用之者甚鲜。一曰江西之法。肇于赣人杨筠松，曾文迪及赖大有、谢子逸辈，尤精其学。其为说主于形势，原其所起，即其所止，以定位向，专指龙穴砂水之相配，而他拘泥在所不论。今大江以南无不遵之者。二宗之说虽不相同，然皆本于郭氏者也云云。是后世言地学者皆以璞为鼻祖。故书虽依托，终不得而废欤。据《宋志》本名《葬书》，后来术家尊其说者改名《葬经》。毛晋汲古阁刻本亦承其讹，殊为失考。今仍题旧名，以从其朔云。</p>
+</blockquote>
+<p>由此可知，择地以葬虽然自郭璞开始就广泛地在民间推广，但《葬书》的出现实为宋代，以郭璞为作者定是伪托。当然也不排除是郭璞的门人弟子代代流传整理，逐渐形成了《葬书》，但总之这门理论的成形时期也决不会早于唐代。以没来由的晚近之学上证三代的风俗，实在站不住脚。</p>
+<p>如今我们能得到的最早的古人丧葬礼仪，在《周礼·春官宗伯》中可见：</p>
+<blockquote>
+<p>冢人：掌公墓之地，辨其兆域而为之图。先王之葬居中，以昭穆为左右。凡诸侯居左右以前，卿、大夫、士居后，各以其族。凡死于兵者，不入兆域。凡有功者居前。以爵等为丘封之度与其树数。大丧既有日，请度甫竁，遂为之尸；及竁，以度为丘隧，共丧之窆器；及葬，言鸾车象人；及窆，执斧以莅；遂入，藏凶器。</p>
+<p>正墓位，跸墓域，守墓禁。凡祭墓，为尸。凡诸侯及诸臣葬于墓者，授之兆，为之跸，均其禁。</p>
+<p>墓大夫：掌凡邦墓之地域，为之图。令国民族葬，而掌其禁令；正其位，掌其度数，使皆有私地域。凡争墓地者，听其狱讼。帅其属而巡墓厉，居其中之室以守之。</p>
+<p>职丧：掌诸侯之丧及卿、大夫、士凡有爵者之丧，以国之丧礼莅其禁令，序其事。凡国有司以王命有事焉，则诏赞主人。凡其丧祭，诏其号，治其礼。凡公有司之所共，职丧令之，趣其事。</p>
+</blockquote>
+<p>正如《四库提要》中所言，三代以上葬不择地，皆以族葬。</p>
+<p>那么，可以想象一下，早期的墓葬都有聚集性，他们的埋葬方式当有尊卑里外之分，卑贱者也许不太讲究，但最尊贵的那些定然有经过仔细考量过的埋葬规范，所以是值得仔细研究的。</p>
+<p>商周时期，共主观念的进一步强化，王权阶级与诸侯大夫也会出现严谨的礼仪规范，在阳世的祭祀礼仪中，这是毫无疑问的，而阴宅的建构除了随葬物和规模大小，基本的方位建构是否也存在这种差别呢？或者有着统一的社会共识，不同的墓主头向有着不同的意义内涵？</p>
+<p>其他地方的古代文明是否存在这样的问题呢？</p>
+<p>这里面有着许多值得挖掘的问题，我还没有去查询是否已经有相关的研究存在，暂且记录下来，留待进一步的探索。</p>
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>读书</category>
+      </categories>
+      <tags>
+        <tag>考古</tag>
+        <tag>发现</tag>
+        <tag>积累</tag>
       </tags>
   </entry>
   <entry>
@@ -6101,6 +6083,24 @@ tags:
       </tags>
   </entry>
   <entry>
+    <title>【课堂】图书分类应该讲究实用</title>
+    <url>/2022/04/20/%E3%80%90%E8%AF%BE%E5%A0%82%E3%80%91%E5%9B%BE%E4%B9%A6%E5%88%86%E7%B1%BB%E5%BA%94%E8%AF%A5%E8%AE%B2%E7%A9%B6%E5%AE%9E%E7%94%A8/</url>
+    <content><![CDATA[<p>　　分类应该讲究实用</p>
+<p>　　可以采用多级分类，最高级（第一级）分类不能超过十个，十是人类直观感受的上限，人的手指、脚趾，人类自幼接受的识字教育就是从认识十个数字开始。</p>
+<p>　　第一级的分类上限方便人类开始接触并且认识分类科学，在此基础上向下分支延申，可以拓宽限制。</p>
+<p>　　分类的结构应该是相对均衡优美的，如果一个分类或者分支只有极其少的类项，或者一个分类或者分支的类项是其他分类的数倍，那么就要考虑少则并，多则分。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">国威老师目录学课上，杜威分类法与国会图书分类法。</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>寸进</category>
+        <category>课堂</category>
+      </categories>
+      <tags>
+        <tag>文献学</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>学术资源导航（目录学集体作业）</title>
     <url>/2022/06/13/%E3%80%90%E8%AF%BE%E5%A0%82%E3%80%91%E5%AD%A6%E6%9C%AF%E8%B5%84%E6%BA%90%E5%AF%BC%E8%88%AA%EF%BC%88%E7%9B%AE%E5%BD%95%E5%AD%A6%E9%9B%86%E4%BD%93%E4%BD%9C%E4%B8%9A%EF%BC%89/</url>
     <content><![CDATA[<p><strong>本页内容不再更新，新导航站点已经部署到 <a href="https://wk-1999.github.io/navigation/cn/index.html">烟 海</a>，欢迎访问~</strong></p>
@@ -6401,24 +6401,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【随想】凡士林的味道</title>
-    <url>/2022/04/22/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%87%A1%E5%A3%AB%E6%9E%97%E7%9A%84%E5%91%B3%E9%81%93/</url>
-    <content><![CDATA[<p>　　凡士林第一次从哪里闻到的？</p>
-<p>　　21年实习时候，有一次外派去到温江，有很多材料物资，同事就叫了一辆货拉拉，司机的车上放了好几盒凡士林。那种味道好像很早前就闻到过，但是我们家从来不用，也就不知道是什么。</p>
-<p>　　从锦江到温江，有一个多小时的车程。师傅开着音响，好像是很俗的歌，车窗敞开，路上的风呼啸，也吹不散车内凡士林的味道。</p>
-<p>　　MIX2s到手了，白色外观和陶瓷手感真的太棒，只是可惜屏幕没那么靓。</p>
-<p>　　不知道本来就有还是我随手用六神喷了一下的缘故，现在使用起来总是有一种凡士林的味道。</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>实习</tag>
-        <tag>味道</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【随想】儿时夏天的味道</title>
     <url>/2023/06/07/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%84%BF%E6%97%B6%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%91%B3%E9%81%93/</url>
     <content><![CDATA[<p>　　看到标题，也许很多人第一时间想到的是糖果一类的零食，但我想说的并不是这个。关于我个人对于“味道”的特殊体验，之前写过几篇了，今天又“尝到”了新的味道，忍不住再写一篇。</p>
@@ -6437,6 +6419,82 @@ tags:
       <tags>
         <tag>味道</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>【随想】凡士林的味道</title>
+    <url>/2022/04/22/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%87%A1%E5%A3%AB%E6%9E%97%E7%9A%84%E5%91%B3%E9%81%93/</url>
+    <content><![CDATA[<p>　　凡士林第一次从哪里闻到的？</p>
+<p>　　21年实习时候，有一次外派去到温江，有很多材料物资，同事就叫了一辆货拉拉，司机的车上放了好几盒凡士林。那种味道好像很早前就闻到过，但是我们家从来不用，也就不知道是什么。</p>
+<p>　　从锦江到温江，有一个多小时的车程。师傅开着音响，好像是很俗的歌，车窗敞开，路上的风呼啸，也吹不散车内凡士林的味道。</p>
+<p>　　MIX2s到手了，白色外观和陶瓷手感真的太棒，只是可惜屏幕没那么靓。</p>
+<p>　　不知道本来就有还是我随手用六神喷了一下的缘故，现在使用起来总是有一种凡士林的味道。</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>实习</tag>
+        <tag>味道</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【随想】应是露花倒影</title>
+    <url>/2022/08/02/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%BA%94%E6%98%AF%E9%9C%B2%E8%8A%B1%E5%80%92%E5%BD%B1/</url>
+    <content><![CDATA[<p><img src="https://s2.loli.net/2022/08/02/tJWDAGaQU4OjhiT.jpg"></p>
+<p>　　下楼时候，看到垃圾车上一束新鲜的花，太阳那样大，花朵却没有蔫，不知道是送给哪个女孩，也不知道这花是不是送了出去。如果送了出去，女孩拒绝了，这哥们估计挺难受。</p>
+<p>　　一想，马上就七夕了，台海的局势也要因为一个老婆子的到来而升级，两岸一水间，不知能不能尽快如牛郎织女那般相会呢？而且，以后也不要分离。</p>
+<p>　　牛郎织女的故事，以前没有觉得太多不妥，现今来看，偷衣服的情节属实掺入的过分，仙凡之间倘如跨越这般鸿沟，是不是可以说纯粹的爱情呢？</p>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=983884716&bvid=BV1dt4y1G796&cid=788715937&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
+
+
+<p>　　但纯粹的爱情又是什么？纯粹的荷尔蒙？脑电波的共鸣？繁衍的冲动？这个问题，思考的太深入了，会让人严重怀疑人生的意义。</p>
+<p>　　有人说，如果年轻人不考虑爱情、结婚、生子，那么他的前半生一定会很快乐。</p>
+<p>　　后半生呢？</p>
+<p>　　大家哈哈大笑：等你活得到那时候再考虑吧！</p>
+<p>　　如果那样的话，成年之前，他们是无忧无虑的孩子；成年之后，他们是潇洒快活的浪子。浪到中年到来，一生已然过半，无论是否后悔，并且打算成家，已然无所谓，这个时候选择成家，多半是因为害怕孤独的晚年。</p>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=216412959&bvid=BV1aa411T759&cid=787789147&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
+
+
+<p>　　恩格斯没有后代，但是他和白恩士姐妹的感情经历了革命检验和时间磨砺。列宁没有后代，苏维埃之前他奔走革命，和妻子聚少离多，苏维埃成立之后，内忧外扰，英年早逝。周恩来总理也没有后代，因为早年的革命经历让邓颖超同志失去了怀孕能力。</p>
+<p>　　如果有了伟大的事业和伟大的理想，一个人的一生也并非必需婚姻和子孙来妆点，但真挚的爱情总是难能可贵，无需逃避。</p>
+<p>　　但想明白又如何，“你我皆凡人 生在人世间”。</p>
+<p>　　人一生下来，就奔跑在一条不能回头的绝路上，知道的越多，就会越容易陷入虚无和怀疑。无知者往往是幸福的。知识的大门是“潘多拉魔盒”，让锅里的蚂蚁知道自己在火上，告诉它们不用挣扎了，会让看客失去很多乐趣。</p>
+<p>　　所以，还会追求吗？</p>
+<p>　　如果害怕失去，可不可以不要选择拥有？</p>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
+<iframe src="//player.bilibili.com/player.html?aid=898936503&bvid=BV1EN4y1L76K&cid=787827637&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
+
+
+
+
+
+<blockquote>
+<p>如果你很喜欢很喜欢一个人，那么请保持朋友的距离，这样一辈子都不会失去 。人啊一旦有了贪念，就可能会失去，有些风景只能喜欢，不能收藏，就像有些人只适合遇见，却不适合牵手。</p>
+</blockquote>
+<p>　　行走在世界边缘，从不奢求，从不拥有。</p>
+<p>　　🤣🤣🤣高中时候的想法，但事实是，真的很难。俗世里的活人不可能断绝贪欲，就像蚂蚁会因为气味吸引爬上树梢，却被风吹落在水面上，拼命游啊，免得被小鱼儿吞掉。明明知道会上当，但是机会来临，你还会义无反顾，为生存，为欲望。</p>
+<p>　　少年时候写过一些小诗，回忆起来，有些还是很有趣的：</p>
+<blockquote>
+<p>风本无情叶有情／怎知离别树有伤／漂泊几度，方才明悟／当年之处，已无可伫</p>
+</blockquote>
+<p>　　人的一生，多数都在被人性和欲望牵引着走，临别之际，过往如梦，皆是露花倒影。</p>
+<blockquote>
+<center> 破阵乐·露花倒影</center>
+<center>　柳永</center>
+
+<p>　　露花倒影，烟芜蘸碧，灵沼波暖。金柳摇风树树，系彩舫龙舟遥岸。千步虹桥，参差雁齿，直趋水殿。绕金堤、曼衍鱼龙戏，簇娇春罗绮，喧天丝管。霁色荣光，望中似睹，蓬莱清浅。<br>　　时见。凤辇宸游，鸾觞禊饮，临翠水、开镐宴。两两轻舠飞画楫，竞夺锦标霞烂。罄欢娱，歌鱼藻，徘徊宛转。别有盈盈游女，各委明珠，争收翠羽，相将归远。渐觉云海沈沈，洞天日晚。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>随想</category>
+      </categories>
   </entry>
   <entry>
     <title>【随想】味道</title>
@@ -6530,78 +6588,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【随想】应是露花倒影</title>
-    <url>/2022/08/02/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E5%BA%94%E6%98%AF%E9%9C%B2%E8%8A%B1%E5%80%92%E5%BD%B1/</url>
-    <content><![CDATA[<p><img src="https://s2.loli.net/2022/08/02/tJWDAGaQU4OjhiT.jpg"></p>
-<p>　　下楼时候，看到垃圾车上一束新鲜的花，太阳那样大，花朵却没有蔫，不知道是送给哪个女孩，也不知道这花是不是送了出去。如果送了出去，女孩拒绝了，这哥们估计挺难受。</p>
-<p>　　一想，马上就七夕了，台海的局势也要因为一个老婆子的到来而升级，两岸一水间，不知能不能尽快如牛郎织女那般相会呢？而且，以后也不要分离。</p>
-<p>　　牛郎织女的故事，以前没有觉得太多不妥，现今来看，偷衣服的情节属实掺入的过分，仙凡之间倘如跨越这般鸿沟，是不是可以说纯粹的爱情呢？</p>
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=983884716&bvid=BV1dt4y1G796&cid=788715937&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
-
-
-<p>　　但纯粹的爱情又是什么？纯粹的荷尔蒙？脑电波的共鸣？繁衍的冲动？这个问题，思考的太深入了，会让人严重怀疑人生的意义。</p>
-<p>　　有人说，如果年轻人不考虑爱情、结婚、生子，那么他的前半生一定会很快乐。</p>
-<p>　　后半生呢？</p>
-<p>　　大家哈哈大笑：等你活得到那时候再考虑吧！</p>
-<p>　　如果那样的话，成年之前，他们是无忧无虑的孩子；成年之后，他们是潇洒快活的浪子。浪到中年到来，一生已然过半，无论是否后悔，并且打算成家，已然无所谓，这个时候选择成家，多半是因为害怕孤独的晚年。</p>
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=216412959&bvid=BV1aa411T759&cid=787789147&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
-
-
-<p>　　恩格斯没有后代，但是他和白恩士姐妹的感情经历了革命检验和时间磨砺。列宁没有后代，苏维埃之前他奔走革命，和妻子聚少离多，苏维埃成立之后，内忧外扰，英年早逝。周恩来总理也没有后代，因为早年的革命经历让邓颖超同志失去了怀孕能力。</p>
-<p>　　如果有了伟大的事业和伟大的理想，一个人的一生也并非必需婚姻和子孙来妆点，但真挚的爱情总是难能可贵，无需逃避。</p>
-<p>　　但想明白又如何，“你我皆凡人 生在人世间”。</p>
-<p>　　人一生下来，就奔跑在一条不能回头的绝路上，知道的越多，就会越容易陷入虚无和怀疑。无知者往往是幸福的。知识的大门是“潘多拉魔盒”，让锅里的蚂蚁知道自己在火上，告诉它们不用挣扎了，会让看客失去很多乐趣。</p>
-<p>　　所以，还会追求吗？</p>
-<p>　　如果害怕失去，可不可以不要选择拥有？</p>
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">
-<iframe src="//player.bilibili.com/player.html?aid=898936503&bvid=BV1EN4y1L76K&cid=787827637&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; Left: 0; top: 0;" ></iframe></div>
-
-
-
-
-
-<blockquote>
-<p>如果你很喜欢很喜欢一个人，那么请保持朋友的距离，这样一辈子都不会失去 。人啊一旦有了贪念，就可能会失去，有些风景只能喜欢，不能收藏，就像有些人只适合遇见，却不适合牵手。</p>
-</blockquote>
-<p>　　行走在世界边缘，从不奢求，从不拥有。</p>
-<p>　　🤣🤣🤣高中时候的想法，但事实是，真的很难。俗世里的活人不可能断绝贪欲，就像蚂蚁会因为气味吸引爬上树梢，却被风吹落在水面上，拼命游啊，免得被小鱼儿吞掉。明明知道会上当，但是机会来临，你还会义无反顾，为生存，为欲望。</p>
-<p>　　少年时候写过一些小诗，回忆起来，有些还是很有趣的：</p>
-<blockquote>
-<p>风本无情叶有情／怎知离别树有伤／漂泊几度，方才明悟／当年之处，已无可伫</p>
-</blockquote>
-<p>　　人的一生，多数都在被人性和欲望牵引着走，临别之际，过往如梦，皆是露花倒影。</p>
-<blockquote>
-<center> 破阵乐·露花倒影</center>
-<center>　柳永</center>
-
-<p>　　露花倒影，烟芜蘸碧，灵沼波暖。金柳摇风树树，系彩舫龙舟遥岸。千步虹桥，参差雁齿，直趋水殿。绕金堤、曼衍鱼龙戏，簇娇春罗绮，喧天丝管。霁色荣光，望中似睹，蓬莱清浅。<br>　　时见。凤辇宸游，鸾觞禊饮，临翠水、开镐宴。两两轻舠飞画楫，竞夺锦标霞烂。罄欢娱，歌鱼藻，徘徊宛转。别有盈盈游女，各委明珠，争收翠羽，相将归远。渐觉云海沈沈，洞天日晚。</p>
-</blockquote>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>随想</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>【随想】由书写而联想</title>
-    <url>/2021/07/24/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E7%94%B1%E4%B9%A6%E5%86%99%E8%80%8C%E8%81%94%E6%83%B3/</url>
-    <content><![CDATA[<p>　　贬抑书写文字的观点“逻各斯中心主义”在当代或许将更胜以往。我们知道柏拉图的三张床，理式的、现实的和画家模仿的，其中只有第一种是最真实的，而第三种画家的则是模仿的模仿，这种艺术的层面同样作用于文字层面，文字无论再精妙，也无法触及理式的真实，正如道家老子说的“道可道非常道”。<br>　　如今对这样的观点做新的解释，摄影术的出现让我们前所未有的同镜头前的一切事物发生关联，当今我们更可以随时随地看到听到那些处于镜头前的东西。<br>　　那么书写文字的意义又将如何？<br>　　我们书写着感受到的东西，却是经过个人的加工，镜头记录的却分毫毕现的做了还原，（当然拍摄者用个人手法做出想要的镜头效果）<br>　　三张床的理论是否还完整的恰如其分？</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>狂想不达米亚</tag>
-        <tag>灵感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【随想】无人驾驶和变革</title>
     <url>/2022/04/20/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%92%8C%E5%8F%98%E9%9D%A9/</url>
     <content><![CDATA[<p>　　物流公司应该会很关注无人驾驶技术的发展，但也许只有上层如此。</p>
@@ -6616,6 +6602,20 @@ tags:
       </categories>
       <tags>
         <tag>想法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【随想】由书写而联想</title>
+    <url>/2021/07/24/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E7%94%B1%E4%B9%A6%E5%86%99%E8%80%8C%E8%81%94%E6%83%B3/</url>
+    <content><![CDATA[<p>　　贬抑书写文字的观点“逻各斯中心主义”在当代或许将更胜以往。我们知道柏拉图的三张床，理式的、现实的和画家模仿的，其中只有第一种是最真实的，而第三种画家的则是模仿的模仿，这种艺术的层面同样作用于文字层面，文字无论再精妙，也无法触及理式的真实，正如道家老子说的“道可道非常道”。<br>　　如今对这样的观点做新的解释，摄影术的出现让我们前所未有的同镜头前的一切事物发生关联，当今我们更可以随时随地看到听到那些处于镜头前的东西。<br>　　那么书写文字的意义又将如何？<br>　　我们书写着感受到的东西，却是经过个人的加工，镜头记录的却分毫毕现的做了还原，（当然拍摄者用个人手法做出想要的镜头效果）<br>　　三张床的理论是否还完整的恰如其分？</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>狂想不达米亚</tag>
+        <tag>灵感</tag>
       </tags>
   </entry>
   <entry>
@@ -6636,6 +6636,27 @@ tags:
       </categories>
       <tags>
         <tag>教育</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【随想】薄情</title>
+    <url>/2020/04/01/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E8%96%84%E6%83%85/</url>
+    <content><![CDATA[<p>　　我是一个薄情的人吧，可能。</p>
+<p>　　之前就讨论过关于孤独，因为讨厌迎合，讨厌哀求别人，哭求施舍，我学着自己学、自己做。我一直向往的状态就是，有一个很独立的自我，不用依靠他人，迎合他人的目光。行走在世界的边缘，从不奢求，从不拥有。从一无所有的状态学会将自己全副武装，常常自我陶醉于预谋的畅想，思考未来怎么做。</p>
+<p>　　我不怕未来的不确定性，我相信自己能应付过来。而事实上在很多时候，未来都发生在计划之内，我在自己的节奏里生活。尽管有时候很忙，但也乐在其中，因为我的认知里，生活中的一切都是自找的，成功也好，麻烦也好，人都是自找的。</p>
+<p>　　我薄情，自己剖析自己很可恶。朋友很多，但是我有个毛病，很容易忘记别人名字。一切人都可以争取为朋友，但我不会，通常在被动中签下“友情”的契约。反过来，一切朋友都可以在下一秒相忘江湖。自认为是深受庄子的处世哲学所浸染：“泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。”</p>
+<p>　　感情是会中毒的，亲情、友情、爱情，毒发之时肝肠寸断。我薄情，要我对人用情至深很难，每个人了解到的他人都会有所缺失，而我展示给身边每个人的也只是其中一面。这不是见人说人话，见鬼说鬼话。这是一种保护。</p>
+<p>　　感情这种东西最会招惹麻烦了，而我是个很怕麻烦的人，是个想独立的人，我怕麻烦，所以我独立，所以我薄情。我如果展现给人迎合的面目，也绝不会是自己的本意，讨生活罢了。生活是很难的，偶尔也得做个样子，给大家面子，就可以给自己少惹麻烦。</p>
+<p>　　我很怕麻烦。怕麻烦自己，也烦麻烦别人。可是有时别人来麻烦我的时候，我大多时候会很尊重，如果答应了就会尽力做好。我的逻辑点顺着我自己的节奏走，常常就会踩到别人的不如意之处。往常我是不会深究的，避开，“打扰了，不好意思。”但是面对稍微亲近一点点人就会得寸进尺，以为对方可以理解，可以帮忙。面对不会拒绝的好人真是太难了，一不小心就伤到了对方。</p>
+<p>　　人最会自找麻烦了，而我不喜欢那种闭着眼瞎混，找一堆麻烦最后处理不掉的人，我很难对之提起同情。可是如果一个跟我亲近一点点的好人被我的麻烦惹上了，纠缠不开，我会很难过。</p>
+<p>　　生活比相声演员的嘴精彩，听相声笑别人，看生活笑自己。丧丧的感觉，不是很好，但是很让人清醒。</p>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>感情</tag>
       </tags>
   </entry>
   <entry>
@@ -6667,27 +6688,6 @@ tags:
       </tags>
   </entry>
   <entry>
-    <title>【随想】薄情</title>
-    <url>/2020/04/01/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E8%96%84%E6%83%85/</url>
-    <content><![CDATA[<p>　　我是一个薄情的人吧，可能。</p>
-<p>　　之前就讨论过关于孤独，因为讨厌迎合，讨厌哀求别人，哭求施舍，我学着自己学、自己做。我一直向往的状态就是，有一个很独立的自我，不用依靠他人，迎合他人的目光。行走在世界的边缘，从不奢求，从不拥有。从一无所有的状态学会将自己全副武装，常常自我陶醉于预谋的畅想，思考未来怎么做。</p>
-<p>　　我不怕未来的不确定性，我相信自己能应付过来。而事实上在很多时候，未来都发生在计划之内，我在自己的节奏里生活。尽管有时候很忙，但也乐在其中，因为我的认知里，生活中的一切都是自找的，成功也好，麻烦也好，人都是自找的。</p>
-<p>　　我薄情，自己剖析自己很可恶。朋友很多，但是我有个毛病，很容易忘记别人名字。一切人都可以争取为朋友，但我不会，通常在被动中签下“友情”的契约。反过来，一切朋友都可以在下一秒相忘江湖。自认为是深受庄子的处世哲学所浸染：“泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。”</p>
-<p>　　感情是会中毒的，亲情、友情、爱情，毒发之时肝肠寸断。我薄情，要我对人用情至深很难，每个人了解到的他人都会有所缺失，而我展示给身边每个人的也只是其中一面。这不是见人说人话，见鬼说鬼话。这是一种保护。</p>
-<p>　　感情这种东西最会招惹麻烦了，而我是个很怕麻烦的人，是个想独立的人，我怕麻烦，所以我独立，所以我薄情。我如果展现给人迎合的面目，也绝不会是自己的本意，讨生活罢了。生活是很难的，偶尔也得做个样子，给大家面子，就可以给自己少惹麻烦。</p>
-<p>　　我很怕麻烦。怕麻烦自己，也烦麻烦别人。可是有时别人来麻烦我的时候，我大多时候会很尊重，如果答应了就会尽力做好。我的逻辑点顺着我自己的节奏走，常常就会踩到别人的不如意之处。往常我是不会深究的，避开，“打扰了，不好意思。”但是面对稍微亲近一点点人就会得寸进尺，以为对方可以理解，可以帮忙。面对不会拒绝的好人真是太难了，一不小心就伤到了对方。</p>
-<p>　　人最会自找麻烦了，而我不喜欢那种闭着眼瞎混，找一堆麻烦最后处理不掉的人，我很难对之提起同情。可是如果一个跟我亲近一点点的好人被我的麻烦惹上了，纠缠不开，我会很难过。</p>
-<p>　　生活比相声演员的嘴精彩，听相声笑别人，看生活笑自己。丧丧的感觉，不是很好，但是很让人清醒。</p>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>感情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【随想】造物</title>
     <url>/2022/07/26/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E9%80%A0%E7%89%A9/</url>
     <content><![CDATA[<p>　　初民需要神灵，于是他们创造了神灵。</p>
@@ -6703,6 +6703,31 @@ tags:
       <tags>
         <tag>狂想不达米亚</tag>
         <tag>西部世界</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【随想】银魂-眼泪这东西</title>
+    <url>/2022/12/29/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E9%93%B6%E9%AD%82-%E7%9C%BC%E6%B3%AA%E8%BF%99%E4%B8%9C%E8%A5%BF/</url>
+    <content><![CDATA[<p>　　　　听好了 你们两个 眼泪这东西啊</p>
+<p>　　　　是只要流出来就能把难过和悲伤的情绪一起冲走的便利的玩意</p>
+<p>　　　　但是 等你们长大了就会知道</p>
+<p>　　　　人生里有区区泪水无法冲走的巨大悲伤</p>
+<p>　　　　也有不能让它随泪水流走的 切肤之痛</p>
+<p>　　　　所以 真正强大的人 越是想哭的时候 越会露出笑容</p>
+<p>　　　　承受住所有的痛苦和悲伤</p>
+<p>　　　　却还能笑得出来 背负着它们一起上路</p>
+<p>　　　　现在想哭的话就哭吧</p>
+<p>　　　　但是总有一天 你们俩也都要成为那样强大的武士</p>
+<div style="text-align:right;">——尾美一（银魂 264话）</div>
+]]></content>
+      <categories>
+        <category>人生忽然</category>
+        <category>随想</category>
+      </categories>
+      <tags>
+        <tag>摘录</tag>
+        <tag>动漫</tag>
+        <tag>银魂</tag>
       </tags>
   </entry>
   <entry>
@@ -6779,31 +6804,6 @@ tags:
         <tag>乐队</tag>
         <tag>民谣</tag>
         <tag>电音</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【随想】银魂-眼泪这东西</title>
-    <url>/2022/12/29/%E3%80%90%E9%9A%8F%E6%83%B3%E3%80%91%E9%93%B6%E9%AD%82-%E7%9C%BC%E6%B3%AA%E8%BF%99%E4%B8%9C%E8%A5%BF/</url>
-    <content><![CDATA[<p>　　　　听好了 你们两个 眼泪这东西啊</p>
-<p>　　　　是只要流出来就能把难过和悲伤的情绪一起冲走的便利的玩意</p>
-<p>　　　　但是 等你们长大了就会知道</p>
-<p>　　　　人生里有区区泪水无法冲走的巨大悲伤</p>
-<p>　　　　也有不能让它随泪水流走的 切肤之痛</p>
-<p>　　　　所以 真正强大的人 越是想哭的时候 越会露出笑容</p>
-<p>　　　　承受住所有的痛苦和悲伤</p>
-<p>　　　　却还能笑得出来 背负着它们一起上路</p>
-<p>　　　　现在想哭的话就哭吧</p>
-<p>　　　　但是总有一天 你们俩也都要成为那样强大的武士</p>
-<div style="text-align:right;">——尾美一（银魂 264话）</div>
-]]></content>
-      <categories>
-        <category>人生忽然</category>
-        <category>随想</category>
-      </categories>
-      <tags>
-        <tag>摘录</tag>
-        <tag>动漫</tag>
-        <tag>银魂</tag>
       </tags>
   </entry>
 </search>
