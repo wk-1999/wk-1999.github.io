@@ -8923,9 +8923,9 @@
         <category>动漫</category>
       </categories>
       <tags>
-        <tag>Fate</tag>
         <tag>动漫</tag>
         <tag>摘录</tag>
+        <tag>Fate</tag>
       </tags>
   </entry>
   <entry>
@@ -9416,9 +9416,9 @@
         <category>动漫</category>
       </categories>
       <tags>
+        <tag>银魂</tag>
         <tag>动漫</tag>
         <tag>摘录</tag>
-        <tag>银魂</tag>
       </tags>
   </entry>
   <entry>
@@ -12856,8 +12856,8 @@
       </categories>
       <tags>
         <tag>学术争议</tag>
-        <tag>天干地支</tag>
         <tag>历法</tag>
+        <tag>天干地支</tag>
         <tag>殷商</tag>
       </tags>
   </entry>
@@ -13062,9 +13062,9 @@
       </categories>
       <tags>
         <tag>学术争议</tag>
-        <tag>历法</tag>
         <tag>三代</tag>
         <tag>天文</tag>
+        <tag>历法</tag>
       </tags>
   </entry>
   <entry>
@@ -13098,7 +13098,7 @@
     <title>Hexo及Markdown常用写作语法</title>
     <url>/2022/07/11/%E3%80%90%E4%BB%A3%E7%A0%81%E3%80%91Hexo%E5%8F%8AMarkdown%E5%B8%B8%E7%94%A8%E5%86%99%E4%BD%9C%E8%AF%AD%E6%B3%95/</url>
     <content><![CDATA[<h1 id="开头属性"><a href="#开头属性" class="headerlink" title="开头属性"></a>开头属性</h1><p>采用统一的yaml格式，用三条短横线上下分隔</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">categories: #&#x27;单层分类&#x27;</span><br><span class="line">- 一级分类</span><br><span class="line">- 二级分类</span><br><span class="line">tags: </span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">no_word_count: true #关闭字数统计</span><br><span class="line">comments: false #关闭评论</span><br><span class="line">albums: [[&quot;$url&quot;,&quot;$fileName&quot;],[&quot;$url&quot;,&quot;$fileName&quot;]] #图册，Picgo自定义链接格式</span><br><span class="line">copyright: true #版权声明</span><br><span class="line">reward: true #打赏</span><br><span class="line">date:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">updated: 2022-10-07 18:10:01categories: #&#x27;单层分类&#x27;</span><br><span class="line">- 一级分类</span><br><span class="line">- 二级分类</span><br><span class="line">tags: </span><br><span class="line">- 标签1</span><br><span class="line">- 标签2</span><br><span class="line">no_word_count: true #关闭字数统计</span><br><span class="line">comments: false #关闭评论</span><br><span class="line">albums: [[&quot;$url&quot;,&quot;$fileName&quot;],[&quot;$url&quot;,&quot;$fileName&quot;]] #图册，Picgo自定义链接格式</span><br><span class="line">copyright: true #版权声明</span><br><span class="line">reward: true #打赏</span><br><span class="line">date:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
 
 <h1 id="正文-Markdown"><a href="#正文-Markdown" class="headerlink" title="正文 | Markdown"></a>正文 | Markdown</h1><h2 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">| 表头1|表头2|表头3|表头4</span><br><span class="line">|-| :- | :-: | -: |</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br><span class="line">|默认左对齐|左对齐|居中对齐|右对齐|</span><br></pre></td></tr></table></figure>
 
@@ -14352,7 +14352,7 @@
 <p>　　记录最近发生的事情，和脑子里的乱七八糟。</p>
 <p>　　如果有朋友关心我的近况，可以给他们看这个博客。</p>
 <p>　　</p>
-<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#119;&#101;&#x6e;&#46;&#107;&#x40;&#102;&#x6f;&#x78;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;">&#119;&#101;&#x6e;&#46;&#107;&#x40;&#102;&#x6f;&#x78;&#x6d;&#97;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;</a></p>
+<h1 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h1><p>　　<a href="mailto:&#x77;&#101;&#110;&#46;&#x6b;&#x40;&#102;&#x6f;&#120;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#x77;&#101;&#110;&#46;&#x6b;&#x40;&#102;&#x6f;&#120;&#109;&#97;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a></p>
 ]]></content>
       <categories>
         <category>一个筐</category>
@@ -14379,11 +14379,9 @@ layout: &quot;categories&quot;
 #tag同此
 </code></pre>
 <p>三、写文章时开头添加categories和tags代码</p>
-<pre><code>categories: &quot;学习&quot;
-tags: 
-        - Hexo
-        - 弯路
+<pre><code>updated: 2022-07-25 13:22:46
 </code></pre>
+<p>categories: “学习”<br>    tags:<br>            - Hexo<br>            - 弯路</p>
 <hr>
 <p>结束！</p>
 ]]></content>
