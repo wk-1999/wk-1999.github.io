@@ -17,9 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>【最近】我的论文致谢</title>
-    <link href="https://wk-1999.github.io/2024/04/14/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2/"/>
-    <id>https://wk-1999.github.io/2024/04/14/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%88%91%E7%9A%84%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2/</id>
+    <title>【最近】论文致谢</title>
+    <link href="https://wk-1999.github.io/2024/04/14/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2/"/>
+    <id>https://wk-1999.github.io/2024/04/14/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E8%AE%BA%E6%96%87%E8%87%B4%E8%B0%A2/</id>
     <published>2024-04-14T06:06:40.000Z</published>
     <updated>2024-04-14T06:06:40.000Z</updated>
     
@@ -103,7 +103,7 @@
     <link href="https://wk-1999.github.io/2024/04/01/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%97%A0%E6%B3%95%E5%81%9C%E6%AD%A2%E7%9A%84%E5%B9%BB%E6%83%B3/"/>
     <id>https://wk-1999.github.io/2024/04/01/%E3%80%90%E6%9C%80%E8%BF%91%E3%80%91%E6%97%A0%E6%B3%95%E5%81%9C%E6%AD%A2%E7%9A%84%E5%B9%BB%E6%83%B3/</id>
     <published>2024-04-01T03:15:27.000Z</published>
-    <updated>2024-04-12T08:15:27.000Z</updated>
+    <updated>2024-04-16T08:15:27.000Z</updated>
     
     
     <summary type="html">加密文章</summary>
@@ -118,6 +118,8 @@
     <category term="徘徊录" scheme="https://wk-1999.github.io/tags/%E5%BE%98%E5%BE%8A%E5%BD%95/"/>
     
     <category term="选择" scheme="https://wk-1999.github.io/tags/%E9%80%89%E6%8B%A9/"/>
+    
+    <category term="王家卫" scheme="https://wk-1999.github.io/tags/%E7%8E%8B%E5%AE%B6%E5%8D%AB/"/>
     
   </entry>
   
@@ -453,9 +455,9 @@
     <category term="鸿爪" scheme="https://wk-1999.github.io/categories/%E4%BA%BA%E7%94%9F%E5%BF%BD%E7%84%B6/%E9%B8%BF%E7%88%AA/"/>
     
     
-    <category term="漂流" scheme="https://wk-1999.github.io/tags/%E6%BC%82%E6%B5%81/"/>
-    
     <category term="在路上" scheme="https://wk-1999.github.io/tags/%E5%9C%A8%E8%B7%AF%E4%B8%8A/"/>
+    
+    <category term="漂流" scheme="https://wk-1999.github.io/tags/%E6%BC%82%E6%B5%81/"/>
     
   </entry>
   
