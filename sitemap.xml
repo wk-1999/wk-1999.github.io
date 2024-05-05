@@ -1790,13 +1790,6 @@
   </url>
   
   <url>
-    <loc>https://wk-1999.github.io/tags/%E4%BD%B3%E5%8F%A5/</loc>
-    <lastmod>2024-05-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wk-1999.github.io/tags/%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/</loc>
     <lastmod>2024-05-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1812,6 +1805,13 @@
   
   <url>
     <loc>https://wk-1999.github.io/tags/%E5%85%A8%E6%96%87/</loc>
+    <lastmod>2024-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wk-1999.github.io/tags/%E4%BD%B3%E5%8F%A5/</loc>
     <lastmod>2024-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1867,14 +1867,14 @@
   </url>
   
   <url>
-    <loc>https://wk-1999.github.io/tags/%E5%8F%8D%E6%80%9D/</loc>
+    <loc>https://wk-1999.github.io/tags/%E6%84%9F%E6%83%85/</loc>
     <lastmod>2024-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://wk-1999.github.io/tags/%E6%84%9F%E6%83%85/</loc>
+    <loc>https://wk-1999.github.io/tags/%E5%8F%8D%E6%80%9D/</loc>
     <lastmod>2024-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
