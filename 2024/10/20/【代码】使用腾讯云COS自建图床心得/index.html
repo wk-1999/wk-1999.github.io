@@ -234,7 +234,7 @@ var _hmt = _hmt || [];
 <p><strong>注意：</strong></p>
 <p>通过PicGo上传腾讯云COS时，不能在规则中用斜线<code>/</code>，否则会在COS文件列表中出现文件夹套文件的情况，每一个<code>/</code>都会生成一层文件夹。</p>
 <p>所以我目前设置的规则为：</p>
-<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;hash&#125;-&#123;origin&#125;-&#123;y&#125;&#123;m&#125;&#123;d&#125;</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;y&#125;&#123;m&#125;&#123;d&#125;-&#123;hash&#125;-&#123;origin&#125;</span><br></pre></td></tr></table></figure>
 
 <h1 id="费用"><a href="#费用" class="headerlink" title="费用"></a>费用</h1><p>腾讯云COS的费用主要分为三部分：存储容量、存储请求、下行流量。在有效周期内，只要用不完，就不必额外付费，而且存储请求、下行流量每月重置用量。</p>
 <p>个人图床使用强度不高，均购买最低规格资源包，10月20日-11月20日第一个周期月内的用量如表：</p>
